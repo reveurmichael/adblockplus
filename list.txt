@@ -1738,5 +1738,7 @@ google.com.hk##.hcuDkb.zbp8B
 google.com.hk###qslc
 google.com.hk##.v6U7rf
 google.com.hk##.XQIMve.wSFoM.z1asCe.SaPW2b
-
+gitee.com##div[class="item donate-container"]
+gitee.com##div[class="item fork-container"]
+gitee.com##div[class="item star-container"]
 
