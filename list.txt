@@ -1134,7 +1134,6 @@ wenku.baidu.com##.tips-wrap
 wenku.baidu.com##.tool-bar-wrapper.fade-in
 wenku.baidu.com##.vip-card-inner.inner-vip
 wenku.baidu.com##.vip-pop-wrap.inner-vip
-youtube.com###button
 youtube.com###chat
 youtube.com###chips
 youtube.com###country-code
