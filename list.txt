@@ -1741,4 +1741,9 @@ google.com.hk##.XQIMve.wSFoM.z1asCe.SaPW2b
 gitee.com##div[class="item donate-container"]
 gitee.com##div[class="item fork-container"]
 gitee.com##div[class="item star-container"]
+gitee.com##.register-guide
+gitee.com###user-no-license-message
+stats.stackexchange.com###noscript-warning
+youtube.com###guide-inner-content
+youtube.com###guide-content
 
