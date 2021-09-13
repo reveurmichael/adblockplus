@@ -2,7 +2,6 @@
 ||youtube.com/live_chat_replay
 ||youtube.com/live_chat_replay?continuation=op2w0wRiGlhDaWtxSndvWVZVTkxOV1ZDZEhWdmFsOUlhMlJZUzBoT2JVSk1RVmhuRWd0alFYVldXa1pvYVhwU1ZSb1Q2cWpkdVFFTkNndGpRWFZXV2tab2FYcFNWU0FCQAFyAggEeAE%253D
 ||youtube.com/live_chat_replay?continuation=op2w0wRiGlhDaWtxSndvWVZVTkxOV1ZDZEhWdmFsOUlhMlJZUzBoT2JVSk1RVmhuRWdzd2RVUkJVRzlKUTBWQ1p4b1Q2cWpkdVFFTkNnc3dkVVJCVUc5SlEwVkNaeUFCQAFyAggEeAE%253D
-youtube.com###button
 youtube.com###chat
 youtube.com###chips
 youtube.com###country-code
@@ -56,3 +55,8 @@ youtube.com##.ytp-videowall-still.ytp-suggestion-set
 youtube.com###voice-search-button
 youtube.com###guide-inner-content
 youtube.com###guide-content
+youtube.com##.style-scope.ytd-toggle-button-renderer.style-text
+youtube.com##.style-scope.ytd-toggle-button-renderer
+youtube.com###sentiment
+youtube.com##.style-scope.ytd-menu-renderer
+youtube.com###expand-icon

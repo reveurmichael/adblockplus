@@ -1745,4 +1745,11 @@ gitee.com###user-no-license-message
 stats.stackexchange.com###noscript-warning
 youtube.com###guide-inner-content
 youtube.com###guide-content
+youtube.com##.style-scope.ytd-toggle-button-renderer.style-text
+youtube.com##.style-scope.ytd-toggle-button-renderer
+youtube.com###sentiment
+youtube.com##.style-scope.ytd-menu-renderer
+youtube.com###expand-icon
+
+
 
