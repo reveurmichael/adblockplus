@@ -1752,7 +1752,6 @@ youtube.com##.style-scope.ytd-menu-renderer
 youtube.com###expand-icon
 linkedin.com###ember40
 linkedin.com##.pv-profile-sticky-header.pv-profile-sticky-header--is-showing.pv-profile-sticky-header--hidden.ember-view
-youtube.com##.style-scope.ytd-page-manager
 youtube.com###guide-wrapper
 youtube.com##.style-scope.tp-yt-app-drawer
 youtube.com###guide
