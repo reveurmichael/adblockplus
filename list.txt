@@ -1755,5 +1755,22 @@ linkedin.com##.pv-profile-sticky-header.pv-profile-sticky-header--is-showing.pv-
 youtube.com###guide-wrapper
 youtube.com##.style-scope.tp-yt-app-drawer
 youtube.com###guide
+google.com.hk##.iblpc
+stackoverflow.com##svg[class="va-text-bottom o50 svg-icon iconPencilSm"]
+youtube.com##div[id="mouseover-overlay"]
+youtube.com##div[id="hover-overlays"]
+geeksforgeeks.org##.modal-content
+geeksforgeeks.org##.login-modal-div
+google.com.hk##.r21Kzd.cye-lm-tag
+google.com.hk##.r21Kzd
+||tutorialspoint.com/cplusplus/images/logo.png
+google.com##.fl.iUh30
+tutorialspoint.com##.mui-btn.mui-btn--primary.categories
+tutorialspoint.com##.right-menu
+tutorialspoint.com###logo-menu
+tutorialspoint.com##.mui-appbar.mui-container-fulid.mui--appbar-line-height.mui--z1
+geeksforgeeks.org##.modal-content
+geeksforgeeks.org##.login-modal-div
+tutorialspoint.com##.mui-container-fluid.button-borders
 
 
