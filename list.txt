@@ -1772,5 +1772,4 @@ tutorialspoint.com##.mui-appbar.mui-container-fulid.mui--appbar-line-height.mui-
 geeksforgeeks.org##.modal-content
 geeksforgeeks.org##.login-modal-div
 tutorialspoint.com##.mui-container-fluid.button-borders
-
-
+superuser.com##svg[class="va-text-bottom o50 svg-icon iconPencilSm"]
