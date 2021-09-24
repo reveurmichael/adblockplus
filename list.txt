@@ -1935,8 +1935,35 @@ stackexchange.com##.warm
 stackexchange.com##.hot
 stackexchange.com##.js-bookmark-btn.s-btn.s-btn__unset.c-pointer.py4.js-gps-track
 stackexchange.com##svg[class="va-text-bottom o50 svg-icon iconPencilSm"]
-
-
+leetcode.com##.swiper-container.swiper-container-initialized.swiper-container-horizontal.swiper-container-pointer-events.\-m-2.p-2
+leetcode.com##.hidden.space-y-4.md\:block
+leetcode.com##.mt-4.md\:sticky.md\:top-3.px-4.pt-2.pb-4.shadow-level1.dark\:shadow-dark-level1.bg-overlay-3.dark\:bg-dark-overlay-3.rounded-lg
+leetcode.com##.col-span-4.md\:col-span-1
+google.com.hk##.xTFaxe.IjabWd.z1asCe.SaPW2b
+google.com.hk##.LAWljd
+google.com##.LAWljd
+leetcode.com##.ant-popover-inner-content
+||google.com/images/branding/googlelogo/2x/googlelogo_light_color_272x92dp.png
+||google.com/images/branding/googlelogo/2x/*.png
+google.com.hk##.logo
+google.com.hk##.xTFaxe.IjabWd.z1asCe.SaPW2b
+google.com.hk##.LAWljd
+cn.bing.com##.mic_cont.icon
+cn.bing.com###search_icon
+cn.bing.com##.search.icon.tooltip
+linkedin.com##.msg-overlay-list-bubble.ml4
+linkedin.com##.artdeco-carousel__content
+linkedin.com###expanded-footer
+linkedin.com##.global-footer__container
+linkedin.com###ember291
+linkedin.com##.artdeco-carousel.ember-view
+linkedin.com###ember158
+linkedin.com##.pv-profile-section.pv-skills-prompt.pv-top-skills.artdeco-container-card.artdeco-card.ember-view
+linkedin.com##.pv4.display-flex.align-items-center.artdeco-card.pv1.ph0.mb2
+blog.csdn.net##.column-group-item.column-group0
+blog.csdn.net##.column-group-item.column-group1
+linkedin.com##.pv-recommendations-section__rec-action-secondary.artdeco-button.artdeco-button--tertiary.artdeco-button--muted.ember-view
+linkedin.com##.pv-recommendations-section__rec-action-primary.artdeco-button.artdeco-button--secondary.ml2.ember-view
 
 
 
