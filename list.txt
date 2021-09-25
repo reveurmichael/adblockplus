@@ -1964,7 +1964,19 @@ blog.csdn.net##.column-group-item.column-group0
 blog.csdn.net##.column-group-item.column-group1
 linkedin.com##.pv-recommendations-section__rec-action-secondary.artdeco-button.artdeco-button--tertiary.artdeco-button--muted.ember-view
 linkedin.com##.pv-recommendations-section__rec-action-primary.artdeco-button.artdeco-button--secondary.ml2.ember-view
-
+stackexchange.com##.new-contributor-indicator.fc-medium.py6.px8.bbr-sm
+leetcode.com##div[data-key="solution"]
+leetcode.com##.fixed.right-4.bottom-4.md\:right-\[30px\].md\:bottom-\[31px\].z-overlay
+leetcode.com##.flex.items-center.ml-auto
+leetcode.com##.hidden.lg\:block.bg-fill-3.dark\:bg-dark-fill-3.hover\:bg-fill-2.dark\:hover\:bg-dark-fill-2.transition-colors.py-1\.5.px-3.mr-3.rounded.cursor-pointer
+leetcode.com##.relative.border-opacity-0.dark\:border-opacity-0.flex.items-center.pb-3.text-base.leading-\[22px\].cursor-pointer.text-brand-orange.border-brand-orange
+leetcode.com##.text-gray-6.dark\:text-dark-gray-6.hover\:bg-fill-4.dark\:hover\:bg-dark-fill-4.focus\:bg-fill-4.dark\:focus\:bg-dark-fill-4.rounded.p-1.relative.focus\:text-primary-s.dark\:focus\:text-primary-s.group.focus\:outline-none.active\:text-primary-s.dark\:active\:text-primary-s
+leetcode.com##.inline-flex.flex-shrink-0.items-center.pl-2\.5.ml-auto.cursor-pointer
+leetcode.com##.flex.items-center.space-x-1.outline-none.cursor-pointer.self-end.mb-1\.5.whitespace-nowrap.leading-\[20px\].text-label-3.dark\:text-dark-label-3
+leetcode.com##.hover\:text-label-1.dark\:hover\:text-dark-label-1.leading-none.inline.whitespace-nowrap.my-2.md\:my-0.border-r.border-dark-label-3.last\:border-none.pr-3.mr-3
+leetcode.com##.text-label-3.dark\:text-dark-label-3.mr-5.mb-2.md\:mb-0
+baidu.com##div[class="bdsug bdsug-new"]
+cn.bing.com###ev_talkbox_max
 
 
 
