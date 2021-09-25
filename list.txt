@@ -1977,6 +1977,59 @@ leetcode.com##.hover\:text-label-1.dark\:hover\:text-dark-label-1.leading-none.i
 leetcode.com##.text-label-3.dark\:text-dark-label-3.mr-5.mb-2.md\:mb-0
 baidu.com##div[class="bdsug bdsug-new"]
 cn.bing.com###ev_talkbox_max
+askubuntu.com###announcement-banner
+askubuntu.com###btnFollowPost-41650253
+askubuntu.com###footer
+askubuntu.com###js-gdpr-consent-banner
+askubuntu.com###left-sidebar
+askubuntu.com###noscript-warning
+askubuntu.com###post-form
+askubuntu.com###sidebar
+askubuntu.com##.\-marketing-link.js-gps-track.js-products-menu
+askubuntu.com##.bg-black-025.bs-sm.bt.bc-black-100.ps-fixed.l0.r0.b0.z-nav.js-dismissable-hero
+askubuntu.com##.bg-black-025.bs-sm.bt.bc-black-3.ps-fixed.l0.r0.b0.z-nav.js-dismissable-hero
+askubuntu.com##.bottom-notice
+askubuntu.com##.ff-sans.ps-fixed.z-nav-fixed.ws4.sm\:w-auto.p32.bg-black-750.fc-white.bar-lg.b16.l16.r16.js-consent-banner
+askubuntu.com##.grid--cell.s-btn.s-btn__muted.s-btn__outlined
+askubuntu.com##.grid.d-flex.gs8.s-anchors.s-anchors__muted.fw-wrap
+askubuntu.com##.grid.gs16.md\:fd-column.new-login-form
+askubuntu.com##.grid.jc-space-between.wmx12.mx-auto.px16.py8
+askubuntu.com##.js-add-answer-component.post-form
+askubuntu.com##.js-add-link.comments-link.disabled-link
+askubuntu.com##.js-announcement-banner.bg-black-700.fc-white.ff-sans.fs-body2.py2
+askubuntu.com##.js-announcement-banner.bg-blue-500.fc-white.ff-sans.fs-body2.py2
+askubuntu.com##.js-post-issue.grid--cell.s-btn.s-btn__unset.c-pointer.py6.mx-auto
+askubuntu.com##.js-share-link.js-gps-track
+askubuntu.com##.js-suggest-edit-post.js-gps-track
+askubuntu.com##.left-sidebar--sticky-container.js-sticky-leftnav
+askubuntu.com##.left-sidebar.js-pinned-left-sidebar.ps-relative
+askubuntu.com##.list-reset.grid.gs4
+askubuntu.com##.login-link.s-btn.s-btn__filled.py8.js-gps-track
+askubuntu.com##.login-link.s-btn.s-btn__primary.py8
+askubuntu.com##.p8.ff-sans.ps-fixed.b0.l0.r0.z-banner
+askubuntu.com##.post-tag
+askubuntu.com##.s-btn.s-btn__link.js-follow-post.js-follow-answer.js-gps-track
+askubuntu.com##.show-votes
+askubuntu.com##.site-footer.js-footer
+askubuntu.com##.top-bar.js-top-bar.top-bar__network
+askubuntu.com##.top-bar.js-top-bar.top-bar__network._fixed
+askubuntu.com##.user-info
+askubuntu.com##.user-info.user-hover
+askubuntu.com##.wmx12.mx-auto.grid.ai-center.h100
+askubuntu.com##.ws-nowrap.s-btn.s-btn__primary
+askubuntu.com##.flex--item.s-btn.s-btn__muted.s-btn__outlined
+askubuntu.com##.s-notice.s-notice__info.js-post-notice.mb16
+askubuntu.com##.mt16.d-flex.gs8.gsy.fw-wrap.jc-end.ai-start.pt4.mb16
+askubuntu.com##.d-flex.gs8.s-anchors.s-anchors__muted.fw-wrap
+askubuntu.com##.js-post-issue.flex--item.s-btn.s-btn__unset.c-pointer.py6.mx-auto
+askubuntu.com##.cool
+askubuntu.com##.warm
+askubuntu.com##.hot
+askubuntu.com##.js-bookmark-btn.s-btn.s-btn__unset.c-pointer.py4.js-gps-track
+askubuntu.com##svg[class="va-text-bottom o50 svg-icon iconPencilSm"]
+
+
+
 
 
 
