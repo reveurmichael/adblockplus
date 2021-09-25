@@ -2027,7 +2027,11 @@ askubuntu.com##.warm
 askubuntu.com##.hot
 askubuntu.com##.js-bookmark-btn.s-btn.s-btn__unset.c-pointer.py4.js-gps-track
 askubuntu.com##svg[class="va-text-bottom o50 svg-icon iconPencilSm"]
-
+bing.com.cn##div[id="b_icon_spyglass"]
+cn.bing.com##div[id="b_icon_spyglass"]
+bing.com##div[id="b_icon_spyglass"]
+cn.bing.com##img[alt="Global web icon"]
+cn.bing.com##.tipContainer.b_cards
 
 
 
