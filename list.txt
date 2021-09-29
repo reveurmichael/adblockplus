@@ -2032,7 +2032,82 @@ cn.bing.com##div[id="b_icon_spyglass"]
 bing.com##div[id="b_icon_spyglass"]
 cn.bing.com##img[alt="Global web icon"]
 cn.bing.com##.tipContainer.b_cards
-
+cn.bing.com##.tipContainer.b_cards
+cn.bing.com##img[alt="Global web icon"]
+bing.com##div[id="b_icon_spyglass"]
+cn.bing.com##div[id="b_icon_spyglass"]
+bing.com.cn##div[id="b_icon_spyglass"]
+leetcode.com##.actions__1sP6
+leetcode.com##.css-92dq4s
+leetcode.com##.sorts__3Wh1
+leetcode.com##.comment-count__28iT
+leetcode.com##.header___QdN
+leetcode.com##.editor__2AvG
+leetcode.com##.root__3XxC
+cn.bing.com###gototop_btn
+cn.bing.com###gototop_root
+cn.bing.com##.gototop_root_left
+cn.bing.com###est_switch
+dict.youdao.com##.dialog-guide-download.win-download
+google.com##.AUiS2
+||google.com/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png
+blog.csdn.net##.passport-login-mark
+cnblogs.com###sidebar
+cnblogs.com###topMnu
+cnblogs.com##.postmetadata
+leetcode.com##div[data-key="debugger"]
+stackoverflow.com##.mod-flair
+leetcode.com##div[class="flex items-center pb-3"]
+leetcode.com##.relative.border-opacity-0.dark\:border-opacity-0.flex.items-center.pb-3.text-base.leading-\[22px\].cursor-pointer.text-label-2.dark\:text-dark-label-2.hover\:text-label-1.dark\:hover\:text-dark-label-1
+leetcode.com##.flex.items-center.pb-3.text-base.leading-\[22px\].cursor-pointer.text-label-2.dark\:text-dark-label-2.hover\:text-label-1.dark\:hover\:text-dark-label-1.undefined.border-opacity-0.dark\:border-opacity-0
+leetcode.com##.flex.items-center.space-x-4.py-3.relative.pl-4.my-4.\-ml-4.overflow-hidden
+leetcode.com##.flex.ml-\[-10px\].my-\[-10px\].overflow-hidden.relative.flex-nowrap
+leetcode.com##.flex.items-center.pl-2.font-normal.cursor-pointer.h-9.bg-paper.dark\:bg-dark-paper
+leetcode.com##.w-fill.flex.flex-row.items-center.h-full
+leetcode.com##button[id="headlessui-popover-button-18"]
+leetcode.com##.pl-1.mb-0\.5
+leetcode.com##.inline-flex.items-center.rounded.m-1.px-2.py-\[3px\].whitespace-nowrap.text-xs.leading-normal.text-label-1.dark\:text-dark-label-1.bg-fill-3.dark\:bg-dark-fill-3
+leetcode.com##.relative.flex.space-x-5.lg\:space-x-7.h-\[50px\].items-end
+leetcode.com##.fixed.md\:relative.w-full.z-nav-1.flex.items-center.bg-paper.dark\:bg-dark-gray-3.px-5.h-\[50px\].shadow-level1.dark\:shadow-dark-level1
+cplusplus.com###I_userbuttons
+cplusplus.com###I_userid
+cplusplus.com###I_bottom
+runoob.com##.col.logo
+runoob.com##.runoob.cf
+runoob.com###s
+runoob.com##.placeholder
+runoob.com##div[class="col search search-desktop last"]
+runoob.com##div[class="container logo-search"]
+runoob.com###runoob-detail-nav
+runoob.com##.pc-nav
+runoob.com##.col.nav
+runoob.com##.fa.fa-moon-o
+runoob.com##.previous-next-links
+docs.microsoft.com###affixed-right-container
+docs.microsoft.com##.doc-outline.position-fixed.is-vertically-scrollable
+docs.microsoft.com##.font-size-s.right-container.column.is-one-quarter.is-one-fifth-desktop.is-hidden-mobile.is-hidden-tablet-only
+docs.microsoft.com##.button.is-text.has-inner-focus.is-icon-only-touch.is-small
+docs.microsoft.com##.docs-sign-in.auth-status-determined.not-authenticated
+docs.microsoft.com##.alert.choose-feedback-type
+docs.microsoft.com##.buttons.is-centered.has-background-linethrough
+docs.microsoft.com###feedback
+docs.microsoft.com##.title.is-3.has-margin-top-large
+frdic.com###main-logo
+frdic.com##.header-content
+frdic.com##.hot_search_header
+frdic.com##.hot_ting
+frdic.com##.nav
+frdic.com##.dc-download
+frdic.com###downComponent
+frdic.com###recent-sought
+frdic.com###prom
+frdic.com###header-logo
+frdic.com##.nav-bar
+frdic.com###topBtn
+frdic.com###weiboBtn
+frdic.com###scrollToTop
+frdic.com###DTsubMTAwMDk2
+||leetcode.com/_next/static/images/logo-ff2b712834cf26bf50a5de58ee27bcef.png
 
 
 
