@@ -2133,8 +2133,17 @@ frdic.com###header
 frdic.com##.tag
 frdic.com###masker
 frdic.com##.fixPos
-
-
+google.com##.AUiS2
+google.com##.eT0zNe
+google.com##.JJZKK.Wui1sd
+bilibili.com##.bilibili-player-ending-panel-box-recommend-cover
+bilibili.com##.bilibili-player-ending-panel-box-recommend
+bilibili.com###v_tag
+bilibili.com##.s_tag.report-wrap-module.report-scroll-module
+google.com.hk##.SenEzd.TXKQpd.mIKy0c.OSrXXb.dGWpb
+google.com.hk##.aEkOAd
+google.com##.SenEzd.TXKQpd.mIKy0c.OSrXXb.dGWpb
+google.com##.aEkOAd
 
 
 
