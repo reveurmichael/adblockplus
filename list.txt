@@ -2108,8 +2108,31 @@ frdic.com###weiboBtn
 frdic.com###scrollToTop
 frdic.com###DTsubMTAwMDk2
 ||leetcode.com/_next/static/images/logo-ff2b712834cf26bf50a5de58ee27bcef.png
-
-
+frdic.com##div[id="ads"]
+frdic.com###header
+frdic.com##.sp_input_placeholder
+frdic.com##a[href="http://www.mimifr.com"]
+frdic.com##a[href="http://study.xineurope.com/"]
+frdic.com##a[href="/payment/frenchfriend"]
+frdic.com##div[id="customize-tabs"]
+frdic.com###DRMjkxMzEy
+frdic.com###DTtopMjkxMzEy
+frdic.com###noteRelate
+frdic.com###exp-rating
+frdic.com###exp-note-login
+frdic.com##.word-thumbnail-container
+frdic.com##a[target="_blank"]
+frdic.com##.ads_linktxt
+frdic.com###correct
+frdic.com##.selectTransControl
+frdic.com##.ui-tabs-nav.ui-helper-reset.ui-helper-clearfix.ui-widget-header.ui-corner-all
+frdic.com##.tab-toggler
+frdic.com##.tabs-history
+frdic.com##.voice-js.voice-button.livePronun
+frdic.com###header
+frdic.com##.tag
+frdic.com###masker
+frdic.com##.fixPos
 
 
 
