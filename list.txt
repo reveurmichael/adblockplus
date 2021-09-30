@@ -2144,7 +2144,23 @@ google.com.hk##.SenEzd.TXKQpd.mIKy0c.OSrXXb.dGWpb
 google.com.hk##.aEkOAd
 google.com##.SenEzd.TXKQpd.mIKy0c.OSrXXb.dGWpb
 google.com##.aEkOAd
-
+baidu.com##div[class="c-img c-img-circle c-gap-right-xsmall"]
+google.com##.AUiS2
+google.com##.eT0zNe
+google.com##.JJZKK.Wui1sd
+bilibili.com##.bilibili-player-ending-panel-box-recommend-cover
+bilibili.com##.bilibili-player-ending-panel-box-recommend
+bilibili.com###v_tag
+bilibili.com##.s_tag.report-wrap-module.report-scroll-module
+google.com.hk##.SenEzd.TXKQpd.mIKy0c.OSrXXb.dGWpb
+google.com.hk##.aEkOAd
+fr.wikipedia.org###p-lang-btn-checkbox
+fr.wikipedia.org##.mw-interlanguage-selector.vector-menu-checkbox
+fr.wikipedia.org###p-lang-btn-label
+fr.wikipedia.org##.vector-menu-heading.mw-ui-button.mw-ui-quiet
+fr.wikipedia.org###bandeau-portail
+fr.wikipedia.org##.bandeau-portail
+baidu.com##.c-color-t.c-gap-bottom.rs-normal-label_1H-ax
 
 
 
