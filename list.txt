@@ -2222,4 +2222,8 @@ google.com.hk###msc
 google.com.hk##.F3dFTe
 google.com.hk##.S4UV0.r2fjmd.pAbhZc.ouy7Mc.cB4NFc.GUHazd
 google.com.hk##.fbar.M6hT6.As6eLe
-
+stackoverflow.com##span[title="Moderator"]
+*.stackexchange.com##span[title="Moderator"]
+leetcode.com##.container__2AdV
+youtube.com##.ytp-cards-teaser-text
+askubuntu.com##span[title="Moderator"]
