@@ -2161,6 +2161,49 @@ fr.wikipedia.org##.vector-menu-heading.mw-ui-button.mw-ui-quiet
 fr.wikipedia.org###bandeau-portail
 fr.wikipedia.org##.bandeau-portail
 baidu.com##.c-color-t.c-gap-bottom.rs-normal-label_1H-ax
-
+google.com##.AUiS2
+google.com##.eT0zNe
+google.com##.JJZKK.Wui1sd
+bilibili.com##.bilibili-player-ending-panel-box-recommend-cover
+bilibili.com##.bilibili-player-ending-panel-box-recommend
+bilibili.com###v_tag
+bilibili.com##.s_tag.report-wrap-module.report-scroll-module
+google.com.hk##.SenEzd.TXKQpd.mIKy0c.OSrXXb.dGWpb
+google.com.hk##.aEkOAd
+fr.wikipedia.org###p-lang-btn-checkbox
+fr.wikipedia.org##.mw-interlanguage-selector.vector-menu-checkbox
+fr.wikipedia.org###p-lang-btn-label
+fr.wikipedia.org##.vector-menu-heading.mw-ui-button.mw-ui-quiet
+fr.wikipedia.org###bandeau-portail
+fr.wikipedia.org##.bandeau-portail
+baidu.com##.c-color-t.c-gap-bottom.rs-normal-label_1H-ax
+baidu.com##div[class="c-img c-img-circle c-gap-right-xsmall"]
+google.com##g-img[class="QyR1Ze BA0A6c"]
+baidu.com##.menu-area.menu-newsearch-v2
+baidu.com##div[style="overflow: hidden;background: #fff;"]
+baidu.com##.r1145181024c
+baidu.com##.c-container._1u8e2.c-gap-inner-bottom.cardContainer__2CXQ2.cardContainer2__1_SM4.card-d20__1jOSg
+baidu.com##div[style="position: fixed; bottom: 0px; left: 0px; z-index: 300; width: 100%; height: 52px; background: rgb(255, 255, 255); opacity: 1; border-top: 1px solid rgb(224, 224, 224); display: flex;"]
+google.com##.qIE9I
+google.com###SBmmZd
+google.com##.KojFAc
+google.com##.LXauYe
+google.com##.HK0d3e
+google.com###qslc
+google.com##.v6U7rf
+google.com##.hdtb-mitem.hdtb-msel
+google.com##.hdtb-mitem
+google.com###hdtb-tls
+google.com##.t2vtad
+google.com###hdtb-sc
+google.com##.Zgesjc
+google.com###msc
+google.com##.F3dFTe
+google.com##.S4UV0.r2fjmd.pAbhZc.ouy7Mc.cB4NFc.GUHazd
+google.com##.fbar.M6hT6.As6eLe
+m.youtube.com##.pivot-bar-item-tab.pivot-explore
+m.youtube.com##.pivot-bar-item-tab.pivot-library
+m.youtube.com##.pivot-bar-item-tab.pivot-w2w
+m.youtube.com##.scwnr-content
 
 
