@@ -672,10 +672,6 @@ javatpoint.com##div[style="margin-top:5px;text-align:center"]
 javatpoint.com##div[style="width:100%;margin-top:10px;color:white;background-image: linear-gradient(145deg,#52a2fc,#480fcc);line-height:28px;"]
 javatpoint.com##h2[style="padding:60px 0px 0px 20px"]
 javatpoint.com##p[style="padding:0px 20px 60px 20px"]
-jd.com###J_fs_act_lk
-jd.com###header
-jd.com##.fs_act_lk
-jd.com##.fs_col1
 jetbrains.com##.jetbrains-cookies-banner__body
 jianshu.com###comment-53746234
 jianshu.com##.QxT4hD
@@ -1011,13 +1007,6 @@ superuser.com##.py24.bg-black-750.fc-black-200.sm\:pt24.sm\:pb24.ps-relative.js-
 superuser.com##.show-votes
 superuser.com##.site-footer--container
 superuser.com##.ws-nowrap.s-btn.s-btn__primary
-taobao.com###J_SiteNavBd
-taobao.com##.main-inner.clearfix
-taobao.com##.member
-taobao.com##.member-bd
-taobao.com##.nav.J_Nav.clearfix.tb-bg
-taobao.com##.site-nav-bd
-taobao.com##.top.J_Top
 techiedelight.com###blog_subscription-7
 techiedelight.com###eu-cookie-law
 techiedelight.com###footer
@@ -1105,35 +1094,6 @@ weibo.com###plc_frame
 weibo.com##.WB_footer.S_bg2
 weibo.com##.WB_global_nav.WB_global_nav_v2.UI_top_hidden
 weibo.com##.WB_main.clearfix
-wenku.baidu.com###color-plate
-wenku.baidu.com###right-wrapper-id
-wenku.baidu.com##.bar-content
-wenku.baidu.com##.bottom-theme-select-wrap
-wenku.baidu.com##.bottom-theme-wrap-mask
-wenku.baidu.com##.color-plate
-wenku.baidu.com##.copy-limit-dialog
-wenku.baidu.com##.copyright-wrap
-wenku.baidu.com##.detail-content
-wenku.baidu.com##.doc-btns-wrap
-wenku.baidu.com##.footer
-wenku.baidu.com##.full-screen.tool-btn.pure-tool-btn
-wenku.baidu.com##.inner.wk-web-2270-b
-wenku.baidu.com##.propagation-wrapper
-wenku.baidu.com##.reader-copy-button
-wenku.baidu.com##.reader-qrcode-button
-wenku.baidu.com##.reader-search-button
-wenku.baidu.com##.reader-translate-button
-wenku.baidu.com##.right-box
-wenku.baidu.com##.right-wrapper.no-full-screen
-wenku.baidu.com##.search-tab-content
-wenku.baidu.com##.slide-wrapper
-wenku.baidu.com##.theme-list
-wenku.baidu.com##.tip-wrap
-wenku.baidu.com##.tips
-wenku.baidu.com##.tips-wrap
-wenku.baidu.com##.tool-bar-wrapper.fade-in
-wenku.baidu.com##.vip-card-inner.inner-vip
-wenku.baidu.com##.vip-pop-wrap.inner-vip
 youtube.com###chat
 youtube.com###chips
 youtube.com###country-code
