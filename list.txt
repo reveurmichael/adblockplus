@@ -2205,5 +2205,21 @@ m.youtube.com##.pivot-bar-item-tab.pivot-explore
 m.youtube.com##.pivot-bar-item-tab.pivot-library
 m.youtube.com##.pivot-bar-item-tab.pivot-w2w
 m.youtube.com##.scwnr-content
-
+google.com.hk##.qIE9I
+google.com.hk###SBmmZd
+google.com.hk##.KojFAc
+google.com.hk##.LXauYe
+google.com.hk##.HK0d3e
+google.com.hk###qslc
+google.com.hk##.v6U7rf
+google.com.hk##.hdtb-mitem.hdtb-msel
+google.com.hk##.hdtb-mitem
+google.com.hk###hdtb-tls
+google.com.hk##.t2vtad
+google.com.hk###hdtb-sc
+google.com.hk##.Zgesjc
+google.com.hk###msc
+google.com.hk##.F3dFTe
+google.com.hk##.S4UV0.r2fjmd.pAbhZc.ouy7Mc.cB4NFc.GUHazd
+google.com.hk##.fbar.M6hT6.As6eLe
 
