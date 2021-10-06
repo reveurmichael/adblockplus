@@ -2,7 +2,7 @@
 ! Version:
 ! Title:
 ! Last modified:
-! Expires: 14 days (update frequency)
+! Expires: 1 days (update frequency)
 ! Homepage:
 !
 ||accounts.google.com/gsi/iframe/select
