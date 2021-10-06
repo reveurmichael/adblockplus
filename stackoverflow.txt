@@ -49,3 +49,4 @@ stackoverflow.com##.hot
 stackoverflow.com##.js-bookmark-btn.s-btn.s-btn__unset.c-pointer.py4.js-gps-track
 stackoverflow.com##svg[class="va-text-bottom o50 svg-icon iconPencilSm"]
 stackoverflow.com##span[title="Moderator"]
+stackoverflow.com##.s-banner.s-banner__warning.ps-static

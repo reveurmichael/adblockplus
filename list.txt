@@ -2237,3 +2237,11 @@ superuser.com##.warm
 superuser.com##.hot
 superuser.com##.js-bookmark-btn.s-btn.s-btn__unset.c-pointer.py4.js-gps-track
 superuser.com##svg[class="va-text-bottom o50 svg-icon iconPencilSm"]
+stackoverflow.com##.s-banner.s-banner__warning.ps-static
+cnblogs.com###sideCatalog-catalog
+cnblogs.com###sideToolbar
+frdic.com##.content.referenceWidth
+frdic.com##.search-button
+stackexchange.com##.s-banner.s-banner__warning.ps-static
+*.stackexchange.com##.s-banner.s-banner__warning.ps-static
+
