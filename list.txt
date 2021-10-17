@@ -2244,4 +2244,21 @@ frdic.com##.content.referenceWidth
 frdic.com##.search-button
 stackexchange.com##.s-banner.s-banner__warning.ps-static
 *.stackexchange.com##.s-banner.s-banner__warning.ps-static
-
+baidu.com###s_side_wrapper
+geeksforgeeks.org##.textBasedMannualAds
+google.com.hk##.eMLgL.Inwu4e
+bilibili.com##.unlogin-avatar
+bilibili.com##.user-con
+bilibili.com##.trending-item
+bilibili.com##.header
+bilibili.com##.suggest-wrap.header-search-suggest
+bilibili.com##div[class="b-logo b-wrap"]
+baidu.com###rs_new
+baidu.com##.rs-normal-width_2T91A
+toptal.com##.blog_post-sidebar
+toptal.com##.section.has-standard_width.is-primary-background
+baidu.com##.side-entry.aging-entry
+codereview.stackexchange.com##.js-bounty-award.flex--item.s-badge.s-badge__bounty.s-badge__sm.as-center
+baidu.com##.side-entry.aging-entry
+baidu.com###s_qrcode_nologin
+baidu.com##.qrcode-nologin.side-entry
