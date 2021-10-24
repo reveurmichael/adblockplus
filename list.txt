@@ -2262,3 +2262,10 @@ codereview.stackexchange.com##.js-bounty-award.flex--item.s-badge.s-badge__bount
 baidu.com##.side-entry.aging-entry
 baidu.com###s_qrcode_nologin
 baidu.com##.qrcode-nologin.side-entry
+google.com.hk##.RBevQb.iUh30
+google.com.hk##.mfMhoc
+cn.bing.com###qs_searchBox
+cn.bing.com##.b_traits.b_primtxt
+
+
+
