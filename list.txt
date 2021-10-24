@@ -2266,6 +2266,22 @@ google.com.hk##.RBevQb.iUh30
 google.com.hk##.mfMhoc
 cn.bing.com###qs_searchBox
 cn.bing.com##.b_traits.b_primtxt
-
+leetcode.com##.btn__3Y3g.fancy-btn__2prB.primary__lqsj.light__3AfA.btn__1z2C.btn-xs__3fYh
+leetcode.com##.css-9sdfuf
+leetcode.com##.ant-notification-notice.ant-notification-notice-closable
+medium.com##.ca.lw.aho.ag
+google.com.hk##.a9nkvf
+google.com.hk##.szppmdbYutt__middle-slot-promo
+google.com.hk##.jZWadf
+||images.gitee.com/uploads/images/2021/1013/181749_a2d7925e_1850385.png
+bilibili.com##.nav-menu
+bilibili.com##.mini-header.m-header.mini-type
+gitee.com##.menu.transition.visible
+learndatasci.com##.header-cta
+learndatasci.com##.navbar.navbar-fixed-top.active-bar.stuck
+learndatasci.com##.blog-category-tag
+learndatasci.com###IndexNav
+learndatasci.com##.stuck-nav
+learndatasci.com##.index-wrapper
 
 
