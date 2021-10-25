@@ -2283,5 +2283,5 @@ learndatasci.com##.blog-category-tag
 learndatasci.com###IndexNav
 learndatasci.com##.stuck-nav
 learndatasci.com##.index-wrapper
-
+||www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js
 
