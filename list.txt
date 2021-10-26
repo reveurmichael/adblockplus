@@ -2294,4 +2294,21 @@ edureka.co##.blog-category-title.d-none.d-xl-block.d-lg-block
 edureka.co##.author-details.d-inline-block
 edureka.co##.breadcrumb.no-padding
 edureka.co##.scroll-to-top
+geeksforgeeks.org##.article-page_sidebar-head
+geeksforgeeks.org##.sideBar
+geeksforgeeks.org##.article--viewer_bookmark.tooltip
+geeksforgeeks.org##.article--viewer_like.tooltip
+w3schools.com##.w3-clear.nextprev
+programiz.com##.topmenu
+programiz.com##.left-bar.left-bar--large-r-margin.d-none.d-lg-block
+programiz.com##.btn.align-items-center.btn--toc
+programiz.com##.main-nav.d-flex.flex-column.justify-content-center.main-nav--fixed
+
+
+
+
+
+
+
+
 
