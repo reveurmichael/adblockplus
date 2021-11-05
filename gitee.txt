@@ -1,0 +1,67 @@
+||gitee.com/assets/gitee_8th/mascot.png
+||gitee.com/assets/gitee_8th/gitee_8th@2x.gif
+||gitee.com/assets/gitee_8th/balloon_right@2x.png
+||gitee.com/assets/gitee_8th/balloon_left@2x.png
+gitee.com/gitee-8th/#/?utm_source=nav
+gitee.com/gitee-8th/#
+gitee.com##.notice-count.total.visible
+gitee.com##.ui.info.message.no-license
+gitee.com##.iconfont.icon-recommend.recommend-icon
+gitee.com###comment_error_message
+gitee.com###git-footer-main
+gitee.com##.side-toolbar
+gitee.com##.recommend-block.recommend-user
+gitee.com##.recommend-projects
+gitee.com##.recommend-block.recent_visits
+gitee.com##.ui.info.message.add-readme-tip
+gitee.com##.side-item.release
+gitee.com##.side-item.intro
+gitee.com###contributor
+gitee.com##.side-item.contrib
+gitee.com##.ui.floating.dropdown.pull-right.active
+gitee.com##.event-actionbar
+gitee.com##.gitee-stars-main-widget.pendan-widget
+gitee.com##.iconfont.icon-face-smile
+gitee.com##.report.js-note-report
+gitee.com##.bio
+gitee.com##.social-name
+gitee.com##a[style="display: block; position: fixed; box-sizing: border-box; font-size: 13px; color: rgb(255, 255, 255); text-align: center; cursor: pointer; text-decoration: none; z-index: 1000000000; right: 0px; bottom: 0px; margin: 18px 20px 263px 18px;"]
+gitee.com##.users__personal-avatar
+gitee.com##.over-avatar
+gitee.com##.item.gitosc-logo.gitee-8th
+gitee.com##.gitee-mascot
+gitee.com###git-avatar-settings
+gitee.com##.social-count
+gitee.com##.ui.button.star
+gitee.com##.basic.buttons.star-container.ui
+gitee.com##.ui.dropdown.button.js-project-watch.active
+gitee.com##.ui.checkbox.js-check-star
+gitee.com###feature-update-notice
+gitee.com##.ui.popup.my-star-collection-popup.bottom.left.transition.visible
+gitee.com##.content.my-star-collection.pb-1.pt-1.visible
+gitee.com###gitee-blog
+gitee.com###gitee-enterprise
+gitee.com###explore
+gitee.com###gitee-explore
+gitee.com###enterprise
+gitee.com###udesk_iframe
+gitee.com###udesk_panel
+gitee.com###udesk-client-btn
+gitee.com###udesk_btn
+gitee.com###gitee-nav__sidebar
+gitee.com###item.gitosc-logo
+gitee.com###div[class="item gitosc-logo"]
+gitee.com##div[class="item gitosc-logo"]
+gitee.com##.iconfont.icon-remind
+gitee.com###notice-dropdown
+gitee.com##a[id="gitee-blog"]
+gitee.com##a[title="Education"]
+gitee.com##a[title="Enterprise"]
+gitee.com##a[title="Gitee Premium"]
+gitee.com##a[title="Explore"]
+gitee.com##div[class="item donate-container"]
+gitee.com##div[class="item fork-container"]
+gitee.com##div[class="item star-container"]
+gitee.com##.register-guide
+gitee.com###user-no-license-message
+||images.gitee.com/uploads/images/2021/1013/181749_a2d7925e_1850385.png

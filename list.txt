@@ -2276,7 +2276,6 @@ google.com.hk##.jZWadf
 ||images.gitee.com/uploads/images/2021/1013/181749_a2d7925e_1850385.png
 bilibili.com##.nav-menu
 bilibili.com##.mini-header.m-header.mini-type
-gitee.com##.menu.transition.visible
 learndatasci.com##.header-cta
 learndatasci.com##.navbar.navbar-fixed-top.active-bar.stuck
 learndatasci.com##.blog-category-tag
