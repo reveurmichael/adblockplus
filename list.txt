@@ -2373,6 +2373,8 @@ jianshu.com##div[class="_19DgIp"]
 jianshu.com##div[id="_u6558800_p8eq6acyqc"]
 jianshu.com##section[aria-label="baidu-ad"]
 javatpoint.com##.gra1
+stats.stackexchange.com##span[title="Moderator"]
+*.stackexchange.com##span[title="Moderator"]
 javatpoint.com##.hrhomebox
 topjavatutorial.com###masthead
 topjavatutorial.com##.site-header
