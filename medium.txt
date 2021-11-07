@@ -74,3 +74,4 @@ medium.com##.aq.ar.as.at.au.av.aw.w
 medium.com##.tb.sp.s
 medium.com##.so.sp.s
 medium.com##.lp.s.lq.lr
+medium.com##.xm

@@ -2513,7 +2513,8 @@ blog.jupyter.org##.aq.ar.as.at.au.av.aw.w
 blog.jupyter.org##.tb.sp.s
 blog.jupyter.org##.so.sp.s
 blog.jupyter.org##.lp.s.lq.lr
-
+medium.com##.xm
+blog.jupyter.org##.xm
 
 
 
