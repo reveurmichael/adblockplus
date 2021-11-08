@@ -2656,7 +2656,30 @@ refactoring.guru##.breadcrumb
 refactoring.guru##.banner-inner
 refactoring.guru##.prom.banner-content.banner-bg.banner-striped.banner-with-image.ga-triggered
 ||refactoring.guru/images/content-public/logos/logo*.png
-
+medium.com##.zv.bw.q.zw.zx
+medium.com##.bw.kz.zt.an
+zhuanlan.zhihu.com##.Modal-backdrop
+zhuanlan.zhihu.com##.Qrcode-container.smallVersion
+zhuanlan.zhihu.com##.Modal-wrapper.undefined.Modal-enter-done
+zhuanlan.zhihu.com##.Voters
+zhuanlan.zhihu.com##.AuthorInfo-head
+zhuanlan.zhihu.com##.AuthorInfo-badge
+zhuanlan.zhihu.com##.AuthorInfo
+quora.com##.q-click-wrapper.qu-p--tiny.qu-pl--small.qu-alignItems--center.qu-userSelect--none.qu-display--flex.qu-tapHighlight--white.qu-cursor--pointer.qu-hover--bg--darken.ClickWrapper___StyledClickWrapperBox-zoqi4f-0.bIwtPb
+quora.com##.q-box.qu-display--flex.qu-flexDirection--column
+quora.com##.q-relative.qu-display--flex.qu-flexDirection--column
+quora.com##.q-flex.qu-flexDirection--column
+quora.com##.q-fixed.qu-bg--raised.qu-display--flex.qu-flexDirection--column.qu-borderTopLeftRadius--small.qu-borderTopRightRadius--small.DesktopMessagesDock___StyledFixed-sc-1bh1698-0.gvqfSM
+quora.com##.q-click-wrapper.qu-active--textDecoration--none.qu-focus--textDecoration--none.ClickWrapper___StyledClickWrapperBox-zoqi4f-0.bIwtPb.base___StyledClickWrapper-lx6eke-1.dczqNg.qu-borderRadius--pill.qu-alignItems--center.qu-justifyContent--center.qu-whiteSpace--nowrap.qu-userSelect--none.qu-display--inline-flex.qu-bg--blue_light.qu-tapHighlight--white.qu-textAlign--center.qu-cursor--pointer.qu-hover--textDecoration--none
+medium.com##.au.b.em.en.ff.tz.fh.fi.fj.fk.fl.ez.fm.fn.fo.fp.fq.fr.fs.co.ft.fu
+medium.com##.au.b.em.en.ay.mr.ba.bb.ms.bd.be.gk
+medium.com##.ft.hj.bw.ay.ba
+medium.com##.au.av.mn.en.bf.bq.cz
+medium.com##.pc.pf.s.pe.bk
+medium.com##.ov.ow.s.hg
+medium.com##.mt.bi.ot.oa.s.ou.z
+medium.com##.au.b.fe.od.gk.oe.of.fu.s.gd
+medium.com##.ey.bu
 
 
 
