@@ -2680,8 +2680,12 @@ medium.com##.ov.ow.s.hg
 medium.com##.mt.bi.ot.oa.s.ou.z
 medium.com##.au.b.fe.od.gk.oe.of.fu.s.gd
 medium.com##.ey.bu
-
-
+github.com##.position-relative.d-flex.flex-row-reverse.flex-lg-row.flex-wrap.flex-lg-nowrap.flex-justify-center.flex-lg-justify-between.pt-6.pb-2.mt-6.f6.color-fg-muted.border-top.color-border-muted
+github.com##.d-flex.js-sticky.js-position-sticky.top-0.border-top-0.border-bottom.p-2.flex-items-center.flex-justify-between.color-bg-default.rounded-top-2.is-stuck
+coderedirect.com###bsa-zone_1635365692192-6_123456
+coderedirect.com##.banner
+coderedirect.com##.twohalf.column
+coderedirect.com##.cd-top.cd-is-visible
 
 
 
