@@ -3073,7 +3073,42 @@ images.##.szppmdbYutt__middle-slot-promo
 ##.UXerFf
 ##.YoZiHf
 ##.e2BEnf.U7izfe.hWIMdd
-
+howtogeek.com###masthead
+howtogeek.com##.site-header.nav-down
+linuxize.com##.hidden.xl\:flex.flex-col.justify-between.sticky.top-16.pt-12.pb-4.\-mt-12.w-full
+linuxize.com##.flex.flex-col.md\:flex-row.text-xs.font-medium.text-gray-700.dark\:text-gray-300
+linuxize.com##.flex.flex-1.min-w-0.text-sm.\-mb-px
+linuxize.com##.w-full.flex.justify-start.mx-auto.items-center.h-12.md\:h-16
+linuxize.com##.flex.items-center.justify-center.lg\:justify-between.text-center.lg\:text-left.flex-wrap.py-8.w-full.max-w-screen-xl.mx-auto
+linuxize.com##.flex.flex-col.h-full.w-full
+linuxize.com##.w-full.max-w-article.mx-auto.mt-8.pt-8.border-t.border-gray-200.dark\:border-gray-800
+linuxize.com##.w-full.max-w-5xl.mx-auto.mt-8.pt-8.border-t.border-gray-200.dark\:border-gray-800
+linuxize.com##.disqus-load.disqus-comment-count.block.text-center.w-full.bg-gray-100.dark\:bg-gray-800.py-4.md\:py-8
+linuxize.com##.code-copy.button.main.small
+geeksforgeeks.org##.meta
+computerworld.com##.oc-head-inner
+computerworld.com###ft3
+computerworld.com##.tertiary
+computerworld.com##.brand
+computerworld.com##.copyright
+computerworld.com##.amzn-custom-header
+computerworld.com##.article-intercept
+##.cd.b.fc.cf.uq
+##.ug.uh.nz.n.eu.g
+##.ud.s.ue.uf
+##.cd.in.ri.rj.iq.rk.rl.it.rm.rn.ix.ro.rp.jb.rq.rr.jf.es
+##.pd.pe.s
+##.ly.bg.nx.ne.s.ny.z
+##.cd.b.fc.cf.fm.lw.fo.fp.fq.fr.fs.ba.ft.fu.fv.fw.fx.fy.fz.dc.ga.gb
+##.MXl0lf.mtqGb
+##.mIKy0c.OSrXXb.dGWpb
+##.T4joj.dhERQc
+##.sfbg
+google.com.hk##.sfbg
+towardsdatascience.com##.vj.s.vk.vl
+##.vj.s.vk.vl
+towardsdatascience.com##.bf.b.bg.bh.ne.bj.nf.ng.ff.nh.fi.bq.br.bs.ni.fl.bw.bx.by.bz.ca.cb
+##.bf.b.bg.bh.ne.bj.nf.ng.ff.nh.fi.bq.br.bs.ni.fl.bw.bx.by.bz.ca.cb
 
 
 
