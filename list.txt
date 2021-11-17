@@ -3045,6 +3045,9 @@ data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAoklEQVR42m
 google.com.hk##.kmjBcc
 google.com##.kmjBcc
 ##.kmjBcc
-
+youtube.com##yt-icon[class="style-scope ytd-searchbox"]
+##yt-icon[class="style-scope ytd-searchbox"]
+google.com.hk##.Tg7LZd
+##.Tg7LZd
 
 
