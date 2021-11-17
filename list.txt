@@ -3049,5 +3049,5 @@ youtube.com##yt-icon[class="style-scope ytd-searchbox"]
 ##yt-icon[class="style-scope ytd-searchbox"]
 google.com.hk##.Tg7LZd
 ##.Tg7LZd
-
-
+google.com##.G6rEVc
+##.G6rEVc
