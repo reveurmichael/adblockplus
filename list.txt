@@ -2527,7 +2527,6 @@ towardsdatascience.com##.mq.n
 towardsdatascience.com##.vd
 towardsdatascience.com##.ih.s.ik
 towardsdatascience.com##.qq.qr.qs.qp.s.qt.qu
-towardsdatascience.com##.au.av.aw.ax.ay.az.ba.v
 towardsdatascience.com##.v.n.cy
 towardsdatascience.com##.n.cp.hh.hi.hj
 towardsdatascience.com##.wn.wo.wp.wq.pl.wr.yt
@@ -3212,6 +3211,24 @@ towardsdatascience.com##.n.cy
 ##.n.cy
 towardsdatascience.com##.xz.s
 ##.xz.s
+github.com##.dropdown.details-overlay.details-reset.d-inline-block.new-reactions-dropdown.reactions-menu.js-reaction-popover-container.js-comment-header-reaction-button
+##.dropdown.details-overlay.details-reset.d-inline-block.new-reactions-dropdown.reactions-menu.js-reaction-popover-container.js-comment-header-reaction-button
+github.com##.discussion-sidebar-item.sidebar-notifications
+google.com##.a1DBFd
+##.a1DBFd
+towardsdatascience.com##.bf.b.bg.bh.hj.bj.fv.py.pz.qa.qb.bq.bw.qc.bx.by.bz.ca.cb
+##.bf.b.bg.bh.hj.bj.fv.py.pz.qa.qb.bq.bw.qc.bx.by.bz.ca.cb
+towardsdatascience.com##.nf.s.ng.nh
+##.nf.s.ng.nh
+towardsdatascience.com##.n.ao.jx.ct
+##.n.ao.jx.ct
+towardsdatascience.com###regwall-sign-in-copy
+towardsdatascience.com##.mi
+##.mi
+towardsdatascience.com##.ms.mt.mu
+##.ms.mt.mu
+towardsdatascience.com##.ol.om.v.s.at.on
+##.ol.om.v.s.at.on
 
 
 
