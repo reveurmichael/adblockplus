@@ -3115,7 +3115,6 @@ medium.com##.sz.s
 medium.com##.bp.b.fw.br.nb
 medium.com##.bp.la.lb.lc.do.na
 medium.com##.n.nc.nd.ne.nf.ng.nh.ni.nj.nk.nl.fg
-medium.com##.ab.ac.ae.af.ag.ah.ai.aj
 medium.com##.mm.s.mn.mo
 medium.com##.gw.gk.act.bd
 medium.com##.mr.vc.s.fk
