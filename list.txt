@@ -3111,7 +3111,38 @@ medium.com##.ea.b.eb.ec.bb.rt.eg.eh.ru.ej.ek.ge
 ##.ea.b.eb.ec.bb.rt.eg.eh.ru.ej.ek.ge
 medium.com##.ea.jf.jp.ec.cs.dq.cl
 ##.ea.jf.jp.ec.cs.dq.cl
-
+medium.com#?#p:-abp-has(> a:abp-contains(Help))
+medium.com#?#div:-abp-has(> p:-abp-has(> a:abp-contains(Help)))
+medium.com#?#div:abp-has(> div:-abp-has(> p:-abp-has(> a:abp-contains(Help))))
+medium.com#?#div:abp-has(> div:abp-has(> div:-abp-has(> p:-abp-has(> a:abp-contains(Help)))))
+medium.com#?#div:abp-has(> div:abp-has(> div:abp-has(> div:-abp-has(> p:-abp-has(> a:abp-contains(Help))))))
+medium.com#?#.p:-abp-has(> a:abp-contains(Help))
+medium.com#?#.div:-abp-has(> p:-abp-has(> a:abp-contains(Help)))
+medium.com#?#.div:abp-has(> div:-abp-has(> p:-abp-has(> a:abp-contains(Help))))
+medium.com#?#.div:abp-has(> div:abp-has(> div:-abp-has(> p:-abp-has(> a:abp-contains(Help)))))
+medium.com#?#.div:abp-has(> div:abp-has(> div:abp-has(> div:-abp-has(> p:-abp-has(> a:abp-contains(Help))))))
+||googleapis.com^$domain=geeksforgeeks.com
+||googleapis.com^$domain=medium.com
+||cdn-client.medium.com/lite/static/js/*.js
+||medium.com/*.js
+medium.com##.ea.b.eb.ec.ks
+##.ea.b.eb.ec.ks
+medium.com##.ea.b.eb.ec.ez.jy.fb.fc.fd.fe.ff.et.fg.fh.fi.fj.fk.fl.fm.ca.fn.fo
+##.ea.b.eb.ec.ez.jy.fb.fc.fd.fe.ff.et.fg.fh.fi.fj.fk.fl.fm.ca.fn.fo
+medium.com##.ea.b.eb.ec.bb.rt.eg.eh.ru.ej.ek.ge
+##.ea.b.eb.ec.bb.rt.eg.eh.ru.ej.ek.ge
+medium.com##.ea.jf.jp.ec.cs.dq.cl
+##.ea.jf.jp.ec.cs.dq.cl
+medium.com##.va.ss.n.jm.p
+medium.com##.vb.ss.n.jm.p
+medium.com##.dy.dz.ca.cb.cc.cd.ce.cf.cg.bm.mo.mp.ch.mq.mr
+##.dy.dz.ca.cb.cc.cd.ce.cf.cg.bm.mo.mp.ch.mq.mr
+medium.com##.dy.dz.ca.cb.cc.cd.ce.cf.cg.bm.na.ch.mq.mr
+##.dy.dz.ca.cb.cc.cd.ce.cf.cg.bm.na.ch.mq.mr
+medium.com##.ah.n.o.ay.ck.cl.cm.cn.co.cp
+##.ah.n.o.ay.ck.cl.cm.cn.co.cp
+medium.com##.np.nq.n.ck.nr
+##.np.nq.n.ck.nr
 
 
 
