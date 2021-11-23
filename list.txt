@@ -3123,8 +3123,8 @@ medium.com#?#.div:abp-has(> div:abp-has(> div:-abp-has(> p:-abp-has(> a:abp-cont
 medium.com#?#.div:abp-has(> div:abp-has(> div:abp-has(> div:-abp-has(> p:-abp-has(> a:abp-contains(Help))))))
 ||googleapis.com^$domain=geeksforgeeks.com
 ||googleapis.com^$domain=medium.com
-||cdn-client.medium.com/lite/static/js/*.js
-||medium.com/*.js
+||cdn-client.mediummmm.com/lite/static/js/*.js
+||mediummmm.com/*.js
 medium.com##.ea.b.eb.ec.ks
 ##.ea.b.eb.ec.ks
 medium.com##.ea.b.eb.ec.ez.jy.fb.fc.fd.fe.ff.et.fg.fh.fi.fj.fk.fl.fm.ca.fn.fo
