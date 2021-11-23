@@ -3111,16 +3111,16 @@ medium.com##.ea.b.eb.ec.bb.rt.eg.eh.ru.ej.ek.ge
 ##.ea.b.eb.ec.bb.rt.eg.eh.ru.ej.ek.ge
 medium.com##.ea.jf.jp.ec.cs.dq.cl
 ##.ea.jf.jp.ec.cs.dq.cl
-medium.com#?#p:-abp-has(> a:abp-contains(Help))
-medium.com#?#div:-abp-has(> p:-abp-has(> a:abp-contains(Help)))
-medium.com#?#div:abp-has(> div:-abp-has(> p:-abp-has(> a:abp-contains(Help))))
-medium.com#?#div:abp-has(> div:abp-has(> div:-abp-has(> p:-abp-has(> a:abp-contains(Help)))))
-medium.com#?#div:abp-has(> div:abp-has(> div:abp-has(> div:-abp-has(> p:-abp-has(> a:abp-contains(Help))))))
-medium.com#?#.p:-abp-has(> a:abp-contains(Help))
-medium.com#?#.div:-abp-has(> p:-abp-has(> a:abp-contains(Help)))
-medium.com#?#.div:abp-has(> div:-abp-has(> p:-abp-has(> a:abp-contains(Help))))
-medium.com#?#.div:abp-has(> div:abp-has(> div:-abp-has(> p:-abp-has(> a:abp-contains(Help)))))
-medium.com#?#.div:abp-has(> div:abp-has(> div:abp-has(> div:-abp-has(> p:-abp-has(> a:abp-contains(Help))))))
+medium.com#?#p:-abp-has(> a:-abp-contains(Help))
+medium.com#?#div:-abp-has(> p:-abp-has(> a:-abp-contains(Help)))
+medium.com#?#div:abp-has(> div:-abp-has(> p:-abp-has(> a:-abp-contains(Help))))
+medium.com#?#div:abp-has(> div:abp-has(> div:-abp-has(> p:-abp-has(> a:-abp-contains(Help)))))
+medium.com#?#div:abp-has(> div:abp-has(> div:abp-has(> div:-abp-has(> p:-abp-has(> a:-abp-contains(Help))))))
+medium.com#?#.p:-abp-has(> a:-abp-contains(Help))
+medium.com#?#.div:-abp-has(> p:-abp-has(> a:-abp-contains(Help)))
+medium.com#?#.div:abp-has(> div:-abp-has(> p:-abp-has(> a:-abp-contains(Help))))
+medium.com#?#.div:abp-has(> div:abp-has(> div:-abp-has(> p:-abp-has(> a:-abp-contains(Help)))))
+medium.com#?#.div:abp-has(> div:abp-has(> div:abp-has(> div:-abp-has(> p:-abp-has(> a:-abp-contains(Help))))))
 ||googleapis.com^$domain=geeksforgeeks.com
 ||googleapis.com^$domain=medium.com
 medium.com##.ea.b.eb.ec.ks
@@ -3141,7 +3141,17 @@ medium.com##.ah.n.o.ay.ck.cl.cm.cn.co.cp
 ##.ah.n.o.ay.ck.cl.cm.cn.co.cp
 medium.com##.np.nq.n.ck.nr
 ##.np.nq.n.ck.nr
-
+medium.com#?#p:-abp-contains(Help)
+medium.com#?#p:-abp-contains(Hackathons)
+medium.com#?#div:-abp-has(> p:-abp-contains(Homepage))
+medium.com#?#div:-abp-has(> p:-abp-contains(Follow the writers))
+medium.com#?#div:-abp-has(> a:-abp-contains(Help))
+medium.com#?#div:-abp-contains(Help)
+medium.com#?#div:-abp-contains(Hackathons) medium.com#?#p:-abp-contains(Hackathons) medium.com#?#:-abp-contains(Hackathons)
+medium.com#?#div:-abp-contains(Hackathons)
+medium.com#?#a:-abp-contains(Help)
+medium.com#?#:-abp-contains(Help)
+medium.com#?#:-abp-contains(Hackathons)
 
 
 
