@@ -3132,9 +3132,17 @@ medium.com#?#div:-abp-properties(will-change: opacity, transform)
 medium.com#?#h2:-abp-contains(More From Medium)
 medium.com#?#div:-abp-properties(max-width: 25%)
 medium.com#?#div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> p:-abp-contains(Legal)))))))
+medium.com#?#div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> p:-abp-contains(Legal)))))
+medium.com#?#div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> p:-abp-contains(Legal))))))
+medium.com#?#div:-abp-has(> div:-abp-has(> div:-abp-has(> p:-abp-contains(Legal))))
+medium.com#?#div:-abp-has(> div:-abp-has(> p:-abp-contains(Legal)))
+medium.com#?#p:-abp-contains(Legal)
 medium.com#?#div:-abp-has(> div > div > div > div > span > div > div > span > button)
 medium.com##div[data-popper-placement="top"]
-
-
+medium.com#?#div:-abp-has(> div > div > div > div > div  > div > span > span > div > div > div > div > span >  button:-abp-contains(Follow))
+medium.com##div[data-popper-placement="top"]
+medium.com#?#div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> p:-abp-contains(post your thinking on any topic)))))))
+medium.com#?#div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> p:-abp-contains(see them on your homepage and)))))))
+medium.com#?#div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> p:-abp-contains(to find insightful and dynamic thinking)))))))
 
 

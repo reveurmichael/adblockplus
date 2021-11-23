@@ -18,6 +18,7 @@ medium.com#?#h2:-abp-contains(More From Medium)
 medium.com#?#div:-abp-properties(max-width: 25%)
 medium.com#?#div:-abp-has(> div > div > div > div > span > div > div > span >  button)
 medium.com##div[data-popper-placement="top"]
+medium.com#?#div:-abp-has(> div > div > div > div > div  > div > span > span > div > div > div > div > span >  button:-abp-contains(Follow))
 
 ```
 ### Not working:
