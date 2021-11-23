@@ -2820,6 +2820,36 @@ frdic.com###head-bk
 frdic.com#?#div:-abp-has(> div[class="content referenceWidth"])
 frdic.com##.hot_search.hot_search_fr
 dict.youdao.com###picUgcImga
+youdao.com###doc2
+youdao.com###footer
+youdao.com###hnwBtn
+youdao.com###margin3
+youdao.com###nav
+youdao.com##.hand-write
+youdao.com##.c-sust
+youdao.com###ads
+youdao.com##.ads
+youdao.com###c_footer
+youdao.com###result_navigator
+youdao.com##.result_navigator
+youdao.com##.c-logo
+youdao.com##.logo
+youdao.com###langText
+youdao.com##.langText
+youdao.com##.arrow
+youdao.com##.aca
+youdao.com###eBaike
+youdao.com##.trans-wrapper.eBaike
+youdao.com##.collapse-content.via
+youdao.com###wordbook
+youdao.com##.add_to_wordbook
+youdao.com##.more-example
+youdao.com##.via.ar
+youdao.com##.via.rank
+youdao.com##.star.star1
+youdao.com##.toggle.toggleOpen
+youdao.com##.dialog-guide-download.win-download
+youdao.com###picUgcImga
 
 
 
