@@ -2,7 +2,6 @@ https://adblockplus.org/filter-cheatsheet
 
 https://help.eyeo.com/adblockplus/how-to-write-filters
 
-## Medium 
 
 ### Working:
 ```text
@@ -19,6 +18,8 @@ medium.com#?#div:-abp-properties(max-width: 25%)
 medium.com#?#div:-abp-has(> div > div > div > div > span > div > div > span >  button)
 medium.com##div[data-popper-placement="top"]
 medium.com#?#div:-abp-has(> div > div > div > div > div  > div > span > span > div > div > div > div > span >  button:-abp-contains(Follow))
+towardsdatascience.com#?#div:-abp-has(> div > div > div > div > div > div > div > span > div > div > div > div[aria-describedby="collectionFollowPopover"])
+
 
 ```
 ### Not working:
