@@ -2814,4 +2814,4 @@ towardsdatascience.com#?#div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-h
 towardsdatascience.com#?#div:-abp-has(> div > div > div > div > div > p:-abp-contains(Legal))
 #?#div:-abp-has(> div > div > div > span > article)
 #?#div:-abp-has(> div > div > div > div > div > p:-abp-contains(Legal))
-
+towardsdatascience.com#?#div:-abp-has(> div > div > div > div > div > div > div > span > div > div > div > div[aria-describedby="collectionFollowPopover"])
