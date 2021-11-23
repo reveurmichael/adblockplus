@@ -3127,14 +3127,11 @@ zhuyulab.blog.csdn.net##.csdn-highschool-window.csdn-highschool-blog-window
 medium.com##.av.b.fc.bz.ub
 ##.av.b.fc.bz.ub
 medium.com#?#div:-abp-has(>div:-abp-has(>div:-abp-has(>div:-abp-has(> div:-abp-has(> div:-abp-has(> p:-abp-contains(expert and undiscovered voices alike dive into)))))))
-medium.com#?#div:-abp-has(>div:-abp-has(> div:-abp-has(> div:-abp-has(> p:-abp-contains(expert and undiscovered voices alike dive into)))))
-medium.com#?#div:-abp-has(>div:-abp-has(>div:-abp-has(> div:-abp-has(> div:-abp-has(> p:-abp-contains(expert and undiscovered voices alike dive into))))))
-medium.com#?#div:-abp-has(> div:-abp-has(> div:-abp-has(> p:-abp-contains(expert and undiscovered voices alike dive into))))
-medium.com#?#div:-abp-has(> div:-abp-has(> p:-abp-contains(expert and undiscovered voices alike dive into)))
-medium.com#?#p:-abp-contains(expert and undiscovered voices alike dive into)
-medium.com#?#div:-abp-properties(background-color: rgba(0, 0, 0, 0.9))
 medium.com#?#div:-abp-properties(background-color: rgb(0, 0, 0))
-
+medium.com#?#div:-abp-properties(will-change: opacity, transform)
+medium.com#?#h2:-abp-contains(More From Medium)
+medium.com#?#div:-abp-properties(max-width: 25%)
+#?#div:-abp-properties(will-change: opacity, transform)
 
 
 
