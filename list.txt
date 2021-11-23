@@ -1005,11 +1005,6 @@ thestatsgeek.com##.comments-area
 thestatsgeek.com##.inside-right-sidebar
 thestatsgeek.com##.site-info
 towardsdatascience.com##.ac.ae.s.af.ag
-towardsdatascience.com##.acs
-towardsdatascience.com##.aex
-towardsdatascience.com##.afg
-towardsdatascience.com##.afl
-towardsdatascience.com##.aft
 towardsdatascience.com##.ak.al.s.am.an
 towardsdatascience.com##.bf.jv.lv.lx.jy.ly.ma.kb.mb.md.kf.me.mg.kj.mh.mj.kn.hi
 towardsdatascience.com##.ca.ec.ahi.ag
@@ -1022,7 +1017,6 @@ towardsdatascience.com##.ed.ee.ce.cf.cg.ch.ci.cj.ck.bq.uv.uw.cl.ux.uy
 towardsdatascience.com##.n.cp.hj.hk.hl
 towardsdatascience.com##.n.cp.hs.ht.hu
 towardsdatascience.com##.pb.pc.pd.pe.pf.pg
-towardsdatascience.com##.pc.s
 towardsdatascience.com##.rz.sa.s
 towardsdatascience.com##.tq.tr.s
 towardsdatascience.com##.tu.abg.n.bc.rg
@@ -1326,11 +1320,8 @@ baidu.com##.op-se-listen-recommend
 book4you.org###footer
 book4you.org###suggestionDropdownContainer
 towardsdatascience.com##.uf.s.ug.uh
-towardsdatascience.com##.sx.sy.s
 towardsdatascience.com##.rg.rh.ri.ki.s.rj.rk
 towardsdatascience.com##.uy.uz.va.vb.qb.vc
-towardsdatascience.com##.cj.ck
-towardsdatascience.com##.pd.pe.s
 towardsdatascience.com##.qa.ny.s.qb
 towardsdatascience.com##.bf.b.pw.bh.dx
 linkedin.com##.scaffold-layout__aside
@@ -1471,7 +1462,6 @@ datascience.stackexchange.com##.ws-nowrap.s-btn.s-btn__primary
 datascience.stackexchange.com##.flex--item.s-btn.s-btn__muted.s-btn__outlined
 datascience.stackexchange.com##.d-flex.gs8.s-anchors.s-anchors__muted.fw-wrap
 datascience.stackexchange.com##.mt16.d-flex.gs8.gsy.fw-wrap.jc-end.ai-start.pt4.mb16
-towardsdatascience.com##.xd
 machinelearningmastery.com###sidebar
 baidu.com###lm-new
 towardsdatascience.com##.zf
@@ -1502,8 +1492,6 @@ geeksforgeeks.org##.darkMode-wrap
 geeksforgeeks.org##.article--viewer_improve.tooltip
 geeksforgeeks.org##.header-main__wrapper
 towardsdatascience.com##.vl.s.vm.vn
-towardsdatascience.com##.abj
-towardsdatascience.com##.jd.s
 towardsdatascience.com##.el.em.ce.cf.cg.ch.ci.cj.ck.bq.en.eo.cl.ep.eq
 dict.youdao.com##.toggle.toggleOpen
 google.com###hpctaplay
@@ -3065,8 +3053,6 @@ towardsdatascience.com##.nf.s.ng.nh
 towardsdatascience.com##.n.ao.jx.ct
 ##.n.ao.jx.ct
 towardsdatascience.com###regwall-sign-in-copy
-towardsdatascience.com##.mi
-towardsdatascience.com##.ms.mt.mu
 ##.ms.mt.mu
 towardsdatascience.com##.ol.om.v.s.at.on
 ##.ol.om.v.s.at.on
