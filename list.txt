@@ -53,8 +53,6 @@
 ||static.javatpoint.com/images/youtube-32.png
 ||youtube.com/live_chat
 ||youtube.com/live_chat_replay
-||youtube.com/live_chat_replay?continuation=op2w0wRiGlhDaWtxSndvWVZVTkxOV1ZDZEhWdmFsOUlhMlJZUzBoT2JVSk1RVmhuRWd0alFYVldXa1pvYVhwU1ZSb1Q2cWpkdVFFTkNndGpRWFZXV2tab2FYcFNWU0FCQAFyAggEeAE%253D
-||youtube.com/live_chat_replay?continuation=op2w0wRiGlhDaWtxSndvWVZVTkxOV1ZDZEhWdmFsOUlhMlJZUzBoT2JVSk1RVmhuRWdzd2RVUkJVRzlKUTBWQ1p4b1Q2cWpkdVFFTkNnc3dkVVJCVUc5SlEwVkNaeUFCQAFyAggEeAE%253D
 ||zh.wikipedia.org/static/images/mobile/copyright/wikipedia-wordmark-zh-hans.svg
 ||google.com/logos/doodles/2021/*
 ||google.com/logos/doodles/.*
@@ -64,8 +62,6 @@
 ||gitee.com/assets/gitee_8th/gitee_8th@2x.gif
 ||gitee.com/assets/gitee_8th/balloon_right@2x.png
 ||gitee.com/assets/gitee_8th/balloon_left@2x.png
-gitee.com/gitee-8th/#/?utm_source=nav
-gitee.com/gitee-8th/#
 360doc.com###adarttopgoogle
 360doc.com###contextmenudiv
 360doc.com###contextmenudivmouseup
@@ -2820,3 +2816,15 @@ towardsdatascience.com#?#div:-abp-has(> div > div > div > div > div > div > div 
 towardsdatascience.com#?#div:-abp-has(> div > div > div > div > div > div > span > a > button > div > span > svg)
 towardsdatascience.com#?#div:-abp-has(> div > div > span > a > svg)
 towardsdatascience.com#?#section:-abp-has(> div > div > div > div > p > span)
+frdic.com###head-bk
+frdic.com#?#div:-abp-has(> div[class="content referenceWidth"])
+frdic.com##.hot_search.hot_search_fr
+
+
+
+
+
+
+
+
+
