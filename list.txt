@@ -3130,14 +3130,6 @@ medium.com##.ah.n.o.ay.ck.cl.cm.cn.co.cp
 ##.ah.n.o.ay.ck.cl.cm.cn.co.cp
 medium.com##.np.nq.n.ck.nr
 ##.np.nq.n.ck.nr
-medium.com#?#p:-abp-contains(Help)
-medium.com#?#p:-abp-contains(Hackathons)
-medium.com#?#div:-abp-has(> p:-abp-contains(Homepage))
-medium.com#?#div:-abp-has(> p:-abp-contains(Follow the writers))
-medium.com#?#div:-abp-has(> a:-abp-contains(Help))
-medium.com#?#div:-abp-contains(Help)
-medium.com#?#div:-abp-contains(Hackathons)
-medium.com#?#a:-abp-contains(Help)
 towardsdatascience.com##.qf.qg.qh.qi.qj.iy.ba.v
 ##.qf.qg.qh.qi.qj.iy.ba.v
 towardsdatascience.com##.xf.xg.xh.xi.pd.xj.xu
@@ -3146,7 +3138,8 @@ zhuyulab.blog.csdn.net###csdn-highschool-window
 zhuyulab.blog.csdn.net##.csdn-highschool-window.csdn-highschool-blog-window
 ###csdn-highschool-window
 ##.csdn-highschool-window.csdn-highschool-blog-window
-
+medium.com##.av.b.fc.bz.ub
+##.av.b.fc.bz.ub
 
 
 
