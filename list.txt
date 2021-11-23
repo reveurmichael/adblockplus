@@ -808,30 +808,6 @@ math.stackexchange.com##.site-header--container
 math.stackexchange.com##.top-bar.js-top-bar.top-bar__network
 math.stackexchange.com##.user-info
 math.stackexchange.com##.wmx12.mx-auto.grid.ai-center.h100
-medium.com##.ak.n.o.al.am
-medium.com##.as.at.n.o
-medium.com##.bi.bj.n.o
-medium.com##.bj.bk.n.o
-medium.com##.bp.az.bq.br.bs.n.bt.g.bu.bv.bw
-medium.com##.lr.n.dd.z
-medium.com##.mk.n.ek.z
-medium.com##.n.dd.de.df.dg
-medium.com##.n.eb.ec.ed.ee
-medium.com##.n.ek.el.em.en
-medium.com##.n.ex.ey.ez.fa
-medium.com##.na.nb.nc.nd.ne.nf
-medium.com##.nm.aq.n.lz.ty
-medium.com##.nq.n.eb.z
-medium.com##.os.bi.n.nf.vm
-medium.com##.qv.s.qw.qx
-medium.com##.rg.s.rh.ri
-medium.com##.se.lh.sf.sd.s.sg.sh
-medium.com##.su.s.sv.sw
-medium.com##.tr.s.ts.tt
-medium.com##.uo.s.up.uq
-medium.com##.ur.s.us.ut
-medium.com##.ur.us.re.n.er.g
-medium.com##.vi.s.vj.vk
 member.bilibili.com##.feedback-container.utils-box
 member.bilibili.com##.totop-container.utils-box
 mp.weixin.qq.com##.rich_media_area_extra
@@ -1004,29 +980,6 @@ techiedelight.com##.widget.widget_blog_subscription.jetpack_subscription_widget
 thestatsgeek.com##.comments-area
 thestatsgeek.com##.inside-right-sidebar
 thestatsgeek.com##.site-info
-towardsdatascience.com##.ac.ae.s.af.ag
-towardsdatascience.com##.ak.al.s.am.an
-towardsdatascience.com##.bf.jv.lv.lx.jy.ly.ma.kb.mb.md.kf.me.mg.kj.mh.mj.kn.hi
-towardsdatascience.com##.ca.ec.ahi.ag
-towardsdatascience.com##.ca.ec.aik.ag
-towardsdatascience.com##.ca.ec.ajq.ag
-towardsdatascience.com##.ca.gp.ag.ld.su
-towardsdatascience.com##.co.n.o.bc.cp.cq.cr.cs.ct.cu
-towardsdatascience.com##.dg.dh.n.o
-towardsdatascience.com##.ed.ee.ce.cf.cg.ch.ci.cj.ck.bq.uv.uw.cl.ux.uy
-towardsdatascience.com##.n.cp.hj.hk.hl
-towardsdatascience.com##.n.cp.hs.ht.hu
-towardsdatascience.com##.pb.pc.pd.pe.pf.pg
-towardsdatascience.com##.rz.sa.s
-towardsdatascience.com##.tq.tr.s
-towardsdatascience.com##.tu.abg.n.bc.rg
-towardsdatascience.com##.ul.abn.n.bc.rx
-towardsdatascience.com##.us.s.ut.uu
-towardsdatascience.com##.va.vb.n.cp.vc.cr
-towardsdatascience.com##.vf.iz.s
-towardsdatascience.com##.xt.s.xu.xv
-towardsdatascience.com##.zw.zx.n.cj.zy
-towardsdatascience.com##.zw.zx.n.cp.zy
 tutorialspoint.com###google-bottom-ads
 tutorialspoint.com###google-right-ads
 tutorialspoint.com###stickyparent
@@ -1319,11 +1272,6 @@ baidu.com##.c-gap-right-small.op-se-listen-recommend
 baidu.com##.op-se-listen-recommend
 book4you.org###footer
 book4you.org###suggestionDropdownContainer
-towardsdatascience.com##.uf.s.ug.uh
-towardsdatascience.com##.rg.rh.ri.ki.s.rj.rk
-towardsdatascience.com##.uy.uz.va.vb.qb.vc
-towardsdatascience.com##.qa.ny.s.qb
-towardsdatascience.com##.bf.b.pw.bh.dx
 linkedin.com##.scaffold-layout__aside
 linkedin.com##.community-panel.artdeco-card.mb2.community-panel--reflow-enabled
 linkedin.com##.link-without-visited-state.global-nav__primary-link.global-nav__primary-link--premium.global-nav__spotlight-upsell
@@ -2858,6 +2806,8 @@ medium.com##div[data-popper-placement="top"]
 medium.com#?#div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> p:-abp-contains(post your thinking on any topic)))))))
 medium.com#?#div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> p:-abp-contains(see them on your homepage and)))))))
 medium.com#?#div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> p:-abp-contains(to find insightful and dynamic thinking)))))))
+medium.com#?#div:-abp-has(> div > div > div > span > article)
+medium.com#?#div:-abp-has(> div > div > div > div > div > p:-abp-contains(Legal))
 towardsdatascience.com#?#div:-abp-has(> div > div > div > span > article)
 towardsdatascience.com#?#div:-abp-properties(background-color: rgb(0, 0, 0))
 towardsdatascience.com#?#div:-abp-properties(will-change: opacity, transform)
@@ -2873,5 +2823,6 @@ towardsdatascience.com##div[data-popper-placement="top"]
 towardsdatascience.com#?#div:-abp-has(> div > div > div > div > div  > div > span > span > div > div > div > div > span > button:-abp-contains(Follow))
 towardsdatascience.com#?#div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> p:-abp-contains(Legal)))))))
 towardsdatascience.com#?#div:-abp-has(> div > div > div > div > div > p:-abp-contains(Legal))
-medium.com#?#div:-abp-has(> div > div > div > div > div > p:-abp-contains(Legal))
+?#div:-abp-has(> div > div > div > span > article)
+#?#div:-abp-has(> div > div > div > div > div > p:-abp-contains(Legal))
 
