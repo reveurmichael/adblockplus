@@ -17,6 +17,7 @@ medium.com#?#div:-abp-properties(will-change: opacity, transform)
 medium.com#?#h2:-abp-contains(More From Medium)
 medium.com#?#div:-abp-properties(max-width: 25%)
 medium.com#?#div:-abp-has(> div > div > div > div > span > div > div > span >  button)
+medium.com##div[data-popper-placement="top"]
 
 ```
 ### Not working:
