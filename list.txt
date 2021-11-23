@@ -2819,7 +2819,7 @@ towardsdatascience.com#?#section:-abp-has(> div > div > div > div > p > span)
 frdic.com###head-bk
 frdic.com#?#div:-abp-has(> div[class="content referenceWidth"])
 frdic.com##.hot_search.hot_search_fr
-
+dict.youdao.com###picUgcImga
 
 
 
