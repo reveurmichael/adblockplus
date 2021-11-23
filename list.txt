@@ -2356,7 +2356,6 @@ medium.com##.bb.b.bc.bd.ky.cf.kz.la.bi.lb.bl.bm.bn.bo.lc.br.bs.bt.bu.bv.bw.bx
 medium.com##.bb.b.bc.bd.ky.bf.kz.la.bi.lb.bl.bm.bn.bo.lc.br.bs.bt.bu.bv.bw.bx
 medium.com##.bb.b.dt.du.gv
 medium.com##.ko.kp.n.ck.kq
-medium.com##.ki.kj.kk
 medium.com##.bb.b.tf.bd.bz
 medium.com##.xn.ro.s.ap
 medium.com##.ug.s.tl.hp
