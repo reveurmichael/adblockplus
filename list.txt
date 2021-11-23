@@ -1412,7 +1412,6 @@ datascience.stackexchange.com##.d-flex.gs8.s-anchors.s-anchors__muted.fw-wrap
 datascience.stackexchange.com##.mt16.d-flex.gs8.gsy.fw-wrap.jc-end.ai-start.pt4.mb16
 machinelearningmastery.com###sidebar
 baidu.com###lm-new
-towardsdatascience.com##.zf
 neptune.ai###cookie-law-info-bar
 neptune.ai##.col-12.col-lg-3.sidebar
 neptune.ai##.header.header--blog
@@ -1432,15 +1431,11 @@ dict.youdao.com##.more-example
 dict.youdao.com##.via.ar
 dict.youdao.com##.via.rank
 dict.youdao.com##.star.star1
-towardsdatascience.com##.js.jt.fy.fw.fx.ju.jv.bf.b.bg.bh.dx
-towardsdatascience.com##.ca.ec.acg.ag
 geeksforgeeks.org##.header-main__container
 geeksforgeeks.org##.rightBar
 geeksforgeeks.org##.darkMode-wrap
 geeksforgeeks.org##.article--viewer_improve.tooltip
 geeksforgeeks.org##.header-main__wrapper
-towardsdatascience.com##.vl.s.vm.vn
-towardsdatascience.com##.el.em.ce.cf.cg.ch.ci.cj.ck.bq.en.eo.cl.ep.eq
 dict.youdao.com##.toggle.toggleOpen
 google.com###hpctaplay
 google.com###hpcta
@@ -1524,9 +1519,6 @@ stackoverflow.com##.js-bookmark-btn.s-btn.s-btn__unset.c-pointer.py4.js-gps-trac
 askubuntu.com##.js-bookmark-btn.s-btn.s-btn__unset.c-pointer.py4.js-gps-track
 scholar.google.com###gs_ab_btns
 stackexchange.com##.js-bookmark-btn.s-btn.s-btn__unset.c-pointer.py4.js-gps-track
-medium.com##.ah.n.o.ay.ck.cl.cm.cn.co.cp
-medium.com##.rv
-medium.com##.ag.ah.s.ai.aj
 superuser.com##.flex--item.fl1.lh-lg
 superuser.com##.s-notice.s-notice__info.js-post-notice.mb16
 blog.csdn.net##.csdn-side-toolbar
@@ -2320,7 +2312,6 @@ blog.quantinsti.com##.share
 blog.quantinsti.com##.custom-card-side-bar
 blog.quantinsti.com##.widget.search.custom-search
 blog.quantinsti.com##.subscribe-custom
-medium.com##.at.au.n.o
 sciencedirect.com##.copyright-line
 sciencedirect.com###gh-branding
 en.wikipedia.org##.cnotice-message-container
@@ -2403,8 +2394,6 @@ refactoring.guru##.breadcrumb
 refactoring.guru##.banner-inner
 refactoring.guru##.prom.banner-content.banner-bg.banner-striped.banner-with-image.ga-triggered
 ||refactoring.guru/images/content-public/logos/logo*.png
-medium.com##.zv.bw.q.zw.zx
-medium.com##.bw.kz.zt.an
 zhuanlan.zhihu.com##.Modal-backdrop
 zhuanlan.zhihu.com##.Qrcode-container.smallVersion
 zhuanlan.zhihu.com##.Modal-wrapper.undefined.Modal-enter-done
