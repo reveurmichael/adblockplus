@@ -2812,6 +2812,6 @@ towardsdatascience.com##div[data-popper-placement="top"]
 towardsdatascience.com#?#div:-abp-has(> div > div > div > div > div  > div > span > span > div > div > div > div > span > button:-abp-contains(Follow))
 towardsdatascience.com#?#div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> p:-abp-contains(Legal)))))))
 towardsdatascience.com#?#div:-abp-has(> div > div > div > div > div > p:-abp-contains(Legal))
-?#div:-abp-has(> div > div > div > span > article)
+#?#div:-abp-has(> div > div > div > span > article)
 #?#div:-abp-has(> div > div > div > div > div > p:-abp-contains(Legal))
 
