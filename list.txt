@@ -2549,7 +2549,6 @@ coderedirect.com##.cd-top.cd-is-visible
 ##.gNO89b
 ##.gb_Xd.gb_Ta.gb_Jd
 ##.gbqfba.gbqfba-hvr
-##div[style="left: 0px; position: absolute; right: 0px; white-space: nowrap; top: -64px;"]
 ##.BwoPOe
 ##.a9nkvf
 ###gs_ftr
@@ -2721,7 +2720,6 @@ computerworld.com##.article-intercept
 ##.T4joj.dhERQc
 ##.sfbg
 google.com.hk##.sfbg
-data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAoklEQVR42mOYmWbMQAZ2AOKZQPwAimdCxeBqyDX0DBD/R8NnkA0nx+CZWAyF4ZmUGPwAj8EPBp3BzkB8mdSgwBfTMkC8EsmAW8RGHq6YPgu14DOUD6IrgNiF2OSGL6ZheDUQyxEbbMREyCcgdiU1kkmKaXIMxhcUlylxMa7Iu0VpGONKbqDYL6ckVRDCZKdjmua84VkI0bQ8plkNQrM6jygMAB3v6HsQDhT7AAAAAElFTkSuQmCC
 google.com.hk##.kmjBcc
 google.com##.kmjBcc
 ##.kmjBcc
@@ -2746,7 +2744,6 @@ google.com##.MjUjnf.VM6qJ
 bilibili.com##div[class="b-logo b-wrap"]
 bilibili.com##div[class="bili-banner"]
 search.bilibili.com##.home-logo
-data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAoklEQVR42mOYeeY/AxnYAYhnAvEDKJ4JFYOrIdfQM0D8Hw2fQTacHINnYjEUhmdSYvADPAY/GHQGOwPxZVKDAl9MywDxSiQDbhEbebhi+izUgs9QPoiuAGIXYpMbvpiG4dVALEdssBETIZ+A2JXUSCYppskxGF9QXKbExbgi7xalYYwruYFiv5ySVEEIk52OaZrzhmchRNPymGY1CM3qPKIwAK03KzD5MN9nAAAAAElFTkSuQmCC
 google.com##.oBa0Fe
 ##.oBa0Fe
 stats.stackexchange.com##.js-bounty-award.flex--item.s-badge.s-badge__bounty.s-badge__sm.as-center
@@ -2816,6 +2813,7 @@ towardsdatascience.com#?#div:-abp-has(> div > div > div > div > div > div > div 
 towardsdatascience.com#?#div:-abp-has(> div > div > div > div > div > div > span > a > button > div > span > svg)
 towardsdatascience.com#?#div:-abp-has(> div > div > span > a > svg)
 towardsdatascience.com#?#section:-abp-has(> div > div > div > div > p > span)
+towardsdatascience.com#?#div:-abp-has(> div > div > div > button > svg > path[fill-rule="evenodd"])
 frdic.com###head-bk
 frdic.com#?#div:-abp-has(> div[class="content referenceWidth"])
 frdic.com##.hot_search.hot_search_fr
@@ -2850,7 +2848,49 @@ youdao.com##.star.star1
 youdao.com##.toggle.toggleOpen
 youdao.com##.dialog-guide-download.win-download
 youdao.com###picUgcImga
-
+towardsdatascience.com#?#div:-abp-has(> div > div > div > button > svg > path[fill-rule="evenodd"])
+google.com##.v5jHUb
+##.v5jHUb
+medium.com##nav
+zh.wikipedia.org###wikipedia_asian_month_2021
+zh.wikipedia.org##.cnotice
+en.wikipedia.org##.cnotice
+zh.wikipedia.org###asn-dismissable-notice
+en.wikipedia.org###asn-dismissable-notice
+wikipedia.org###asn-dismissable-notice
+wikipedia.org###bluedeck_ding
+zh.wikipedia.org##.navbox
+zh.wikipedia.org###sidebarCollapse
+zh.wikipedia.org##.mw-editsection
+wikipedia.org##.mw-editsection
+zh.wikipedia.org##.toctogglespan
+wikipedia.org##.toctogglespan
+zhihu.com##.Modal-backdrop
+zhihu.com##.Modal-wrapper.undefined.Modal-enter-done
+baike.baidu.com##.cmn-btn-28.cmn-btn-hover-blue.audio-play.title-audio-play.J-title-audio-play
+baike.baidu.com##.audio-play.part-audio-play.J-part-audio-play
+baike.baidu.com##.go-auth-box
+mp.weixin.qq.com##.wx_profile.weui-flex
+mp.weixin.qq.com###js_wx_profile_logo
+mp.weixin.qq.com##.wx_profile_card_ft
+google.com##.iblpc
+##.iblpc
+frdic.com##.explain-word-info
+youdao.com##langSelector
+##langSelector
+youdao.com##.c-topbar.c-subtopbar
+youtube.com##.ytp-heat-map-chapter
+en.wikipedia.org###setindexbox
+en.wikipedia.org##.metadata.plainlinks.dmbox.dmbox-setindex
+search.bilibili.com##.login-tip
+bilibili.com##.login-tip
+bilibili.com##.bilibili-player-video-inputbar
+bilibili.com##.desc-info.desc-v2.open
+bilibili.com##.bilibili-player-video-info
+search.bilibili.com##.watch-later-trigger.watch-later
+bilibili.com##.bilibili-player-video-toast-item
+search.bilibili.com##.fold.up
+bilibili.com##.bilibili-player-dm-tip-wrap
 
 
 
