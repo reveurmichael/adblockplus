@@ -2881,8 +2881,11 @@ youdao.com##langSelector
 youdao.com##.c-topbar.c-subtopbar
 youtube.com##.ytp-heat-map-chapter
 en.wikipedia.org###setindexbox
+wikipedia.org###setindexbox
 en.wikipedia.org##.metadata.plainlinks.dmbox.dmbox-setindex
+wikipedia.org##.metadata.plainlinks.dmbox.dmbox-setindex
 search.bilibili.com##.login-tip
+bilibili.com##.login-tip
 bilibili.com##.login-tip
 bilibili.com##.bilibili-player-video-inputbar
 bilibili.com##.desc-info.desc-v2.open
