@@ -2899,6 +2899,7 @@ search.bilibili.com##.watch-later-trigger.watch-later
 bilibili.com##.bilibili-player-video-toast-item
 search.bilibili.com##.fold.up
 bilibili.com##.bilibili-player-dm-tip-wrap
+medium.com#?#div:-abp-has(> div > div > ul > li > a)
 
 
 
