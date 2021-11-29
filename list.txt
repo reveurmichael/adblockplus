@@ -2900,7 +2900,22 @@ bilibili.com##.bilibili-player-video-toast-item
 search.bilibili.com##.fold.up
 bilibili.com##.bilibili-player-dm-tip-wrap
 medium.com#?#div:-abp-has(> div > div > ul > li > a)
-
+qq.com##.global
+m.guancha.cn##.long-pic
+m.guancha.cn##.big-pic
+m.guancha.cn##.swiper-slide.yaowen.swiper-slide-active
+m.guancha.cn##.swiper-slide.shiping.swiper-slide-next
+m.guancha.cn##.swiper-slide.huabian
+m.guancha.cn##.swiper-slide.fengwen
+m.guancha.cn##.swiper-slide.shipin
+m.guancha.cn##.swiper-slide.gundong
+m.guancha.cn##.top-menu-list
+m.guancha.cn##.top-menu
+m.guancha.cn##.index-header
+google.com.hk###hdtb
+google.com.hk##.GLcBOb
+###hdtb
+##.GLcBOb
 
 
 
