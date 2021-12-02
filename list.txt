@@ -2918,7 +2918,15 @@ google.com.hk##.GLcBOb
 ##.GLcBOb
 baidu.com##.hotsearch-item
 baidu.com##.new-pmd.selected-search-box
-
+linuxhint.com###sidebar
+linuxhint.com##.sidebar.right
+linuxhint.com###footer
+linuxhint.com##.site-footer
+linuxhint.com###back-top
+###back-top
+##back-top
+linuxhint.com###header
+linuxhint.com##.main-header
 
 
 
