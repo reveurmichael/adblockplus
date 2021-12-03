@@ -465,10 +465,6 @@ en.wikipedia.org##.noprint
 en.wikipedia.org##.sidebar.nomobile
 en.wikipedia.org##.toctogglespan
 en.wikipedia.org##img[src="//upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/20px-Semi-protection-shackle.svg.png"]
-fr.yahoo.com###Masterwrap
-fr.yahoo.com###header-wrapper
-fr.yahoo.com##.Bgc\(\#fff\).Bdbc\(t\).Bdbs\(s\).Bdbw\(1px\).D\(tb\).Pos\(f\).Tbl\(f\).W\(100\%\).Z\(4\).has-scrolled_Bdc\(\$c-fuji-grey-d\).Scrolling_Bdc\(\$c-fuji-grey-d\).has-scrolled_Bxsh\(\$headerShadow\).Scrolling_Bxsh\(\$headerShadow\)
-fr.yahoo.com##.C\(\#4d00ae\).Fz\(14px\).Fw\(b\).Lh\(2\.1\).Pos\(r\).Td\(n\).Td\(u\)\:h
 geeksforgeeks.org###comment
 geeksforgeeks.org###footer
 geeksforgeeks.org###ide_link
@@ -800,13 +796,6 @@ math.stackexchange.com##.wmx12.mx-auto.grid.ai-center.h100
 member.bilibili.com##.feedback-container.utils-box
 member.bilibili.com##.totop-container.utils-box
 mp.weixin.qq.com##.rich_media_area_extra
-news.yahoo.com###UH-0-Header
-news.yahoo.com###YDC-Lead
-news.yahoo.com##.Bgc\(\#fff\).Cur\(p\).Pos\(f\).Start\(0\).End\(0\).T\(0\).B\(0\)
-news.yahoo.com##.Bgc\(\$bg-body\).Mih\(100\%\).W\(100\%\).news.US
-news.yahoo.com##.Miw\(1024px\).End\(0\).Start\(0\).Trs\(shadowTransition\).UH.Z\(10\).Bdt\(customBorderTop\).MegaTheme.Py\(14px\).Bdbs\(s\).Bdw\(1px\).Bdc\(\$c-divider\).Trstf\(eo\).Trsde\(0s\).Trsdu\(0\.13s\).Trsp\(a\).Bgc\(\#fff\).T\(22px\)
-news.yahoo.com##.YDC-Lead.Px\(55px\).Pt\(35px\).Px\(25px\)--modalMinWidth
-news.yahoo.com##.YDC-UniCol1.Ov\(h\).Pstart\(25px\)--modalMinWidth.Pend\(315px\)--modalMinWidth.Pstart\(55px\).Pend\(355px\)
 newsweek.com##.remaining-articles
 openclassrooms.com###course-footer
 openclassrooms.com##.alt-section.noMarginBottom
