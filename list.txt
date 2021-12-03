@@ -2927,7 +2927,42 @@ linuxhint.com###back-top
 ##back-top
 linuxhint.com###header
 linuxhint.com##.main-header
-
+##.d-flex.fw-wrap.ai-start.jc-end.gs8.gsy
+redhat.com##.navbar
+redhat.com##.section.my-5.pb-5
+redhat.com##.section.my-5.py-5.bg-light-gray.authors-bio.authors-bio--article
+redhat.com##.card-deck.my-4
+redhat.com##.page__colophon.bg-dark-gray.py-4
+redhat.com##.page__footer.bg-dark.py-3
+redhat.com##.block.block--cta.cta.cta--red-on-black.cta--.my-5.p-3.text-center
+redhat.com###resource-list-more-linux-resources
+redhat.com##.eck-entity.mt-2.py-3.pr-3.border-top.border-danger
+redhat.com##.topics
+redhat.com##.article-byline
+github.com##.position-relative.d-flex.flex-items-center.pb-2.f6.color-fg-muted.border-top.color-border-muted.flex-column-reverse.flex-lg-row.flex-wrap.flex-lg-nowrap.mt-6.pt-6
+quora.com##.q-fixed.qu-bg--raised.qu-display--flex.qu-flexDirection--column.qu-borderTopLeftRadius--small.qu-borderTopRightRadius--small
+linuxhint.com###footer
+linuxhint.com##.site-footer
+linuxhint.com##.main-box-inside
+linuxhint.com##.vce-content-outside
+linuxhint.com##.main-box-title
+linuxhint.com###back-top
+linuxhint.com##.same-category-post-item
+linuxhint.com###header
+linuxhint.com##.main-header
+linuxhint.com###sidebar
+linuxhint.com##.sidebar.right
+google.com##.LO47Ff.CkBlJd.ifrS0b
+##.LO47Ff.CkBlJd.ifrS0b
+##.LO47Ff
+github.com##.text-small.color-fg-muted.mx-md-2.mt-md-2.mb-2.mt-3
+youtube.com##.style-scope.ytd-macro-markers-list-renderer
+youtube.com##.style-scope.ytd-engagement-panel-title-header-renderer
+en.wikipedia.org###mw-indicator-spoken-icon
+en.wikipedia.org##.mw-indicator
+###mw-indicator-spoken-icon
+##.mw-indicator
+stackoverflow.com##.d-flex.fw-wrap.ai-start.jc-end.gs8.gsy
 
 
 
