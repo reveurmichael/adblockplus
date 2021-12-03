@@ -2945,7 +2945,8 @@ en.wikipedia.org##.mw-indicator
 ###mw-indicator-spoken-icon
 ##.mw-indicator
 stackoverflow.com##.d-flex.fw-wrap.ai-start.jc-end.gs8.gsy
-
+google.com##.pfQAf
+##.pfQAf
 
 
 
