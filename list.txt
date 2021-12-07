@@ -2947,6 +2947,11 @@ en.wikipedia.org##.mw-indicator
 stackoverflow.com##.d-flex.fw-wrap.ai-start.jc-end.gs8.gsy
 google.com##.pfQAf
 ##.pfQAf
+udemy.com##.footer-section
+udemy.com##button[data-purpose="social-share-button"]
+udemy.com##.leave-rating--simple-review-container--6B50X
+youtube.com##.style-scope.yt-alert-with-actions-renderer
+
 
 
 
