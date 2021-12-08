@@ -2951,7 +2951,10 @@ udemy.com##.footer-section
 udemy.com##button[data-purpose="social-share-button"]
 udemy.com##.leave-rating--simple-review-container--6B50X
 youtube.com##.style-scope.yt-alert-with-actions-renderer
-
+baidu.com##.c-tip-con
+medium.com###credential_picker_container
+##btt-btn
+###btt-btn
 
 
 
