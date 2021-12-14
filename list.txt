@@ -2956,7 +2956,9 @@ medium.com###credential_picker_container
 ##btt-btn
 ###btt-btn
 freecodecamp.org##.author-card
-
+embed.plnkr.co##.ag-grid-banner
+baidu.com##.c-tip-con
+##.c-tip-con
 
 
 
