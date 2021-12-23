@@ -2969,7 +2969,7 @@ bing.com##.b_poleContent
 bing.com###sb_fdb
 bing.com##.sa_fd.feedback-binded
 ||r.bing.com/rp/XvRHqJwJt19aXQca73hQTfvNMxk.svg
-
-
+stackoverflow.com##.s-pagination.site1.themed.pager-answers
+##.s-pagination.site1.themed.pager-answers
 
 
