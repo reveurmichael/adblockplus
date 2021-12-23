@@ -2971,5 +2971,15 @@ bing.com##.sa_fd.feedback-binded
 ||r.bing.com/rp/XvRHqJwJt19aXQca73hQTfvNMxk.svg
 stackoverflow.com##.s-pagination.site1.themed.pager-answers
 ##.s-pagination.site1.themed.pager-answers
-
+en.wikipedia.org##.mwe-popups-container
+wikipedia.org##.mwe-popups-container
+##.mwe-popups-container
+freecodecamp.org###colbyfayock-author-card
+youtube.com##.style-scope.yt-tooltip-renderer
+youtube.com##.style-scope.ytd-popup-container
+google.com##.RiJqbb
+##.RiJqbb
+google.com##.WeviRb.z1asCe.LV6CSb
+##.WeviRb.z1asCe.LV6CSb
+linkedin.cn##.global-footer-compact
 
