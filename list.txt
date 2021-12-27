@@ -3039,5 +3039,4 @@ builtin.com##.recent-articles-wrapper
 builtin.com##.newsletter-signup-container
 builtin.com##.block-content
 builtin.com##.block.block-bix-blogs.block-bix-blogs-expert-contribution
-||ydlunacommon-cdn.nosdn.127.net/*.png
 ||builtin.com/profiles/builtin/themes/bix/assets/expert-contrib-badge.svg
