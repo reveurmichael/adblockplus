@@ -15,7 +15,6 @@
 ||boardy.huanqiu.com/smu/j.html#u3161574p000000000(%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E4%B9%8B%E9%80%9A%E4%BF%97%E6%98%93%E6%87%82%E7%AF%87%EF%BC%88%E4%B8%9C%E5%8C%97%E8%AF%9D%E7%89%88%EF%BC%89)
 ||cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgiphy.com%2Fembed%2FexQrMRVK2x9rW%2Ftwitter%2Fiframe&display_name=Giphy&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fjust-do-it-exQrMRVK2x9rW&image=https%3A%2F%2Fmedia3.giphy.com%2Fmedia%2FexQrMRVK2x9rW%2F200.gif&key=a19fcc184b9711e1b4764040d3dc5c07&type=text%2Fhtml&schema=giphy
 ||cdn2.jianshu.io/assets/default_avatar/3-9a2bcc21a5d89e21dafc73b39dc5f582.jpg
-||disqus.com/embed/comments/*
 ||dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/qrcode/qrcode-hover@2x-9eb662f4e8.png
 ||google.com.hk/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png
 ||google.com.hk/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png
@@ -47,8 +46,6 @@
 ||youtube.com/live_chat
 ||youtube.com/live_chat_replay
 ||zh.wikipedia.org/static/images/mobile/copyright/wikipedia-wordmark-zh-hans.svg
-||google.com/logos/doodles/2021/*
-||google.com/logos/doodles/.*
 ||paypal.com/en_US/i/btn/btn_donateCC_LG.gif
 ||edu-image.nosdn.127.net/e99bd6440596424fba28f7f9b4763798.png?imageView&quality=100&thumbnail=40y200
 ||gitee.com/assets/gitee_8th/mascot.png
@@ -1748,7 +1745,6 @@ google.com.hk##.LAWljd
 google.com##.LAWljd
 leetcode.com##.ant-popover-inner-content
 ||google.com/images/branding/googlelogo/2x/googlelogo_light_color_272x92dp.png
-||google.com/images/branding/googlelogo/2x/*.png
 google.com.hk##.logo
 google.com.hk##.xTFaxe.IjabWd.z1asCe.SaPW2b
 google.com.hk##.LAWljd
@@ -2027,7 +2023,6 @@ google.com.hk##.F3dFTe
 google.com.hk##.S4UV0.r2fjmd.pAbhZc.ouy7Mc.cB4NFc.GUHazd
 google.com.hk##.fbar.M6hT6.As6eLe
 stackoverflow.com##span[title="Moderator"]
-*.stackexchange.com##span[title="Moderator"]
 leetcode.com##.container__2AdV
 youtube.com##.ytp-cards-teaser-text
 askubuntu.com##span[title="Moderator"]
@@ -2145,7 +2140,6 @@ programiz.com##.topmenu
 programiz.com##.left-bar.left-bar--large-r-margin.d-none.d-lg-block
 programiz.com##.btn.align-items-center.btn--toc
 programiz.com##.main-nav.d-flex.flex-column.justify-content-center.main-nav--fixed
-||https://d1jnx9ba8s6j9r.cloudfront.net/*.js
 blog.csdn.net###csdn-redpack
 blog.csdn.net##.column-group-item.column-group2
 blog.csdn.net##.csdn-redpack-container
@@ -2182,7 +2176,6 @@ edureka.co##.modal-content
 edureka.co##.modal.fade.blog_feature_popup.show
 edureka.co##.recommended-courses-section
 edureka.co##.trending-courses
-||https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/plugins/*.js
 ||https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/themes/edu-new/js/jquery.min.js
 ||https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/themes/edu-new/js/mustache.js
 ||tutorialspoint.com/java/images/java-video-tutorials.jpg
@@ -2242,8 +2235,6 @@ orcaes.co##.block.block-views.haft-left.dexp-animate.animated.fadeInDown
 orcaes.co###block-block-39
 orcaes.co##.block.block-block.haft-left.dexp-animate.animated.fadeInUp
 orcaes.co###section-bottom
-||https://d1jnx9ba8s6j9r.cloudfront.net/*
-||https://www.edureka.co/*.js
 ||common.cnblogs.com/images/copycode.gif
 orcaes.co##.aco-bg
 ieeexplore.ieee.org##.global-maintenance-message-meta-nav.row
@@ -2371,7 +2362,6 @@ refactoring.guru##.navigation
 refactoring.guru##.breadcrumb
 refactoring.guru##.banner-inner
 refactoring.guru##.prom.banner-content.banner-bg.banner-striped.banner-with-image.ga-triggered
-||refactoring.guru/images/content-public/logos/logo*.png
 zhuanlan.zhihu.com##.Modal-backdrop
 zhuanlan.zhihu.com##.Qrcode-container.smallVersion
 zhuanlan.zhihu.com##.Modal-wrapper.undefined.Modal-enter-done
