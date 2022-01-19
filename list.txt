@@ -2019,13 +2019,6 @@ pornhub.com##.adsbytrafficjunky
 pornhub.com##.footerContentWrapper
 pornhub.com##.networkTab
 pornhub.com##.wrapper
-processing.org##.CopyButton-module--root--3_lv8
-processing.org##.License-module--root--M5BGc
-processing.org##.Navbar-module--root--1YkvT
-processing.org##.Sidebar-module--title--1hxS7
-processing.org##.Topbar-module--container--3xS5r.grid-module--container--NqMcB.grid-module--grid--1sOnl
-processing.org##.Topbar-module--root--2X_Od.Topbar-module--show--3cfeY
-processing.org##.grid-module--grid--1sOnl.Footer-module--root--3iYWX.Footer-module--withSidebar--38L16
 programiz.com###mauticform_csubscribersform
 programiz.com##.btn.align-items-center.btn--toc
 programiz.com##.card-alt.card-alt--even-spaced.mb-10x
