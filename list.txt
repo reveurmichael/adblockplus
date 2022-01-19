@@ -3050,7 +3050,14 @@ google.com.hk##.fLciMb
 gitlab.com##.gl-card.gl-px-8.gl-py-6
 gitlab.com##.badge.badge-pill.issues-count.green-badge
 gitlab.com##.header-help-dropdown-toggle.gl-relative
-
+cn.bing.com###tog-qry-link
+cn.bing.com##.tog-query-link
+bing.com##.tog-query-link
+bing.com###tog-qry-link
+cn.bing.com##.pageRecoContainer
+bing.com##.pageRecoContainer
+||secure.gravatar.com/avatar
+||i.ytimg.com/an/V8e2g4IWQqK71bbzGDEI4Q/featured_channel.jpg
 
 
 
