@@ -2787,4 +2787,6 @@ zhuyulab.blog.csdn.net##.csdn-highschool-window.csdn-highschool-blog-window
 ||youtube.com/live_chat_replay
 ||zh.wikipedia.org/static/images/mobile/copyright/wikipedia-wordmark-zh-hans.svg
 ||i.ytimg.com/an/0ckjBtm9SBV7JAjbELiBqQ/featured_channel.jpg
+||ydlunacommon-cdn.nosdn.127.net/6e4c43039a5190a1dbe4ffd35c1bf714.png
+
 
