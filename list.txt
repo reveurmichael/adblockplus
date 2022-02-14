@@ -2801,3 +2801,6 @@ youtube.com###search-clear-button
 youtube.com###search-icon-legacy
 baidu.com###\31
 baidu.com##.result-op.c-container.new-pmd
+youtube.com###search-icon-legacy
+google.com###_blIEYuLuLo-eseMP2bmVmAg5
+google.com##.fLciMb
