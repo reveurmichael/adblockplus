@@ -2804,3 +2804,15 @@ baidu.com##.result-op.c-container.new-pmd
 youtube.com###search-icon-legacy
 google.com###_blIEYuLuLo-eseMP2bmVmAg5
 google.com##.fLciMb
+google.com##.sfbg
+google.com###_VEwKYuvcDZL29APMk4eAAw5
+google.com##.fLciMb
+google.com###hdtb
+google.com##.GLcBOb
+###_blIEYuLuLo-eseMP2bmVmAg5
+##.fLciMb
+##.sfbg
+###_VEwKYuvcDZL29APMk4eAAw5
+##.fLciMb
+###hdtb
+##.GLcBOb
