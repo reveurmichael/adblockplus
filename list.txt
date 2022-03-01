@@ -2827,3 +2827,17 @@ tutorialspoint.com##.toc.reading
 tutorialspoint.com##.mini-logo
 leetcode.com##.swiper-wrapper
 leetcode.com##.swiper.swiper-initialized.swiper-horizontal.swiper-pointer-events.\-m-2.p-2
+cn.bing.com###gtt_content
+bing.com###gtt_content
+cn.bing.com###gtt_root
+cn.bing.com##.gtt_left
+bing.com###gtt_root
+bing.com##.gtt_left
+cn.bing.com##.b_hPanel
+bing.com##.b_hPanel
+cn.bing.com###dict_ans
+cn.bing.com##.dict_oa
+bing.com###dict_ans
+bing.com##.dict_oa
+cn.bing.com##.b_ans
+bing.com##.b_ans
