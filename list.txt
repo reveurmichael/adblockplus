@@ -2841,3 +2841,10 @@ bing.com###dict_ans
 bing.com##.dict_oa
 cn.bing.com##.b_ans
 bing.com##.b_ans
+||i.ytimg.com/an/kbFiBwMYMXAqifXF4xo5Uw/featured_channel.jpg
+superuser.com##.sm\:d-none.py24.bg-black-750.fc-black-200.ps-relative.js-dismissable-hero
+##.sm\:d-none.py24.bg-black-750.fc-black-200.ps-relative.js-dismissable-hero
+linuxize.com##.flex.flex-wrap.my-8
+w3schools.com###darkmodemenu
+w3schools.com##.ws-black
+
