@@ -1595,6 +1595,16 @@ ieeexplore.ieee.org##.navbar-container.not-homepage.inst-logged-in
 ieeexplore.ieee.org##.publisher-title-tooltip
 ieeexplore.ieee.org##.signout
 ieeexplore.ieee.org##.stats-footer.footer-new
+ieeexplore.ieee.org##.meta-nav-item.stats-mnEvLinks
+ieeexplore.ieee.org##.col-3-24.u-pr-1.u-pl-1.col-buttons.stats-document-container-rh.u-printing-invisible-ie.u-printing-invisible-ff
+ieeexplore.ieee.org##.document-banner.col.stats-document-banner.cye-lm-tag
+ieeexplore.ieee.org##.ccby-indicator.u-pl-2
+ieeexplore.ieee.org###gs-casa-r
+ieeexplore.ieee.org##.col-12.disqus-container
+ieeexplore.ieee.org##.document-banner-access
+ieeexplore.ieee.org##.fa.fa-question-circle.help-link.breadcrumb-help-link-icon
+ieeexplore.ieee.org##.fa.fa-question-circle.help-link.help-link-icon
+ieeexplore.ieee.org##.meta-nav-item.stats-extLink
 image.baidu.com##.card-content
 image.baidu.com##.card-title
 image.baidu.com##.clearfix.rslist
