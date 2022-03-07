@@ -1581,27 +1581,20 @@ icourse163.org##.u-share.f-cb
 icourse163.org##.um-recommend.um-recommend-side
 icourse163.org##a[style="background:url(http://edu-image.nosdn.127.net/fb1c058446a1428a91e6f7e310a5d56c.png?imageView&quality=100&thumbnail=1903y50) 50% 0 no-repeat"]
 ieeexplore.ieee.org###xplore-footer
-ieeexplore.ieee.org##.access-text
 ieeexplore.ieee.org##.btn-document.back-to-top-btn
-ieeexplore.ieee.org##.col-3-24.u-pr-1.u-pl-1.col-buttons.stats-document-container-rh.u-printing-invisible-ie.u-printing-invisible-ff
 ieeexplore.ieee.org##.col-7-24.black-tooltip.hide-mobile
 ieeexplore.ieee.org##.color-xplore-blue.copyright-icon.far.fa-copyright
-ieeexplore.ieee.org##.doc-actions-item.white-blue-border-tooltip.save-to.disabled-look.enable-hover
-ieeexplore.ieee.org##.doc-actions.doc-toolbar.stats-document-lh-actions.black-tooltip
 ieeexplore.ieee.org##.doc-share-tool
 ieeexplore.ieee.org##.document-sidebar-rel-art
 ieeexplore.ieee.org##.document-sidebar.global-right-rail.top-spacing
 ieeexplore.ieee.org##.fa.fa-question-circle.fa-1x
-ieeexplore.ieee.org##.font-size-p-1250.color-xplore-blue.fas.fa-bell
 ieeexplore.ieee.org##.global-maintenance-message-meta-nav.row
 ieeexplore.ieee.org##.menu-link.stats-get-help.active-hover
 ieeexplore.ieee.org##.menu-link.stats-my-settings.active-hover
-ieeexplore.ieee.org##.metanav-container.u-flex-display-flex.u-flex-justify-center
 ieeexplore.ieee.org##.navbar-container.not-homepage.inst-logged-in
 ieeexplore.ieee.org##.publisher-title-tooltip
 ieeexplore.ieee.org##.signout
 ieeexplore.ieee.org##.stats-footer.footer-new
-ieeexplore.ieee.org##.u-flex-display-flex
 image.baidu.com##.card-content
 image.baidu.com##.card-title
 image.baidu.com##.clearfix.rslist
