@@ -2852,6 +2852,11 @@ w3schools.com###darkmodemenu
 w3schools.com##.ws-black
 stackoverflow.com##.d-flex.g4.gsx.ai-center.cye-lm-tag
 ##.d-flex.g4.gsx.ai-center.cye-lm-tag
+ieeexplore.ieee.org##.icon.icon-orcid
+sciencedirect.com###gh-main-cnt
+sciencedirect.com##.u-flex-center-ver.u-position-relative.u-padding-s-hor.u-padding-m-hor-from-sm.u-padding-l-hor-from-lg
+sciencedirect.com##.rights-and-content
+
 
 
 
