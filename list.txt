@@ -2856,6 +2856,19 @@ ieeexplore.ieee.org##.icon.icon-orcid
 sciencedirect.com###gh-main-cnt
 sciencedirect.com##.u-flex-center-ver.u-position-relative.u-padding-s-hor.u-padding-m-hor-from-sm.u-padding-l-hor-from-lg
 sciencedirect.com##.rights-and-content
+ieeexplore.ieee.org##.stats-metanav.xplore-meta-nav
+ieeexplore.ieee.org##.sponsor-logo-container
+ieeexplore.ieee.org##.row.icons-list.text-sm-md.u-ml-auto
+ieeexplore.ieee.org##.far.fa-copyright.copyright-icon.icon-size-md
+ieeexplore.ieee.org##.results-actions-selectall.cye-lm-tag
+ieeexplore.ieee.org##.results-actions.hide-mobile.cye-lm-tag
+ieeexplore.ieee.org##.Menu.Menu--horizontal.Menu--dividers.action-bar-actions.cye-lm-tag
+ieeexplore.ieee.org##.col-3.hide-mobile.cye-lm-tag
+gitee.com##.text.ml-05.setting-text.red-dot::after
+gitee.com##.setting-text.red-dot::after
+ieeexplore.ieee.org##.results-actions.hide-mobile
+ieeexplore.ieee.org##.Menu-item.inline-flexed
+ieeexplore.ieee.org##.document-banner.col.stats-document-banner
 
 
 
