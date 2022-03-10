@@ -2843,8 +2843,3 @@ ieeexplore.ieee.org##.results-actions.hide-mobile
 ieeexplore.ieee.org##.Menu-item.inline-flexed
 ieeexplore.ieee.org##.document-banner.col.stats-document-banner
 ||i.ytimg.com/an/Zpdjg0hVsKgfUoMS4LgPzQ/featured_channel.jpg
-
-
-
-
-
