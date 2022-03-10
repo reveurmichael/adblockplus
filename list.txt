@@ -1916,33 +1916,6 @@ math.stackexchange.com##.site-header--container
 math.stackexchange.com##.top-bar.js-top-bar.top-bar__network
 math.stackexchange.com##.user-info
 math.stackexchange.com##.wmx12.mx-auto.grid.ai-center.h100
-medium.com###credential_picker_container
-medium.com##div[data-popper-placement="top"]
-medium.com##nav
-medium.com#?#div:-abp-has(> div > div > div > button > svg > path[fill-rule="evenodd"])
-medium.com#?#div:-abp-has(> div > div > div > div > div  > div > span > span > div > div > div > div > span > button:-abp-contains(Follow))
-medium.com#?#div:-abp-has(> div > div > div > div > div > div > div > div > div > span > div > div > div > div > span > button:-abp-contains(Follow))
-medium.com#?#div:-abp-has(> div > div > div > div > div > p:-abp-contains(Legal))
-medium.com#?#div:-abp-has(> div > div > div > div > span > div > div > span > button)
-medium.com#?#div:-abp-has(> div > div > div > span > article)
-medium.com#?#div:-abp-has(> div > div > span > a > svg)
-medium.com#?#div:-abp-has(> div > div > ul > li > a)
-medium.com#?#div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> p:-abp-contains(Legal)))))))
-medium.com#?#div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> p:-abp-contains(expert and undiscovered voices alike dive into)))))))
-medium.com#?#div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> p:-abp-contains(post your thinking on any topic)))))))
-medium.com#?#div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> p:-abp-contains(see them on your homepage and)))))))
-medium.com#?#div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> p:-abp-contains(to find insightful and dynamic thinking)))))))
-medium.com#?#div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> p:-abp-contains(Legal))))))
-medium.com#?#div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> p:-abp-contains(Legal)))))
-medium.com#?#div:-abp-has(> div:-abp-has(> div:-abp-has(> p:-abp-contains(Legal))))
-medium.com#?#div:-abp-has(> div:-abp-has(> p:-abp-contains(Legal)))
-medium.com#?#div:-abp-has(> p:-abp-contains(Top highlight))
-medium.com#?#div:-abp-properties(background-color: rgb(0, 0, 0))
-medium.com#?#div:-abp-properties(max-width: 25%)
-medium.com#?#div:-abp-properties(will-change: opacity, transform)
-medium.com#?#h2:-abp-contains(More From Medium)
-medium.com#?#p:-abp-contains(Legal)
-medium.com#?#section:-abp-has(> div > div > div > div > p > span)
 member.bilibili.com##.feedback-container.utils-box
 member.bilibili.com##.totop-container.utils-box
 mp.weixin.qq.com###js_wx_profile_logo
@@ -2869,7 +2842,7 @@ gitee.com##.setting-text.red-dot::after
 ieeexplore.ieee.org##.results-actions.hide-mobile
 ieeexplore.ieee.org##.Menu-item.inline-flexed
 ieeexplore.ieee.org##.document-banner.col.stats-document-banner
-
+||i.ytimg.com/an/Zpdjg0hVsKgfUoMS4LgPzQ/featured_channel.jpg
 
 
 
