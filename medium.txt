@@ -25,3 +25,6 @@ medium.com#?#div:-abp-properties(will-change: opacity, transform)
 medium.com#?#h2:-abp-contains(More From Medium)
 medium.com#?#p:-abp-contains(Legal)
 medium.com#?#section:-abp-has(> div > div > div > div > p > span)
+
+
+
