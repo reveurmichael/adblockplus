@@ -2995,4 +2995,12 @@ jingyan.baidu.com##.audio-wp
 jingyan.baidu.com##.wgt-thumbs.clearfix
 jingyan.baidu.com##.article-header
 jingyan.baidu.com##.nav
-
+kns.cnki.net###dz-carousel
+kns.cnki.net##.dz-carousel
+cnki.net###dz-carousel
+cnki.net##.dz-carousel
+cnki.net##.product-content
+cnki.net##.trends
+cnki.net##.adviceside
+cnki.net##.search-tab
+cnki.net##.link-home
