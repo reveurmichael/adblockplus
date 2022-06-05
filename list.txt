@@ -3477,6 +3477,12 @@ google.com##.r21Kzd
 google.com##.wWOJcd
 google.com##.Wt5Tfe
 google.com##.GHDvEf
-
+google.com##span[style="display:block;margin-left:53px"]
+w3schools.com###getdiploma
+w3schools.com##.w3-panel
+google.com##.r21Kzd
+google.com##.wWOJcd
+google.com##.Wt5Tfe
+google.com##.GHDvEf
 
 
