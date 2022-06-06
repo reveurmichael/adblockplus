@@ -1,4 +1,4 @@
-https://gitee.com/lundechen/addblockplus/raw/master/list.txt
+https://reveurmichael.github.io/adblockplus/list.txt
 
 How to write filters 
 
