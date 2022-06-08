@@ -3676,4 +3676,3 @@ towardsdatascience.com#?#div:-abp-has(> div > div > span > article > div > div >
 towardsdatascience.com#?#div:-abp-has(> div > div > div > div > div > span > a > button > div:-abp-contains(Get this newsletter))
 medium.com#?#div:-abp-has(> div > div > div > span > a > div > svg[aria-label="clap"])
 towardsdatascience.com#?#div:-abp-has(> div > div > div > span > a > div > svg[aria-label="clap"])
-towardsdatascience.com#?#div:-abp-has(> div > div > div > div:-abp-contains(Published in))
