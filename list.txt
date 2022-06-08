@@ -3660,53 +3660,17 @@ gitee.com##div[id="blob-comment"]
 gitee.com##div[id="comment-box"]
 programiz.com##.main--backdrop.show
 gitee.com##div[class="side-item events"]
-medium.com###credential_picker_container
-medium.com##div[data-popper-placement="top"]
-medium.com##nav
-medium.com#?#div:-abp-has(> div > div > div > button > svg > path[fill-rule="evenodd"])
-medium.com#?#div:-abp-has(> div > div > div > div > div  > div > span > span > div > div > div > div > span > button:-abp-contains(Follow))
-medium.com#?#div:-abp-has(> div > div > div > div > div > div > div > div > div > span > div > div > div > div > span > button:-abp-contains(Follow))
-medium.com#?#div:-abp-has(> div > div > div > div > div > p:-abp-contains(Legal))
-medium.com#?#div:-abp-has(> div > div > div > div > span > div > div > span > button)
-medium.com#?#div:-abp-has(> div > div > div > span > article)
-medium.com#?#div:-abp-has(> div > div > span > a > svg)
-medium.com#?#div:-abp-has(> div > div > ul > li > a)
-medium.com#?#div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> p:-abp-contains(Legal)))))))
-medium.com#?#div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> p:-abp-contains(expert and undiscovered voices alike dive into)))))))
-medium.com#?#div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> p:-abp-contains(post your thinking on any topic)))))))
-medium.com#?#div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> p:-abp-contains(see them on your homepage and)))))))
-medium.com#?#div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> p:-abp-contains(to find insightful and dynamic thinking)))))))
-medium.com#?#div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> p:-abp-contains(Legal))))))
-medium.com#?#div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> p:-abp-contains(Legal)))))
-medium.com#?#div:-abp-has(> div:-abp-has(> div:-abp-has(> p:-abp-contains(Legal))))
-medium.com#?#div:-abp-has(> div:-abp-has(> p:-abp-contains(Legal)))
-medium.com#?#div:-abp-has(> p:-abp-contains(Top highlight))
-medium.com#?#div:-abp-properties(background-color: rgb(0, 0, 0))
-medium.com#?#div:-abp-properties(max-width: 25%)
-medium.com#?#div:-abp-properties(will-change: opacity, transform)
-medium.com#?#h2:-abp-contains(More From Medium)
-medium.com#?#p:-abp-contains(Legal)
-medium.com#?#section:-abp-has(> div > div > div > div > p > span)
-towardsdatascience.com###lo-highlight-meter-2-copy
+towardsdatascience.com#?#div:-abp-has(> div > div > div > div > div > div >  p > span > a:-abp-contains(Sign In))
+medium.com#?#div:-abp-has(> div > div > div > div > div > div >  p > span > a:-abp-contains(Sign In))
+towardsdatascience.com#?#div:-abp-has(> div > div > div > a > div > div > div > div > div > svg[aria-label="Home"])
+medium.com#?#div:-abp-has(> div > div > div > a > div > div > div > div > div > svg[aria-label="Home"])
+medium.com#?#div:-abp-has(> div > div > div > div > div > div > a:-abp-contains(Try Knowable))
 towardsdatascience.com##div[data-popper-placement="top"]
-towardsdatascience.com#?#div:-abp-has(> div > div > div > button > svg > path[fill-rule="evenodd"])
-towardsdatascience.com#?#div:-abp-has(> div > div > div > div > div  > div > span > span > div > div > div > div > span > button:-abp-contains(Follow))
-towardsdatascience.com#?#div:-abp-has(> div > div > div > div > div > div > div > span > div > div > div > div[aria-describedby="collectionFollowPopover"])
-towardsdatascience.com#?#div:-abp-has(> div > div > div > div > div > p:-abp-contains(Legal))
-towardsdatascience.com#?#div:-abp-has(> div > div > div > div > span > div > div > span > button)
-towardsdatascience.com#?#div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> p:-abp-contains(Legal)))))))
-towardsdatascience.com#?#div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> p:-abp-contains(Legal))))))
-towardsdatascience.com#?#div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> p:-abp-contains(Legal)))))
-towardsdatascience.com#?#div:-abp-has(> div:-abp-has(> div:-abp-has(> p:-abp-contains(Legal))))
-towardsdatascience.com#?#div:-abp-has(> div:-abp-has(> p:-abp-contains(Legal)))
-towardsdatascience.com#?#div:-abp-has(> p:-abp-contains(Top highlight))
-towardsdatascience.com#?#div:-abp-properties(background-color: rgb(0, 0, 0))
-towardsdatascience.com#?#div:-abp-properties(max-width: 25%)
-towardsdatascience.com#?#div:-abp-properties(will-change: opacity, transform)
-towardsdatascience.com#?#p:-abp-contains(Legal)
-towardsdatascience.com#?#section:-abp-has(> div > div > div > div > p > span)
-towardsdatascience.com#?#div:-abp-has(> div > div > span > a > svg)
-
-
-
-
+medium.com##div[data-popper-placement="top"]
+medium.com###credential_picker_container
+medium.com##nav
+towardsdatascience.com##nav
+medium.com#?#footer:-abp-has(> div > div > div > div > div > div > div > div > button > svg[aria-label="responses"])
+towardsdatascience.com#?#footer:-abp-has(> div > div > div > div > div > div > div > div > button > svg[aria-label="responses"])
+towardsdatascience.com#?#div:-abp-has(> div > div > span > article > div > div > div > div > div > div > div > div > div > div > div > div > div > div > a[aria-label="Post Preview Title"])
+towardsdatascience.com#?#div:-abp-has(> div > div > div > div > div >  span > a > button > div:-abp-contains(Get this newsletter))
