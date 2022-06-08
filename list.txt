@@ -3687,6 +3687,25 @@ medium.com#?#div:-abp-properties(will-change: opacity, transform)
 medium.com#?#h2:-abp-contains(More From Medium)
 medium.com#?#p:-abp-contains(Legal)
 medium.com#?#section:-abp-has(> div > div > div > div > p > span)
+towardsdatascience.com###lo-highlight-meter-2-copy
+towardsdatascience.com##div[data-popper-placement="top"]
+towardsdatascience.com#?#div:-abp-has(> div > div > div > button > svg > path[fill-rule="evenodd"])
+towardsdatascience.com#?#div:-abp-has(> div > div > div > div > div  > div > span > span > div > div > div > div > span > button:-abp-contains(Follow))
+towardsdatascience.com#?#div:-abp-has(> div > div > div > div > div > div > div > span > div > div > div > div[aria-describedby="collectionFollowPopover"])
+towardsdatascience.com#?#div:-abp-has(> div > div > div > div > div > p:-abp-contains(Legal))
+towardsdatascience.com#?#div:-abp-has(> div > div > div > div > span > div > div > span > button)
+towardsdatascience.com#?#div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> p:-abp-contains(Legal)))))))
+towardsdatascience.com#?#div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> p:-abp-contains(Legal))))))
+towardsdatascience.com#?#div:-abp-has(> div:-abp-has(> div:-abp-has(> div:-abp-has(> p:-abp-contains(Legal)))))
+towardsdatascience.com#?#div:-abp-has(> div:-abp-has(> div:-abp-has(> p:-abp-contains(Legal))))
+towardsdatascience.com#?#div:-abp-has(> div:-abp-has(> p:-abp-contains(Legal)))
+towardsdatascience.com#?#div:-abp-has(> p:-abp-contains(Top highlight))
+towardsdatascience.com#?#div:-abp-properties(background-color: rgb(0, 0, 0))
+towardsdatascience.com#?#div:-abp-properties(max-width: 25%)
+towardsdatascience.com#?#div:-abp-properties(will-change: opacity, transform)
+towardsdatascience.com#?#p:-abp-contains(Legal)
+towardsdatascience.com#?#section:-abp-has(> div > div > div > div > p > span)
+towardsdatascience.com#?#div:-abp-has(> div > div > span > a > svg)
 
 
 
