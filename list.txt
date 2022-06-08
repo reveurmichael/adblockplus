@@ -3318,7 +3318,6 @@ google.com.hk##.uzfIAc
 nytimes.com###gateway-content
 nytimes.com##.css-5x99bu
 nytimes.com##.css-mcm29f
-gitee.com##.four.wide.column
 bing.com###b_mtp
 ###b_mtp
 gitee.com##.ui.warning.message
@@ -3629,7 +3628,37 @@ data-flair.training##.\31 pw1bfsztpkf
 ||javatpoint.com/images/logo/jtp_logo.png
 ||javatpoint.com/images/menuhome64.png
 ||scikit-learn.org/stable/_static/scikit-learn-logo-small.png
-
+gitee.com##.ui.warning.message
+gitee.com##.default.mr-05
+gitee.com##.iconfont.icon-add-thin.hover-color.cursor-pointer
+||assets.gitee.com/assets/issues/mjc-normal-039c7e167ae17c3fbbb47279579e28a7.png
+||gitee.com/gitee-community-web/_next/static/media/logo-white.a5b0e29c.svg
+gitee.com##.mjc-animation-wrapper
+gitee.com##a[title="开源软件"]
+gitee.com##a[title="企业版"]
+gitee.com##a[title="高校版"]
+gitee.com##a[title="私有云"]
+gitee.com##a[class="git-nav-user__register-item"]
+gitee.com##.git-nav-user__register-item
+gitee.com##.ui.label.mini.red.limit_time
+gitee.com##.git-group-achievement
+gitee.com###popular-languages
+gitee.com##.mr-6.h-full
+gitee.com##.border-none.bg-white.py-5.px-8.text-gray-500
+gitee.com##.w-10.h-10.leading-10.bg-white.hover\:bg-gray-50.text-gray-400.rounded-full.shadow.text-center
+gitee.com##.flex.h-11.items-center.justify-between.px-0.mx-8.text-gray-400.border-t.border-t-gray-200.bg-white
+gitee.com##.relative.flex.text-base.text-gray-300.hover\:text-white
+gitee.com#?#div:-abp-has(> div > button[id="quiting-button"])
+gitee.com##.markdown-code-block-copy-btn.visible
+gitee.com##.markdown-code-block-copy-btn
+gitee.com##a[id="gitee-go"]
+gitee.com##a[href="https://gitee.com/activity/9th"]
+||gitee.com/assets/ic-synchronize.svg
+data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAADICAAAAACIM/FCAAACh0lEQVR4Ae3ch5W0OgyG4dt/mQJ2xgQPzJoM1m3AbALrxzrf28FzsoP0HykJEEAAAUQTBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEkKK0789+GK/I2ezfQB522PnS1qc8pGgXvr4tE4aY0XOUWlGImThWgyCk6DleixzE7qwBkg/MGiDPlVVAyp1VQGrPKiACDhFI6VkF5LmzCki+sg7IwDoglnVAil0IMkeG9CyUiwsxLFUVFzJJOQaKCjFCDN9RXMjIX7W6ztZXZDKKCyn8sWJvH+nca7WHDN9lROlAliPH9iRKCPI4cswFJQWxB46toLQgQ9jhn5QYZA9DOkoMUoQde5YapAxDWkoNYsOQR3KQd9CxUnIQF4S49CB9ENKlBxmDEKsFUgMCCCCAAHIrSF61f6153Ajy8nyiPr8L5MXnmm4CyT2fzN4DUvHZ+ntA2tOQBRBAAAEEEEAAAQQQ7ZBaC6TwSiDUaYHQ2yuB0MN+ft+43whyrs4rgVCjBUKTFshLC6TUAjGA3AxSaYFYLZBOC2RUAsk8h5qTg9QcbEoOsoQhQ2qQhsO5xCD5dgB5JQaZ+KBKGtKecvR81Ic0ZDjByKdDx0rSEDZ/djQbH+bkIdvfJFm98BfV8hD2zprfVdlu9PxVeyYAkciREohRAplJCaRSAplJCcQogTjSAdlyHRBvSAekJR0QRzogA+mADJkOiCPSAPEtqYBshlRAXC43hxix2QiOuEZkVERykGyNo9idIZKE0HO7XrG6OiMShlDWjstVzdPgXtUH9v0CEidAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQP4HgjZxTpdEii0AAAAASUVORK5CYII=
+gitee.com##a[id="btn-sync-from-github"]
+gitee.com##div[id="blob-comment"]
+gitee.com##div[id="comment-box"]
+programiz.com##.main--backdrop.show
 
 
 
