@@ -3673,4 +3673,7 @@ towardsdatascience.com##nav
 medium.com#?#footer:-abp-has(> div > div > div > div > div > div > div > div > button > svg[aria-label="responses"])
 towardsdatascience.com#?#footer:-abp-has(> div > div > div > div > div > div > div > div > button > svg[aria-label="responses"])
 towardsdatascience.com#?#div:-abp-has(> div > div > span > article > div > div > div > div > div > div > div > div > div > div > div > div > div > div > a[aria-label="Post Preview Title"])
-towardsdatascience.com#?#div:-abp-has(> div > div > div > div > div >  span > a > button > div:-abp-contains(Get this newsletter))
+towardsdatascience.com#?#div:-abp-has(> div > div > div > div > div > span > a > button > div:-abp-contains(Get this newsletter))
+medium.com#?#div:-abp-has(> div > div > div > span > a > div > svg[aria-label="clap"])
+towardsdatascience.com#?#div:-abp-has(> div > div > div > span > a > div > svg[aria-label="clap"])
+towardsdatascience.com#?#div:-abp-has(> div > div > div > div:-abp-contains(Published in))
