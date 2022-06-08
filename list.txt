@@ -3659,9 +3659,5 @@ gitee.com##a[id="btn-sync-from-github"]
 gitee.com##div[id="blob-comment"]
 gitee.com##div[id="comment-box"]
 programiz.com##.main--backdrop.show
-
-
-
-
-
+gitee.com##div[class="side-item events"]
 
