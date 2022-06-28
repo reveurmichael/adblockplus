@@ -3676,3 +3676,26 @@ towardsdatascience.com#?#div:-abp-has(> div > div > span > article > div > div >
 towardsdatascience.com#?#div:-abp-has(> div > div > div > div > div > span > a > button > div:-abp-contains(Get this newsletter))
 medium.com#?#div:-abp-has(> div > div > div > span > a > div > svg[aria-label="clap"])
 towardsdatascience.com#?#div:-abp-has(> div > div > div > span > a > div > svg[aria-label="clap"])
+analyticsvidhya.com###webpush-onsite
+zhidao.baidu.com##.aria-div
+zhidao.baidu.com##.knowledge-top-buttons
+360doc.com##.d1
+360doc.com##.anbg
+360doc.com##.atfixednav
+sciencedirect.com###pendo-guide-container
+sciencedirect.com##._pendo-step-container-styles.els-pendo-light.els-pendo-box.els-pendo-desktop.els-pendo-mouse
+runoob.com###runoobvote-id-43479
+runoob.com##.upvotejs.upvotejs-enabled
+runoob.com##.comt-meta.wrapper
+programiz.com##.pagination-area
+programiz.com###feedback-desktop
+programiz.com##.header
+programiz.com###get-started-pop-up
+programiz.com##.pop-up
+programiz.com##.sidebar-wrapper
+cn.bing.com##.b_lgpd_cont
+||assets.gitee.com/assets/issues/mjc-normal-039c7e167ae17c3fbbb47279579e28a7.png
+bilibili.com###comment
+bilibili.com###slide_ad
+bilibili.com###reco_list
+bilibili.com###right-bottom-banner
