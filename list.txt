@@ -3774,4 +3774,4 @@ zhuyulab.blog.csdn.net##.csdn-highschool-window.csdn-highschool-blog-window
 ||zh.wikipedia.org/static/images/mobile/copyright/wikipedia-wordmark-zh-hans.svg
 bilibili.com##.second-line_right
 ||discuss.d2l.ai/embed/comments
-
+bibibili.com##a[class="ad-report video-card-ad-small"]
