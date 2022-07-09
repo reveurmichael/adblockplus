@@ -3772,4 +3772,6 @@ zhuyulab.blog.csdn.net##.csdn-highschool-window.csdn-highschool-blog-window
 ||youtube.com/live_chat
 ||youtube.com/live_chat_replay
 ||zh.wikipedia.org/static/images/mobile/copyright/wikipedia-wordmark-zh-hans.svg
+bilibili.com##.second-line_right
+||discuss.d2l.ai/embed/comments
 
