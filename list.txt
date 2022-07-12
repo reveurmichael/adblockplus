@@ -1734,7 +1734,6 @@ gitee.com#?#div:-abp-has(> div > button[id="quiting-button"])
 github.com###sponsor-button-repo
 github.com##.Box.position-relative.rounded-2.mb-4.p-3.js-notice-dismiss
 github.com##.ClipboardButton.btn.js-clipboard-copy.m-2.p-0.tooltipped-no-delay
-github.com##.Details-content--shown
 github.com##.border.rounded-2.mb-4.pb-3.color-border-muted.color-bg-default.js-notice
 github.com##.border.rounded-2.mb-4.pb-3.color-border-muted.color-bg-default.js-notice
 github.com##.d-flex.flex-items-between.footer.container-lg.my-5.px-0
