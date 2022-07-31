@@ -235,7 +235,6 @@
 ##.krw0Mb
 ##.l3a1Nc
 ##.lBbtTb.z1asCe.rzyADb
-##.logo
 ##.logo.doodle
 ##.mIKy0c.OSrXXb.dGWpb
 ##.mNoUmd.TZZypb.mfMhoc
@@ -309,11 +308,9 @@
 ##.z4qXNd
 ##.zNFAfd
 ##back-top
-##btt-btn
 ##div[class="Okagcf"]
 ##div[class="header-main__wrapper"]
 ##g-img[class="QyR1Ze BA0A6c"]
-##langSelector
 ##yt-icon[class="style-scope ytd-searchbox"]
 360doc.com###adarttopgoogle
 360doc.com###contextmenudiv
