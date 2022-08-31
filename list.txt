@@ -3805,7 +3805,20 @@ gitee.com##a[sa_evt="recommenderClick"]
 google.com##.hww53CMqxtL__mobile-promo.hww53CMqxtL__visible
 zhuanlan.zhihu.com##.css-1izy64v
 github.com##.border-top.color-border-muted.pt-3.mt-3.d-none.d-md-block
-
+docs.w3cub.com###el-dialog-modal
+docs.w3cub.com##.el-dialog.el-dialog-hide.el-dialog-show
+docs.w3cub.com###el-dialog-overlay
+docs.w3cub.com##.el-dialog-overlay.active
+linkedin.com##.scaffold-layout-toolbar.scaffold-layout-toolbar--is-fixed.scaffold-layout-toolbar--is-fixed-visible
+kaggle.com##.sc-bczRLJ.dzhINC
+kaggle.com##button[aria-label="Copy cell link"]
+kaggle.com##button[aria-label="Embed cell"]
+kaggle.com##div[class="sc-dkzDqf kNUvAL"]
+youtube.com##.style-scope.yt-formatted-string.bold
+bilibili.com##a[class="ad-report video-card-ad-small"]
+geeksforgeeks.org###hslider
+geeksforgeeks.org##.main_wrapper
+geeksforgeeks.org##.header-main__slider
 
 
 
