@@ -3841,7 +3841,29 @@ gitee.com##.branch-diff-notice-bar
 gitee.com###navbar-search-input
 gitee.com###navbar-search-form
 bilibili.com##a[class="ad-report video-card-ad-small"]
-
+github.com##.border.rounded-2.mb-4.pb-3.color-border-muted.color-bg-default.js-notice
+github.com###feed-next
+github.com##.UnderlineNav-item.hx_underlinenav-item-ts.lh-0
+learncpp.com###site-header-main
+learncpp.com##.header-fixed
+learncpp.com###header-image-main
+learncpp.com###wpd-comm-550459_0
+learncpp.com##.wpd-comment.wpd_comment_level-1
+learncpp.com##.wpd-comment-header
+learncpp.com###comment-460920
+learncpp.com##.wpd-comment-right
+learncpp.com##.wpd-thread-list
+learncpp.com##.wpd-thread-head
+learncpp.com##.wpd-form-wrap
+learncpp.com##.prevnext
+learncpp.com##.footer-widget-inside
+learncpp.com###colophon-inside
+learncpp.com##.footer-one
+learncpp.com###secondary
+learncpp.com##.widget-area.sidey
+tutorialspoint.com##.container-fluid.px-3.px-xl-4
+tutorialspoint.com##.navbar-top
+tutorialspoint.com##.back-top
 
 
 
