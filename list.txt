@@ -3871,7 +3871,8 @@ arxiv.org##.columns.is-vcentered.is-hidden-mobile
 ##.js-saves-btn
 telecom.economictimes.indiatimes.com###yolooverlay
 telecom.economictimes.indiatimes.com##.login-blocker
-
+google.com##.nDcEnd
+##.nDcEnd
 
 
 
