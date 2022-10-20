@@ -3864,7 +3864,13 @@ learncpp.com##.widget-area.sidey
 tutorialspoint.com##.container-fluid.px-3.px-xl-4
 tutorialspoint.com##.navbar-top
 tutorialspoint.com##.back-top
-
+dl.acm.org##.logo
+arxiv.org###cu-identity
+arxiv.org##.columns.is-vcentered.is-hidden-mobile
+###saves-btn-148790
+##.js-saves-btn
+telecom.economictimes.indiatimes.com###yolooverlay
+telecom.economictimes.indiatimes.com##.login-blocker
 
 
 
