@@ -3873,7 +3873,12 @@ zhuyulab.blog.csdn.net##.csdn-highschool-window.csdn-highschool-blog-window
 ||youtube.com/live_chat
 ||youtube.com/live_chat_replay
 ||zh.wikipedia.org/static/images/mobile/copyright/wikipedia-wordmark-zh-hans.svg
-
+softwaretestinghelp.com##a[class="generate-back-to-top"]
+softwaretestinghelp.com##.inside-right-sidebar
+softwaretestinghelp.com##.inside-header
+softwaretestinghelp.com###site-navigation
+softwaretestinghelp.com##.auto-hide-sticky
+softwaretestinghelp.com##.site-info
 
 
 
