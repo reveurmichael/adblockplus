@@ -2713,7 +2713,6 @@ medium.com#?#div:-abp-has(> div > div > div > div > div > div > a:-abp-contains(
 medium.com#?#div:-abp-has(> div > div > div > span > a > div > svg[aria-label="clap"])
 medium.com#?#footer:-abp-has(> div > div > div > div > div > div > div > div > button > svg[aria-label="responses"])
 member.bilibili.com##.feedback-container.utils-box
-member.bilibili.com##.totop-container.utils-box
 microsoft.com###supColumnWrapper
 microsoft.com###uhf-footer
 microsoft.com##.c-uhff.context-uhf
