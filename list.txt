@@ -3913,7 +3913,19 @@ bilibili.com##.left-entry
 bilibili.com##.feed-floor-list
 gitee.com##.menu-item.board-view.border.d-flex-center.item
 gitee.com##.menu-item.milestone-btn.d-flex-center.border.item
-
+member.bilibili.com##.video-tab
+member.bilibili.com##.header-nav
+bilibili.com###data-up
+member.bilibili.com###data-up
+bilibili.com###fans
+member.bilibili.com###fans
+member.bilibili.com###growing-up
+bilibili.com###growing-up
+member.bilibili.com##.home-wrap.cc-content-body.pos-center
+member.bilibili.com##.notify-tips.layout.hover
+member.bilibili.com##.comment_wrap.cc-content-body.pos-center
+member.bilibili.com##.summary
+member.bilibili.com##.bcc-table__cell
 
 
 
