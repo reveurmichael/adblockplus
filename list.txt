@@ -3911,7 +3911,8 @@ bilibili.com##.carousel-area
 bilibili.com##.recommended-swipe-body
 bilibili.com##.left-entry
 bilibili.com##.feed-floor-list
-
+gitee.com##.menu-item.board-view.border.d-flex-center.item
+gitee.com##.menu-item.milestone-btn.d-flex-center.border.item
 
 
 
