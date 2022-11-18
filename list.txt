@@ -730,7 +730,6 @@ bilibili.com##.mini-header.m-header.mini-type
 bilibili.com##.mini-header__title
 bilibili.com##.mini-upload.van-popover__reference
 bilibili.com##.mini-upload.van-popover__reference.focusing
-bilibili.com##.name
 bilibili.com##.nav-link-ul
 bilibili.com##.nav-menu
 bilibili.com##.normal-members-container
