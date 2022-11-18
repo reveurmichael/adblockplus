@@ -3930,6 +3930,9 @@ member.bilibili.com##.data-card-detail
 member.bilibili.com##.card-container
 member.bilibili.com##.data-card
 member.bilibili.com##.medal
-
+||member.bilibili.com/york/ct-data/articleAnalysis
+member.bilibili.com##.content-layout_wrap.lab-box.cc-content-body.pos-center
+member.bilibili.com##.treaty-content-body
+member.bilibili.com##.setting
 
 
