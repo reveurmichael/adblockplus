@@ -3926,7 +3926,10 @@ member.bilibili.com##.notify-tips.layout.hover
 member.bilibili.com##.comment_wrap.cc-content-body.pos-center
 member.bilibili.com##.summary
 member.bilibili.com##.bcc-table__cell
-
+member.bilibili.com##.data-card-detail
+member.bilibili.com##.card-container
+member.bilibili.com##.data-card
+member.bilibili.com##.medal
 
 
 
