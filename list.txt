@@ -3900,8 +3900,6 @@ github.com##svg[data-test-selector="codespaces-notification-callout"]
 member.bilibili.com##.meta-footer.clearfix
 member.bilibili.com##.pubdate.is-success
 bilibili.com##.adblock-tips
-bilibili.com##.bili-video-card__wrap.__scale-wrap
-bilibili.com##.bili-video-card.is-rcmd
 bilibili.com##.channel-floor.bili-grid
 bilibili.com##.bili-live-card__wrap.__scale-wrap
 bilibili.com##.carousel-container
