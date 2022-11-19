@@ -3978,7 +3978,8 @@ bilibili.com##div[class="footer-item"]
 bilibili.com##div[class="activity-banner"]
 bilibili.com##div[class="upload-nav"]
 bilibili.com##div[class="editor-entry"]
-
+bilibili.com##div[class="nav-upload-container"]
+bilibili.com##a[class="nav-upload-item"]
 
 
 
