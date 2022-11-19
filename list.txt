@@ -3958,7 +3958,32 @@ member.bilibili.com##.link-top-item
 member.bilibili.com##.bcc-select-input-inner
 member.bilibili.com##.bcc-select-input-wrap
 member.bilibili.com##.cc-header
-
+space.bilibili.com##.bili-dyn-item__main
+space.bilibili.com##.n-btn.n-bangumi.n-subs.n-cinema.router-link-exact-active.router-link-active.active
+space.bilibili.com##.n-btn.n-dynamic
+space.bilibili.com##.n-data.n-bf
+space.bilibili.com##.n-data.n-fs
+space.bilibili.com##.h-level.m-level
+space.bilibili.com##.h-vipType.disable
+space.bilibili.com###h-sign
+space.bilibili.com##.space_input
+space.bilibili.com##.avatar-container
+space.bilibili.com##.normal-right
+space.bilibili.com##.normal-left
+space.bilibili.com##.h-v-btn.popup-select
+space.bilibili.com##.space-theme-trigger.icon
+space.bilibili.com##.icon.search-btn
+space.bilibili.com##.n-btn.n-bangumi.n-subs.n-cinema
+space.bilibili.com##.be-tab-inner.clearfix
+space.bilibili.com##.page-head__left
+space.bilibili.com##.v-filter-line.clearfix.page-head__right
+space.bilibili.com###submit-video-type-filter
+space.bilibili.com##.contribution-sidenav
+space.bilibili.com###h-name
+member.bilibili.com##.link-top-item.router-link-exact-active.active
+member.bilibili.com##.link-top-item
+member.bilibili.com##.bcc-select-input-inner
+member.bilibili.com##.bcc-select-input-wrap
 
 
 
