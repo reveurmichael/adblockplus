@@ -3945,7 +3945,19 @@ softwaretestinghelp.com##.inside-header
 softwaretestinghelp.com##.site-info
 softwaretestinghelp.com###sticky-navigation
 softwaretestinghelp.com##.auto-hide-sticky.main-navigation.sub-menu-right.stuckElement.is_stuck.navigation-stick.navigation-clone.sticky-navigation-transition.sticky-nav-scrolling-up
-
+member.bilibili.com##.comment_content
+member.bilibili.com##.comment_wrap.cc-content-body
+member.bilibili.com##.page-wrp.is-article.cc-zimu-wrp
+member.bilibili.com###appeal-main
+member.bilibili.com##.router-item
+member.bilibili.com##.router_wrap
+member.bilibili.com##.bcc-nav-slider-sub-menu
+member.bilibili.com##.bcc-nav-slider-item__content
+member.bilibili.com##.more-btn
+member.bilibili.com##.link-top-item
+member.bilibili.com##.bcc-select-input-inner
+member.bilibili.com##.bcc-select-input-wrap
+member.bilibili.com##.cc-header
 
 
 
