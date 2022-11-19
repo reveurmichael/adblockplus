@@ -3982,7 +3982,10 @@ member.bilibili.com##.link-top-item.router-link-exact-active.active
 member.bilibili.com##.link-top-item
 member.bilibili.com##.bcc-select-input-inner
 member.bilibili.com##.bcc-select-input-wrap
-
+bilibili.com##div[class="footer-item"]
+bilibili.com##div[class="activity-banner"]
+bilibili.com##div[class="upload-nav"]
+bilibili.com##div[class="editor-entry"]
 
 
 
