@@ -3980,7 +3980,11 @@ bilibili.com##div[class="upload-nav"]
 bilibili.com##div[class="editor-entry"]
 bilibili.com##div[class="nav-upload-container"]
 bilibili.com##a[class="nav-upload-item"]
-
+space.bilibili.com##.n-btn.n-setting
+space.bilibili.com##.play-all-channel
+space.bilibili.com##.list-style
+space.bilibili.com##.be-pager-total
+space.bilibili.com##.be-pager-options-elevator
 
 
 
