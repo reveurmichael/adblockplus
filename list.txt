@@ -3985,7 +3985,22 @@ space.bilibili.com##.play-all-channel
 space.bilibili.com##.list-style
 space.bilibili.com##.be-pager-total
 space.bilibili.com##.be-pager-options-elevator
-
+bilibili.com##div[class="bpx-player-video-info"]
+bilibili.com##div[class="bpx-player-video-info-online"]
+bilibili.com##div[class="bpx-player-video-info-divide"]
+bilibili.com##div[class="bpx-player-video-info-dm"]
+bilibili.com##div[class="bpx-player-dm-setting"]
+bilibili.com##div[class="bpx-player-video-inputbar"]
+bilibili.com##div[class="bpx-player-video-inputbar-wrap"]
+bilibili.com##div[class="bpx-player-dm-btn-send"]
+bilibili.com##div[class="bpx-player-top-issue"]
+bilibili.com##div[class="bpx-player-follow"]
+bilibili.com##div[class="bpx-player-top-left-follow"]
+bilibili.com##div[class="bpx-player-top-left"]
+bilibili.com##div[class="bpx-player-top-wrap"]
+bilibili.com##div[class="bpx-player-state-wrap"]
+bilibili.com##span[class="view item"]
+bilibili.com##div[class="video-data-list"]
 
 
 
