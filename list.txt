@@ -4003,6 +4003,8 @@ bilibili.com##span[class="view item"]
 bilibili.com##div[class="video-data-list"]
 bilibili.com##div[class="side-utils"]
 bilibili.com##div[class="back-top-box"]
+bilibili.com#?#a:-abp-has(> i[class="bcc-iconfont bcc-icon-icon_list_ranking_x1"])
+bilibili.com#?#a:-abp-has(> i[class="bcc-icon-icon_list_ranking_x1"])
 
 
 
