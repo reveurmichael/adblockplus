@@ -4001,6 +4001,8 @@ bilibili.com##div[class="bpx-player-top-wrap"]
 bilibili.com##div[class="bpx-player-state-wrap"]
 bilibili.com##span[class="view item"]
 bilibili.com##div[class="video-data-list"]
+bilibili.com##div[class="side-utils"]
+bilibili.com##div[class="back-top-box"]
 
 
 
