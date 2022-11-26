@@ -4011,6 +4011,7 @@ bilibili.com##div[class="bpx-player-ctrl-btn bpx-player-ctrl-playbackrate"]
 bilibili.com##div[class="bpx-player-ctrl-playbackrate"]
 bilibili.com##div[class="bpx-player-ctrl-btn bpx-player-ctrl-setting"]
 bilibili.com##div[class="bpx-player-ctrl-setting"]
+bilibili.com##div[class="upload-audit-progress"]
 bilibili.com##div[aria-label="字幕"]
 bilibili.com#?#a:-abp-has(> i[class="bcc-iconfont bcc-icon-icon_list_ranking_x1"])
 bilibili.com#?#a:-abp-has(> i[class="bcc-icon-icon_list_ranking_x1"])
