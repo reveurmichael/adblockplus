@@ -4017,6 +4017,7 @@ bilibili.com##div[class="follow-list-container"]
 bilibili.com##div[class="follow-tabs"]
 bilibili.com##div[class="follow-header follow-header-info"]
 bilibili.com##div[class="fans-action"]
+bilibili.com##div[class="v-popover-wrp submit-auto-tips"]
 bilibili.com##div[class="be-dropdown fans-action-btn fans-action-follow"]
 bilibili.com##div[aria-label="字幕"]
 bilibili.com#?#a:-abp-has(> i[class="bcc-iconfont bcc-icon-icon_list_ranking_x1"])
