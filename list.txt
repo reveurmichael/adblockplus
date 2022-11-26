@@ -4047,7 +4047,10 @@ bilibili.com##div[data-report="search-filter.all"]
 bilibili.com##div[class="side-buttons-wrapper i_wrapper"]
 bilibili.com##div[class="side-buttons-container p_fixed"]
 bilibili.com##div[class="vui_button vui_button--active-shrink btn-to-top visible"]
-bilibili.com##div[aria-label="字幕"]
+bilibili.com##div[class="bpx-player-ctrl-btn bpx-player-ctrl-wide"]
+bilibili.com##div[class="bpx-player-ctrl-btn bpx-player-ctrl-wide bpx-state-entered"]
+bilibili.com##div[aria-label="宽屏"]
+bilibili.com###bpx-svg-sprite-next
 bilibili.com#?#a:-abp-has(> i[class="bcc-iconfont bcc-icon-icon_list_ranking_x1"])
 bilibili.com#?#a:-abp-has(> i[class="bcc-icon-icon_list_ranking_x1"])
 
