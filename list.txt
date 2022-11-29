@@ -4042,6 +4042,8 @@ bilibili.com##svg[class="zhuzhan-icon"]
 bilibili.com##div[class="show-more-text"]
 bilibili.com##div[class="bili-watch-later"]
 bilibili.com##div[class="search-tabs i_wrapper"]
+bilibili.com##div[class="article-header showSecondTab"]
+bilibili.com##div[class="article-header"]
 bilibili.com##div[class="mt_xxl search-conditions i_wrapper mt_lg"]
 bilibili.com##div[class="conditions-order flex_between"]
 bilibili.com##div[class="bili-video-card__stats--left"]
@@ -4057,6 +4059,8 @@ bilibili.com##div[class="vui_button vui_button--active-shrink btn-to-top visible
 bilibili.com##div[class="bpx-player-ctrl-btn bpx-player-ctrl-wide"]
 bilibili.com##div[class="bpx-player-ctrl-btn bpx-player-ctrl-wide bpx-state-entered"]
 bilibili.com##div[aria-label="宽屏"]
+bilibili.com##video[loop=""]
+bilibili.com##span[class="i-watchlater"]
 bilibili.com###bpx-svg-sprite-next
 bilibili.com#?#a:-abp-has(> i[class="bcc-iconfont bcc-icon-icon_list_ranking_x1"])
 bilibili.com#?#a:-abp-has(> i[class="bcc-icon-icon_list_ranking_x1"])
