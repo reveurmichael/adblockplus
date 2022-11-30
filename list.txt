@@ -4076,6 +4076,7 @@ youtubekids.com##tp-yt-paper-button[id="privacy-notice-button"]
 youtubekids.com##tp-yt-paper-icon-button[id="volume-button"]
 ||google.com/logos/doodles/2022/veterans-day-2022-6753651837109534-l.webp
 google.com##.o3j99.LLD4me.LS8OJ
-
+github.com##div[class="js-profile-editable-area"]
+github.com##div[class="js-profile-editable-area"]
 
 
