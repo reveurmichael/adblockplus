@@ -4054,6 +4054,7 @@ bilibili.com##symbol[id="logo"]
 bilibili.com###bili-header-banner-img
 bilibili.com##div[data-report="search-filter.all"]
 bilibili.com##div[class="side-buttons-wrapper i_wrapper"]
+bilibili.com##div[class="pin-layer-search"]
 bilibili.com##div[class="side-buttons-container p_fixed"]
 bilibili.com##div[class="vui_button vui_button--active-shrink btn-to-top visible"]
 bilibili.com##div[class="bpx-player-ctrl-btn bpx-player-ctrl-wide"]
