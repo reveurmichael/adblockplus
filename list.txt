@@ -4085,4 +4085,11 @@ youtubekids.com##tp-yt-paper-icon-button[id="volume-button"]
 google.com##.o3j99.LLD4me.LS8OJ
 github.com##div[class="js-profile-editable-area"]
 ##.ZbYMvd
+youtube.com##.yt-spec-touch-feedback-shape__fill
+youtube.com##.yt-spec-touch-feedback-shape__stroke
+youtube.com##.yt-spec-touch-feedback-shape.yt-spec-touch-feedback-shape--touch-response
+youtube.com##.yt-spec-button-shape-next.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--size-m
+
+
+
 
