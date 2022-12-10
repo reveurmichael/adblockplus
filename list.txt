@@ -4089,7 +4089,15 @@ youtube.com##.yt-spec-touch-feedback-shape__fill
 youtube.com##.yt-spec-touch-feedback-shape__stroke
 youtube.com##.yt-spec-touch-feedback-shape.yt-spec-touch-feedback-shape--touch-response
 youtube.com##.yt-spec-button-shape-next.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--size-m
-
+cnblogs.com###blog_nav_admin
+cnblogs.com##.menu
+cnblogs.com###rss_link_split
+cnblogs.com###newpost_link_split
+||cnblogs.com/skins/autumn/images/xml.gif
+cnblogs.com###contact_link_split
+cnblogs.com###bloghome_link_split
+cnblogs.com###sitehome_link_split
+cnblogs.com##td[style="padding-bottom: 30px"]
 
 
 
