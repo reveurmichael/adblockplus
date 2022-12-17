@@ -4098,6 +4098,13 @@ cnblogs.com###contact_link_split
 cnblogs.com###bloghome_link_split
 cnblogs.com###sitehome_link_split
 cnblogs.com##td[style="padding-bottom: 30px"]
+baidu.com###s_js_news
+baidu.com###s_xmancard_news_new
+baidu.com###s_mancard_main
+baidu.com##.s-news-wrapper
+baidu.com##.hot-news-wrapper
+baidu.com##.hot-refresh-text
+
 
 
 
