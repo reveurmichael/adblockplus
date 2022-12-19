@@ -3906,6 +3906,7 @@ gitee.com##.menu-item.milestone-btn.d-flex-center.border.item
 member.bilibili.com##.video-tab
 member.bilibili.com##.header-nav
 bilibili.com###data-up
+bilibili.com##div[class="ep-list-card-operator-item ep-list-card-operator-edit ban"]
 member.bilibili.com###data-up
 bilibili.com###fans
 member.bilibili.com###fans
