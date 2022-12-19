@@ -4104,7 +4104,8 @@ baidu.com###s_mancard_main
 baidu.com##.s-news-wrapper
 baidu.com##.hot-news-wrapper
 baidu.com##.hot-refresh-text
-
-
-
+bing.com##.tdw_visitable_link
+bing.com###textDeeplinksWidgetContainer
+###textDeeplinksWidgetContainer
+##.tdw_visitable_link
 
