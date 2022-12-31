@@ -2707,7 +2707,6 @@ medium.com##div[data-popper-placement="top"]
 medium.com##nav
 medium.com#?#div:-abp-has( > div > span >  div > div > div > div > div > p:-abp-contains(Share your ideas with millions of readers))
 medium.com#?#div:-abp-has(> div > div > div > a > div > div > div > div > div > svg[aria-label="Home"])
-medium.com#?#div:-abp-has(> div > div > div > div > div > div >  p > span > a:-abp-contains(Sign In))
 medium.com#?#div:-abp-has(> div > div > div > div > div > div > a:-abp-contains(Try Knowable))
 medium.com#?#div:-abp-has(> div > div > div > span > a > div > svg[aria-label="clap"])
 medium.com#?#footer:-abp-has(> div > div > div > div > div > div > div > div > button > svg[aria-label="responses"])
@@ -3391,7 +3390,6 @@ toutiao.com##.video-item
 towardsdatascience.com##div[data-popper-placement="top"]
 towardsdatascience.com##nav
 towardsdatascience.com#?#div:-abp-has(> div > div > div > a > div > div > div > div > div > svg[aria-label="Home"])
-towardsdatascience.com#?#div:-abp-has(> div > div > div > div > div > div >  p > span > a:-abp-contains(Sign In))
 towardsdatascience.com#?#div:-abp-has(> div > div > div > div > div > span > a > button > div:-abp-contains(Get this newsletter))
 towardsdatascience.com#?#div:-abp-has(> div > div > div > span > a > div > svg[aria-label="clap"])
 towardsdatascience.com#?#div:-abp-has(> div > div > span > article > div > div > div > div > div > div > div > div > div > div > div > div > div > div > a[aria-label="Post Preview Title"])
