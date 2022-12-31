@@ -2711,6 +2711,7 @@ medium.com#?#div:-abp-has(> div > div > div > div > div > div > a:-abp-contains(
 medium.com#?#div:-abp-has(> div > div > div > span > a > div > svg[aria-label="clap"])
 medium.com#?#footer:-abp-has(> div > div > div > div > div > div > div > div > button > svg[aria-label="responses"])
 medium.com#?#div:-abp-has(> div > div > div > button > svg[aria-label="responses"])
+medium.com#?#div:-abp-has(> div > div > div > button[aria-label="responses"])
 member.bilibili.com##.feedback-container.utils-box
 microsoft.com###supColumnWrapper
 microsoft.com###uhf-footer
