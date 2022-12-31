@@ -3295,6 +3295,7 @@ support.microsoft.com##.sc-TBWPX.jvfpSe.c-uhf-nav-link
 techiedelight.com###blog_subscription-7
 techiedelight.com###eu-cookie-law
 techiedelight.com###footer
+##.js-accepted-answer-indicator
 techiedelight.com##.hide-on-button
 techiedelight.com##.textwidget.custom-html-widget
 techiedelight.com##.widget.widget_blog_subscription.jetpack_subscription_widget
