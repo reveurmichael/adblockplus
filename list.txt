@@ -2710,8 +2710,8 @@ medium.com#?#div:-abp-has(> div > div > div > a > div > div > div > div > div > 
 medium.com#?#div:-abp-has(> div > div > div > div > div > div > a:-abp-contains(Try Knowable))
 medium.com#?#div:-abp-has(> div > div > div > span > a > div > svg[aria-label="clap"])
 medium.com#?#footer:-abp-has(> div > div > div > div > div > div > div > div > button > svg[aria-label="responses"])
-|https://cdn-client.medium.com/lite/static/js/PostPage.RightColumnContent.b4e0e54b.chunk.js
-|https://cdn-client.medium.com/lite/static/js/PostNextFiveStories.1d6c4e3c.chunk.js
+|https://cdn-client.medium.com/lite/static/js/PostPage.RightColumnContent.*chunk.js
+|https://cdn-client.medium.com/lite/static/js/PostNextFiveStories.*chunk.js
 medium.com#?#div:-abp-has(> div > div > div > button[aria-label="responses"])
 medium.com#?#div:-abp-has(> div > div > div > button > svg[aria-label="responses"])
 member.bilibili.com##.feedback-container.utils-box
