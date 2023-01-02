@@ -4112,4 +4112,5 @@ bing.com##.tdw_visitable_link
 bing.com###textDeeplinksWidgetContainer
 ###textDeeplinksWidgetContainer
 ##.tdw_visitable_link
+youtube.com###sponsor-button
 
