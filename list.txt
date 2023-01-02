@@ -2712,6 +2712,8 @@ medium.com#?#div:-abp-has(> div > div > div > span > a > div > svg[aria-label="c
 medium.com#?#div:-abp-has(> div > div > div > div > div[aria-describedby="searchResults"])
 medium.com#?#div:-abp-has(> div > div > div > div > div[aria-labelledby="searchResults"])
 medium.com#?#div:-abp-has(> div > div > div > div > input[aria-label="search"])
+medium.com#?#div:-abp-has(> div > span > a > button[aria-controls="addToCatalogBookmarkButton"])
+medium.com##section[class="pw-more-medium-articles"]
 medium.com#?#footer:-abp-has(> div > div > div > div > div > div > div > div > button > svg[aria-label="responses"])
 |https://cdn-client.medium.com/lite/static/js/PostPage.RightColumnContent.*chunk.js
 |https://cdn-client.medium.com/lite/static/js/PostNextFiveStories.*chunk.js
