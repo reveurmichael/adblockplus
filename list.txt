@@ -2709,6 +2709,9 @@ medium.com#?#div:-abp-has( > div > span >  div > div > div > div > div > p:-abp-
 medium.com#?#div:-abp-has(> div > div > div > a > div > div > div > div > div > svg[aria-label="Home"])
 medium.com#?#div:-abp-has(> div > div > div > div > div > div > a:-abp-contains(Try Knowable))
 medium.com#?#div:-abp-has(> div > div > div > span > a > div > svg[aria-label="clap"])
+medium.com#?#div:-abp-has(> div > div > div > div > div[aria-describedby="searchResults"])
+medium.com#?#div:-abp-has(> div > div > div > div > div[aria-labelledby="searchResults"])
+medium.com#?#div:-abp-has(> div > div > div > div > input[aria-label="search"])
 medium.com#?#footer:-abp-has(> div > div > div > div > div > div > div > div > button > svg[aria-label="responses"])
 |https://cdn-client.medium.com/lite/static/js/PostPage.RightColumnContent.*chunk.js
 |https://cdn-client.medium.com/lite/static/js/PostNextFiveStories.*chunk.js
