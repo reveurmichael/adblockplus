@@ -4118,4 +4118,5 @@ bing.com###textDeeplinksWidgetContainer
 ###textDeeplinksWidgetContainer
 ##.tdw_visitable_link
 youtube.com###sponsor-button
+youtube.com##.style-scope.ytd-expandable-metadata-renderer
 
