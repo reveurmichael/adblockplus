@@ -4119,4 +4119,9 @@ bing.com###textDeeplinksWidgetContainer
 ##.tdw_visitable_link
 youtube.com###sponsor-button
 youtube.com##.style-scope.ytd-expandable-metadata-renderer
-
+google.com##.jOVpdb
+##.jOVpdb
+tutorialspoint.com##.qa_widget.mui-panel.prof-view-artcle
+runoob.com##.cate-items
+runoob.com##.sidebar-box.recommend-here.list-link
+runoob.com##.comment-signarea
