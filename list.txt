@@ -3966,6 +3966,8 @@ space.bilibili.com##.h-level.m-level
 space.bilibili.com##.h-vipType.disable
 space.bilibili.com###h-sign
 space.bilibili.com##.space_input
+jianshu.com##div[class="logo-container"]
+jianshu.com##a[class="logo-con-wrapper"]
 space.bilibili.com##.avatar-container
 space.bilibili.com##.normal-right
 space.bilibili.com##.normal-left
