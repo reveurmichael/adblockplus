@@ -3888,6 +3888,7 @@ softwaretestinghelp.com##.site-info
 makeuseof.com##.dgEhJe6g
 makeuseof.com##.fEy1Z2XT
 google.com.hk##.yQ0wwc
+gitee.com##users__personal-setting
 ##.yQ0wwc
 google.com.hk##.MwRhke
 ##.MwRhke
