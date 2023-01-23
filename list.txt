@@ -4096,9 +4096,17 @@ youtubekids.com##tp-yt-paper-icon-button[id="volume-button"]
 google.com##.o3j99.LLD4me.LS8OJ
 github.com##div[class="js-profile-editable-area"]
 ##.ZbYMvd
+wikipedia.org###vector-toc-collapsed-checkbox
+wikipedia.org##.vector-main-menu-container
+wikipedia.org##.vector-sitenotice-container
 wikipedia.org##div[class="vector-page-toolbar"]
 wikipedia.org###mw-panel-toc
-wikipedia.org##header
+wikipedia.org##header[class="mw-header mw-ui-icon-flush-left mw-ui-icon-flush-right"]
+wikipedia.org##.mw-footer-container
+wikipedia.org###p-lang-btn-checkbox
+wikipedia.org##.vector-menu-checkbox.mw-interlanguage-selector
+en.wikipedia.org###p-lang-btn-label
+en.wikipedia.org##.vector-menu-heading.mw-ui-button.mw-ui-quiet.mw-ui-progressive.mw-portlet-lang-heading-68
 youtube.com##.yt-spec-touch-feedback-shape__fill
 youtube.com##.yt-spec-touch-feedback-shape__stroke
 youtube.com##.yt-spec-touch-feedback-shape.yt-spec-touch-feedback-shape--touch-response
