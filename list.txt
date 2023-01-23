@@ -56,6 +56,7 @@
 ###saves-btn-148790
 ###sbfblt
 ###slim_appbar
+###textDeeplinksWidgetContainer
 ###thumb_f10
 ###thumb_t10
 ###ui-tooltip-0
@@ -117,6 +118,7 @@
 ##.MjUjnf.VM6qJ
 ##.MjUjnf.VM6qJ.ccRsrb
 ##.Ml4I6c
+##.MwRhke
 ##.NQyKp.Maj6Tc
 ##.NhRr3b
 ##.O3JH7.diAzE.qLBFXd.fnYJle
@@ -134,6 +136,7 @@
 ##.SLI5wb.zVq10e.TkZZsf.Wt5Tfe.llNkz
 ##.SR3ZX
 ##.SenEzd.TXKQpd.mIKy0c.OSrXXb.dGWpb
+##.Si7Nvc.O1t3Xb
 ##.SjnGOc
 ##.SvM71c
 ##.T4joj.dhERQc
@@ -156,6 +159,7 @@
 ##.YPxNKd
 ##.YoZiHf
 ##.YoZiHf
+##.ZbYMvd
 ##.Zgesjc
 ##.a1DBFd
 ##.a1DBFd
@@ -225,7 +229,9 @@
 ##.iTPLzd
 ##.iblpc
 ##.jD7Eif
+##.jOVpdb
 ##.jZWadf
+##.js-accepted-answer-indicator
 ##.js-bookmark-btn.s-btn.s-btn__unset.c-pointer.py4.js-gps-track
 ##.js-bounty-award.flex--item.s-badge.s-badge__bounty.s-badge__sm.as-center
 ##.js-saves-btn
@@ -246,6 +252,7 @@
 ##.mw-indicator
 ##.mwe-popups-container
 ##.n6h3Rc
+##.nDcEnd
 ##.nDcEnd
 ##.ndYZfc
 ##.newsletter-subscribe
@@ -284,6 +291,7 @@
 ##.td-scroll-up
 ##.td-scroll-up-visible
 ##.td-scroll-up.td-hide-scroll-up-on-mob.td-scroll-up-visible
+##.tdw_visitable_link
 ##.tfB0Bf
 ##.translate_btn
 ##.uU7dJb
@@ -304,6 +312,7 @@
 ##.y6Uyqe
 ##.yG4QQe.TBC9ub
 ##.yG4QQe.TBC9ub
+##.yQ0wwc
 ##.ySu5Fc
 ##.yg51vc
 ##.yob3kc
@@ -483,9 +492,12 @@ baidu.com###navs
 baidu.com###relativewords
 baidu.com###rs_new
 baidu.com###s-top-left
+baidu.com###s_js_news
+baidu.com###s_mancard_main
 baidu.com###s_qrcode_nologin
 baidu.com###s_side_wrapper
 baidu.com###s_top_wrap
+baidu.com###s_xmancard_news_new
 baidu.com###ts-image-uploader-icon
 baidu.com###u
 baidu.com###u1
@@ -528,6 +540,8 @@ baidu.com##.ec-d20-recomm-wrap-nobg.c-gap-top
 baidu.com##.guide-info-new.s_side_wrapper-left
 baidu.com##.head_nums_cont_inner
 baidu.com##.head_nums_cont_outer.OP_LOG.new_head_nums_cont_outer
+baidu.com##.hot-news-wrapper
+baidu.com##.hot-refresh-text
 baidu.com##.hotsearch-item
 baidu.com##.index-banner.square-banner-bgicon
 baidu.com##.invoke-block
@@ -564,6 +578,7 @@ baidu.com##.s-bottom-layer-content
 baidu.com##.s-bottom-layer.s-isindex-wrap
 baidu.com##.s-center-box
 baidu.com##.s-hotsearch-title
+baidu.com##.s-news-wrapper
 baidu.com##.s-p-top
 baidu.com##.s-top-left.s-isindex-wrap
 baidu.com##.s-top-right.s-isindex-wrap
@@ -658,9 +673,15 @@ bbs.csdn.net##.right_item
 bbs.csdn.net##.toolbar-container
 bibibili.com##a[class="ad-report video-card-ad-small"]
 bilibili.com###arc_toolbar_report
+bilibili.com###bili-header-banner-img
+bilibili.com###bili-header-banner-img
 bilibili.com###biliMainHeader
 bilibili.com###bili_report_douga
+bilibili.com###bpx-svg-sprite-next
 bilibili.com###comment
+bilibili.com###data-up
+bilibili.com###fans
+bilibili.com###growing-up
 bilibili.com###live_recommand_report
 bilibili.com###member-container
 bilibili.com###reco_list
@@ -672,12 +693,15 @@ bilibili.com###v_tag
 bilibili.com###v_upinfo
 bilibili.com###van-popover-1181
 bilibili.com##.activity
+bilibili.com##.adblock-tips
 bilibili.com##.appeal-text
 bilibili.com##.b-head
 bilibili.com##.bb-comment
+bilibili.com##.be-tab-cursor
 bilibili.com##.bili-footer
 bilibili.com##.bili-header__channel
 bilibili.com##.bili-layout
+bilibili.com##.bili-live-card__wrap.__scale-wrap
 bilibili.com##.bilibili-player-dm-tip-wrap
 bilibili.com##.bilibili-player-ending-panel-box-recommend
 bilibili.com##.bilibili-player-ending-panel-box-recommend-cover
@@ -777,14 +801,103 @@ bilibili.com##.video-toolbar.report-wrap-module.report-scroll-module
 bilibili.com##a[class="ad-report video-card-ad-small"]
 bilibili.com##a[class="ad-report video-card-ad-small"]
 bilibili.com##a[class="banner-link"]
+bilibili.com##a[class="entry-title"]
+bilibili.com##a[class="nav-upload-item"]
+bilibili.com##button[class="vui_button vui_button--link p_center showMediaMoreMin"]
+bilibili.com##div[aria-label="宽屏"]
+bilibili.com##div[class="activity-banner"]
 bilibili.com##div[class="animated-banner"]
+bilibili.com##div[class="article-header showSecondTab"]
+bilibili.com##div[class="article-header"]
 bilibili.com##div[class="b-logo b-wrap"]
+bilibili.com##div[class="back-top-box"]
+bilibili.com##div[class="bangumi-pgc-list i_wrapper search-all-list"]
+bilibili.com##div[class="be-dropdown fans-action-btn fans-action-follow"]
 bilibili.com##div[class="bili-banner"]
+bilibili.com##div[class="bili-video-card__stats--left"]
+bilibili.com##div[class="bili-watch-later"]
+bilibili.com##div[class="bpx-player-ctrl-btn bpx-player-ctrl-playbackrate"]
+bilibili.com##div[class="bpx-player-ctrl-btn bpx-player-ctrl-setting"]
+bilibili.com##div[class="bpx-player-ctrl-btn bpx-player-ctrl-subtitle"]
+bilibili.com##div[class="bpx-player-ctrl-btn bpx-player-ctrl-wide bpx-state-entered"]
+bilibili.com##div[class="bpx-player-ctrl-btn bpx-player-ctrl-wide"]
+bilibili.com##div[class="bpx-player-ctrl-playbackrate"]
+bilibili.com##div[class="bpx-player-ctrl-setting"]
+bilibili.com##div[class="bpx-player-ctrl-subtitle"]
+bilibili.com##div[class="bpx-player-dm-btn-send bui bui-button"]
+bilibili.com##div[class="bpx-player-dm-btn-send bui bui-button"]
+bilibili.com##div[class="bpx-player-dm-btn-send"]
+bilibili.com##div[class="bpx-player-dm-btn-send"]
+bilibili.com##div[class="bpx-player-dm-setting"]
+bilibili.com##div[class="bpx-player-ending-backdrop"]
+bilibili.com##div[class="bpx-player-ending-panel"]
+bilibili.com##div[class="bpx-player-ending-wrap"]
+bilibili.com##div[class="bpx-player-follow"]
+bilibili.com##div[class="bpx-player-pbp-pin-icon"]
+bilibili.com##div[class="bpx-player-share-panel"]
+bilibili.com##div[class="bpx-player-state-wrap"]
+bilibili.com##div[class="bpx-player-top-issue"]
+bilibili.com##div[class="bpx-player-top-left"]
+bilibili.com##div[class="bpx-player-top-left-follow"]
+bilibili.com##div[class="bpx-player-top-wrap"]
+bilibili.com##div[class="bpx-player-video-info"]
+bilibili.com##div[class="bpx-player-video-info-divide"]
+bilibili.com##div[class="bpx-player-video-info-dm"]
+bilibili.com##div[class="bpx-player-video-info-online"]
+bilibili.com##div[class="bpx-player-video-inputbar focus bpx-player-checkBox-hide"]
+bilibili.com##div[class="bpx-player-video-inputbar focus bpx-player-checkBox-hide"]
+bilibili.com##div[class="bpx-player-video-inputbar"]
+bilibili.com##div[class="bpx-player-video-inputbar"]
+bilibili.com##div[class="bpx-player-video-inputbar-wrap"]
 bilibili.com##div[class="comment"]
+bilibili.com##div[class="conditions-order flex_between"]
+bilibili.com##div[class="editor-entry"]
+bilibili.com##div[class="ep-list-card-operator-item ep-list-card-operator-edit ban"]
+bilibili.com##div[class="fans-action"]
+bilibili.com##div[class="feed-floor empty-floor"]
+bilibili.com##div[class="feed-floor-list"]
+bilibili.com##div[class="feed2-floors"]
+bilibili.com##div[class="follow-header follow-header-info"]
+bilibili.com##div[class="follow-list-container"]
+bilibili.com##div[class="follow-sidenav"]
+bilibili.com##div[class="follow-tabs"]
+bilibili.com##div[class="footer-item"]
 bilibili.com##div[class="header-banner__inner"]
+bilibili.com##div[class="header-channel"]
+bilibili.com##div[class="header-channel-fixed"]
 bilibili.com##div[class="members-info-v1"]
+bilibili.com##div[class="mt_xxl search-conditions i_wrapper mt_lg"]
+bilibili.com##div[class="nav-upload-container"]
+bilibili.com##div[class="paly-all-btn"]
+bilibili.com##div[class="pin-layer-search"]
+bilibili.com##div[class="recommended-container"]
+bilibili.com##div[class="search-tabs i_wrapper"]
+bilibili.com##div[class="show-more-text"]
+bilibili.com##div[class="side-buttons-container p_fixed"]
+bilibili.com##div[class="side-buttons-wrapper i_wrapper"]
+bilibili.com##div[class="side-utils"]
 bilibili.com##div[class="taper-line"]
+bilibili.com##div[class="upload-audit-progress"]
+bilibili.com##div[class="upload-nav"]
+bilibili.com##div[class="v-popover-wrp submit-auto-tips"]
+bilibili.com##div[class="video-data-list"]
+bilibili.com##div[class="vui_button vui_button--active-shrink btn-to-top visible"]
+bilibili.com##div[data-report="search-filter.all"]
 bilibili.com##li[class="v-popover-wrap"]
+bilibili.com##main[class="bili-feed4-layout"]
+bilibili.com##picture[id="bili-header-banner-img"]
+bilibili.com##span[class="bili-watch-later__tip"]
+bilibili.com##span[class="i-watchlater"]
+bilibili.com##span[class="playall"]
+bilibili.com##span[class="view item"]
+bilibili.com##svg[class="bili-watch-later__icon"]
+bilibili.com##svg[class="search-logo p_center_y"]
+bilibili.com##svg[class="zhuzhan-icon"]
+bilibili.com##symbol[id="logo"]
+bilibili.com##ul[class="left-entry"]
+bilibili.com##video[loop=""]
+bilibili.com#?#a:-abp-has(> i[class="bcc-icon-icon_list_ranking_x1"])
+bilibili.com#?#a:-abp-has(> i[class="bcc-iconfont bcc-icon-icon_list_ranking_x1"])
 bing.com###as_foot
 bing.com###b_context
 bing.com###b_footer
@@ -809,6 +922,7 @@ bing.com###sb_form_go
 bing.com###sc_hdu
 bing.com###sc_md
 bing.com###sw_clx
+bing.com###textDeeplinksWidgetContainer
 bing.com###thumb_f5
 bing.com###thumb_t5
 bing.com###tog-qry-link
@@ -854,6 +968,7 @@ bing.com##.sa_tm.sa_tmHS
 bing.com##.sc_hl1.hp_head_nav
 bing.com##.scs_arw
 bing.com##.tab-head.HeroTab
+bing.com##.tdw_visitable_link
 bing.com##.thumb_n.feedback-binded
 bing.com##.thumb_y.feedback-binded
 bing.com##.tipContainer.b_cards
@@ -1074,8 +1189,11 @@ cnblogs.com###BlogPostCategory
 cnblogs.com###EntryTag
 cnblogs.com###ad_t2
 cnblogs.com###blog-sidecolumn
+cnblogs.com###blog_nav_admin
 cnblogs.com###blog_post_info
+cnblogs.com###bloghome_link_split
 cnblogs.com###comment_form
+cnblogs.com###contact_link_split
 cnblogs.com###divCollapseViewArea
 cnblogs.com###divExpandViewArea
 cnblogs.com###footer
@@ -1084,12 +1202,15 @@ cnblogs.com###jsi-flying-fish-container
 cnblogs.com###leftmenu
 cnblogs.com###nav_main
 cnblogs.com###navigator
+cnblogs.com###newpost_link_split
 cnblogs.com###newscard
 cnblogs.com###post_next_prev
+cnblogs.com###rss_link_split
 cnblogs.com###sideBar
 cnblogs.com###sideCatalog-catalog
 cnblogs.com###sideToolbar
 cnblogs.com###sidebar
+cnblogs.com###sitehome_link_split
 cnblogs.com###top
 cnblogs.com###topMnu
 cnblogs.com###top_nav
@@ -1098,6 +1219,7 @@ cnblogs.com##.bannerbar.aliyun.forpc
 cnblogs.com##.clear
 cnblogs.com##.commentform
 cnblogs.com##.itnews.under-post-card
+cnblogs.com##.menu
 cnblogs.com##.navbar-main
 cnblogs.com##.navbar.forpc
 cnblogs.com##.newstext
@@ -1108,6 +1230,7 @@ cnblogs.com##.test11
 cnblogs.com##.under-post-card
 cnblogs.com##div[style="text-align: right"]
 cnblogs.com##p[style="text-align: center;font-size:35px;margin-bottom:5px;margin-top:20px;opacity: 0.5"]
+cnblogs.com##td[style="padding-bottom: 30px"]
 cnki.net###Ecp_header_Help
 cnki.net###Ecp_header_english
 cnki.net###Ecp_top_login_show
@@ -1225,6 +1348,7 @@ computingforgeeks.com##.td-scroll-up.td-hide-scroll-up-on-mob.td-scroll-up-visib
 computingforgeeks.com##.td-sub-footer-container.td-container-wrap
 computingforgeeks.com##.td_block_wrap.td_block_related_posts.tdi_5.td_with_ajax_pagination.td-pb-border-top.td_block_template_1
 cplusplus.com###I_bottom
+cplusplus.com###I_top
 cplusplus.com###I_userbuttons
 cplusplus.com###I_userid
 cppstories.com##.aside-top
@@ -1266,6 +1390,7 @@ csdn.net##.recommend-nps-box.common-nps-box
 data-flair.training##.\31 pw1bfsztpkf
 data-flair.training##.\31 pw1bfsztpkf
 data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAADICAAAAACIM/FCAAACh0lEQVR4Ae3ch5W0OgyG4dt/mQJ2xgQPzJoM1m3AbALrxzrf28FzsoP0HykJEEAAAUQTBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEkKK0789+GK/I2ezfQB522PnS1qc8pGgXvr4tE4aY0XOUWlGImThWgyCk6DleixzE7qwBkg/MGiDPlVVAyp1VQGrPKiACDhFI6VkF5LmzCki+sg7IwDoglnVAil0IMkeG9CyUiwsxLFUVFzJJOQaKCjFCDN9RXMjIX7W6ztZXZDKKCyn8sWJvH+nca7WHDN9lROlAliPH9iRKCPI4cswFJQWxB46toLQgQ9jhn5QYZA9DOkoMUoQde5YapAxDWkoNYsOQR3KQd9CxUnIQF4S49CB9ENKlBxmDEKsFUgMCCCCAAHIrSF61f6153Ajy8nyiPr8L5MXnmm4CyT2fzN4DUvHZ+ntA2tOQBRBAAAEEEEAAAQQQ7ZBaC6TwSiDUaYHQ2yuB0MN+ft+43whyrs4rgVCjBUKTFshLC6TUAjGA3AxSaYFYLZBOC2RUAsk8h5qTg9QcbEoOsoQhQ2qQhsO5xCD5dgB5JQaZ+KBKGtKecvR81Ic0ZDjByKdDx0rSEDZ/djQbH+bkIdvfJFm98BfV8hD2zprfVdlu9PxVeyYAkciREohRAplJCaRSAplJCcQogTjSAdlyHRBvSAekJR0QRzogA+mADJkOiCPSAPEtqYBshlRAXC43hxix2QiOuEZkVERykGyNo9idIZKE0HO7XrG6OiMShlDWjstVzdPgXtUH9v0CEidAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQP4HgjZxTpdEii0AAAAASUVORK5CYII=
+data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDI0LjAuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IlN0YW5kYXJkX3Byb2R1Y3RfaWNvbiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIKCSB4PSIwcHgiIHk9IjBweCIgd2lkdGg9IjE5MnB4IiBoZWlnaHQ9IjE5MnB4IiB2aWV3Qm94PSIwIDAgMTkyIDE5MiIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgMTkyIDE5MiIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxyZWN0IGlkPSJib3VuZGluZ19ib3hfMV8iIGZpbGw9Im5vbmUiIHdpZHRoPSIxOTIiIGhlaWdodD0iMTkyIi8+CjxnIGlkPSJhcnRfbGF5ZXIiPgoJPGNpcmNsZSBpZD0iRG90IiBmaWxsPSIjNDI4NUY0IiBjeD0iOTYiIGN5PSIxMDQuMTUiIHI9IjI4Ii8+Cgk8cGF0aCBpZD0iUmVkIiBmaWxsPSIjRUE0MzM1IiBkPSJNMTYwLDcydjQwLjE1VjEzNmMwLDEuNjktMC4zNCwzLjI5LTAuODIsNC44MnYwdjBjLTEuNTcsNC45Mi01LjQzLDguNzgtMTAuMzUsMTAuMzVoMHYwCgkJYy0xLjUzLDAuNDktMy4xMywwLjgyLTQuODIsMC44Mkg2NmwxNiwxNmg1MGgxMmM0LjQyLDAsOC42My0wLjksMTIuNDYtMi41MWMzLjgzLTEuNjIsNy4yOC0zLjk2LDEwLjE3LTYuODYKCQljMS40NS0xLjQ1LDIuNzYtMy4wMywzLjkxLTQuNzRjMi4zLTMuNCwzLjk2LTcuMjgsNC44MS0xMS40NGMwLjQzLTIuMDgsMC42NS00LjI0LDAuNjUtNi40NXYtMTJWOTYuMTVWODRsLTYtMTlsLTEwLjgyLDIuMTgKCQlDMTU5LjY2LDY4LjcxLDE2MCw3MC4zMSwxNjAsNzJ6Ii8+Cgk8cGF0aCBpZD0iQmx1ZSIgZmlsbD0iIzQyODVGNCIgZD0iTTMyLDcyYzAtMS42OSwwLjM0LTMuMjksMC44Mi00LjgyYzEuNTctNC45Miw1LjQzLTguNzgsMTAuMzUtMTAuMzVDNDQuNzEsNTYuMzQsNDYuMzEsNTYsNDgsNTYKCQloOTZjMS42OSwwLDMuMjksMC4zNCw0LjgyLDAuODJjMCwwLDAsMCwwLDBMMTQ5LDQ1bC0xNy01bC0xNi0xNmgtMTMuNDRIOTZoLTYuNTZINzZMNjAsNDBINDhjLTE3LjY3LDAtMzIsMTQuMzMtMzIsMzJ2MTJ2MjBsMTYsMTYKCQlWNzJ6Ii8+Cgk8cGF0aCBpZD0iR3JlZW4iIGZpbGw9IiMzNEE4NTMiIGQ9Ik0xNDQsNDBoLTEybDE2LjgzLDE2LjgzYzEuMjMsMC4zOSwyLjM5LDAuOTMsMy40NywxLjU5YzIuMTYsMS4zMiwzLjk3LDMuMTMsNS4yOSw1LjI5CgkJYzAuNjYsMS4wOCwxLjIsMi4yNCwxLjU5LDMuNDd2MEwxNzYsODRWNzJDMTc2LDU0LjMzLDE2MS42Nyw0MCwxNDQsNDB6Ii8+Cgk8cGF0aCBpZD0iWWVsbG93IiBmaWxsPSIjRkJCQzA0IiBkPSJNNDgsMTY4aDM5Ljg5bC0xNi0xNkg0OGMtOC44MiwwLTE2LTcuMTgtMTYtMTZ2LTIzLjg5bC0xNi0xNlYxMzZDMTYsMTUzLjY3LDMwLjMzLDE2OCw0OCwxNjh6CgkJIi8+CjwvZz4KPC9zdmc+Cg==
 data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDI0LjAuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IlN0YW5kYXJkX3Byb2R1Y3RfaWNvbiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIKCSB4PSIwcHgiIHk9IjBweCIgd2lkdGg9IjE5MnB4IiBoZWlnaHQ9IjE5MnB4IiB2aWV3Qm94PSIwIDAgMTkyIDE5MiIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgMTkyIDE5MiIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxyZWN0IGlkPSJib3VuZGluZ19ib3hfMV8iIGZpbGw9Im5vbmUiIHdpZHRoPSIxOTIiIGhlaWdodD0iMTkyIi8+CjxnIGlkPSJhcnRfbGF5ZXIiPgoJPGNpcmNsZSBpZD0iRG90IiBmaWxsPSIjNDI4NUY0IiBjeD0iOTYiIGN5PSIxMDQuMTUiIHI9IjI4Ii8+Cgk8cGF0aCBpZD0iUmVkIiBmaWxsPSIjRUE0MzM1IiBkPSJNMTYwLDcydjQwLjE1VjEzNmMwLDEuNjktMC4zNCwzLjI5LTAuODIsNC44MnYwdjBjLTEuNTcsNC45Mi01LjQzLDguNzgtMTAuMzUsMTAuMzVoMHYwCgkJYy0xLjUzLDAuNDktMy4xMywwLjgyLTQuODIsMC44Mkg2NmwxNiwxNmg1MGgxMmM0LjQyLDAsOC42My0wLjksMTIuNDYtMi41MWMzLjgzLTEuNjIsNy4yOC0zLjk2LDEwLjE3LTYuODYKCQljMS40NS0xLjQ1LDIuNzYtMy4wMywzLjkxLTQuNzRjMi4zLTMuNCwzLjk2LTcuMjgsNC44MS0xMS40NGMwLjQzLTIuMDgsMC42NS00LjI0LDAuNjUtNi40NXYtMTJWOTYuMTVWODRsLTYtMTlsLTEwLjgyLDIuMTgKCQlDMTU5LjY2LDY4LjcxLDE2MCw3MC4zMSwxNjAsNzJ6Ii8+Cgk8cGF0aCBpZD0iQmx1ZSIgZmlsbD0iIzQyODVGNCIgZD0iTTMyLDcyYzAtMS42OSwwLjM0LTMuMjksMC44Mi00LjgyYzEuNTctNC45Miw1LjQzLTguNzgsMTAuMzUtMTAuMzVDNDQuNzEsNTYuMzQsNDYuMzEsNTYsNDgsNTYKCQloOTZjMS42OSwwLDMuMjksMC4zNCw0LjgyLDAuODJjMCwwLDAsMCwwLDBMMTQ5LDQ1bC0xNy01bC0xNi0xNmgtMTMuNDRIOTZoLTYuNTZINzZMNjAsNDBINDhjLTE3LjY3LDAtMzIsMTQuMzMtMzIsMzJ2MTJ2MjBsMTYsMTYKCQlWNzJ6Ii8+Cgk8cGF0aCBpZD0iR3JlZW4iIGZpbGw9IiMzNEE4NTMiIGQ9Ik0xNDQsNDBoLTEybDE2LjgzLDE2LjgzYzEuMjMsMC4zOSwyLjM5LDAuOTMsMy40NywxLjU5YzIuMTYsMS4zMiwzLjk3LDMuMTMsNS4yOSw1LjI5CgkJYzAuNjYsMS4wOCwxLjIsMi4yNCwxLjU5LDMuNDd2MEwxNzYsODRWNzJDMTc2LDU0LjMzLDE2MS42Nyw0MCwxNDQsNDB6Ii8+Cgk8cGF0aCBpZD0iWWVsbG93IiBmaWxsPSIjRkJCQzA0IiBkPSJNNDgsMTY4aDM5Ljg5bC0xNi0xNkg0OGMtOC44MiwwLTE2LTcuMTgtMTYtMTZ2LTIzLjg5bC0xNi0xNlYxMzZDMTYsMTUzLjY3LDMwLjMzLDE2OCw0OCwxNjh6CgkJIi8+CjwvZz4KPC9zdmc+Cg==
 datascience.stackexchange.com###sidebar
 datascience.stackexchange.com##.d-flex.gs8.s-anchors.s-anchors__muted.fw-wrap
@@ -1464,6 +1589,7 @@ en.cppreference.com###cpp-head-first
 en.cppreference.com###cpp-head-second
 en.cppreference.com###footer
 en.cppreference.com###footer-places
+en.cppreference.com##.coliru-btn.coliru-btn-run-init.cye-lm-tag
 en.wikipedia.org###asn-dismissable-notice
 en.wikipedia.org###catlinks
 en.wikipedia.org###cnotice-main
@@ -1511,6 +1637,7 @@ en.wikipedia.org##.wll-logo
 en.wikipedia.org##img[src="//upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/20px-Semi-protection-shackle.svg.png"]
 en.wikipedia.org##img[src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png"]
 fastapi.tiangolo.com##.md-banner
+feishu.cn##.hc_sticky_container.js-hc_sticky_container
 forbes.com##.header.universal-header
 forbes.com##.header__nav
 forbes.com##.right-rail
@@ -1632,6 +1759,7 @@ gitee.com###explore
 gitee.com###feature-update-notice
 gitee.com###git-avatar-settings
 gitee.com###git-bulletin
+gitee.com###git-bulletin
 gitee.com###git-footer-main
 gitee.com###gitee-blog
 gitee.com###gitee-enterprise
@@ -1679,6 +1807,8 @@ gitee.com##.markdown-code-block-copy-btn
 gitee.com##.markdown-code-block-copy-btn
 gitee.com##.markdown-code-block-copy-btn.visible
 gitee.com##.markdown-code-block-copy-btn.visible
+gitee.com##.menu-item.board-view.border.d-flex-center.item
+gitee.com##.menu-item.milestone-btn.d-flex-center.border.item
 gitee.com##.mjc-animation-wrapper
 gitee.com##.mjc-animation-wrapper
 gitee.com##.mr-6.h-full
@@ -1705,6 +1835,7 @@ gitee.com##.ui.button.star
 gitee.com##.ui.checkbox.js-check-star
 gitee.com##.ui.dropdown.button.js-project-watch.active
 gitee.com##.ui.floating.dropdown.pull-right.active
+gitee.com##.ui.info.message
 gitee.com##.ui.info.message
 gitee.com##.ui.info.message.add-readme-tip
 gitee.com##.ui.info.message.no-license
@@ -1755,6 +1886,7 @@ gitee.com##div[class="item fork-container"]
 gitee.com##div[class="item gitosc-logo"]
 gitee.com##div[class="item star-container"]
 gitee.com##div[class="side-item events"]
+gitee.com##div[class="ui menu-item more-menu border dropdown"]
 gitee.com##div[id="blob-comment"]
 gitee.com##div[id="comment-box"]
 gitee.com##div[id="js-service-support-dropdown"]
@@ -1787,6 +1919,8 @@ github.com##.team-left-column.col-12.col-md-3.col-lg-3.pr-3.pr-md-4.pr-lg-5.mt-5
 github.com##.team-left-column.col-md-3.col-lg-4.mt-5.hide-lg.hide-md.hide-sm.border-bottom
 github.com##.team-left-column.col-md-3.col-lg-4.mt-5.hide-lg.hide-md.hide-sm.border-bottom
 github.com##.text-small.color-fg-muted.mx-md-2.mt-md-2.mb-2.mt-3
+github.com##div[class="js-profile-editable-area"]
+github.com##svg[data-test-selector="codespaces-notification-callout"]
 gitlab.com##.badge.badge-pill.issues-count.green-badge
 gitlab.com##.gl-card.gl-px-8.gl-py-6
 gitlab.com##.header-help-dropdown-toggle.gl-relative
@@ -1919,6 +2053,7 @@ google.com##.iTPLzd
 google.com##.iW7Mjc
 google.com##.iblpc
 google.com##.jD7Eif
+google.com##.jOVpdb
 google.com##.jOVpdb.QkCS1c
 google.com##.jYyFuf
 google.com##.jZWadf
@@ -1934,6 +2069,7 @@ google.com##.mp5Tqb
 google.com##.n6h3Rc
 google.com##.nDcEnd
 google.com##.ndYZfc
+google.com##.o3j99.LLD4me.LS8OJ
 google.com##.o3j99.n1xJcf.Ne6nSd
 google.com##.o3j99.qarstb
 google.com##.oBa0Fe
@@ -2030,6 +2166,7 @@ google.com.hk##.MUxGbd.wuQ4Ob.WZ8Tjf
 google.com.hk##.MV3Tnb
 google.com.hk##.MjUjnf.VM6qJ.ccRsrb
 google.com.hk##.Ml4I6c
+google.com.hk##.MwRhke
 google.com.hk##.P5BnJb
 google.com.hk##.PKhmud.sc-it.tzVsfd
 google.com.hk##.PUDfGe.z1asCe.kKuqUd
@@ -2038,6 +2175,7 @@ google.com.hk##.RBevQb.iUh30
 google.com.hk##.S4UV0.r2fjmd.pAbhZc.ouy7Mc.cB4NFc.GUHazd
 google.com.hk##.SR3ZX
 google.com.hk##.SenEzd.TXKQpd.mIKy0c.OSrXXb.dGWpb
+google.com.hk##.Si7Nvc.O1t3Xb
 google.com.hk##.SjnGOc
 google.com.hk##.SvM71c
 google.com.hk##.TCIIWe
@@ -2089,6 +2227,7 @@ google.com.hk##.lBbtTb.z1asCe.rzyADb
 google.com.hk##.logo
 google.com.hk##.mR2gOd
 google.com.hk##.mfMhoc
+google.com.hk##.nDcEnd
 google.com.hk##.o3j99.LLD4me.yr19Zb.LS8OJ
 google.com.hk##.o3j99.qarstb
 google.com.hk##.oBa0Fe
@@ -2116,6 +2255,7 @@ google.com.hk##.wxp1Sb
 google.com.hk##.xCURGd
 google.com.hk##.xTFaxe.IjabWd.z1asCe.SaPW2b
 google.com.hk##.yG4QQe.TBC9ub
+google.com.hk##.yQ0wwc
 google.com.hk##.ySu5Fc
 google.com.hk##.yg51vc
 google.com.hk##.yob3kc
@@ -2263,7 +2403,9 @@ jianshu.com##._3Pnjry
 jianshu.com##._3g0yKR
 jianshu.com##.d0hShY
 jianshu.com##.rEsl9f
+jianshu.com##a[class="logo-con-wrapper"]
 jianshu.com##div[class="_19DgIp"]
+jianshu.com##div[class="logo-container"]
 jianshu.com##div[id="_u6558800_p8eq6acyqc"]
 jianshu.com##div[id="note-page-comment"]
 jianshu.com##section[aria-label="baidu-ad"]
@@ -2675,6 +2817,8 @@ mail.yahoo.com##._yb_1j4de
 mail.yahoo.com##._yb_enrkh._yb_1rtc8
 mail.yahoo.com##._yb_f6uqo
 mail.yahoo.com##.c27KHO0_n.I_ZkbNhI.O_cMp.b_0.D_F.cdPFi_Z281SGl.r_P.s_6NIX.H_6NIX.j_Z197UJe.e_VHH8F.ab_C.X_dRA.cZW7ROP_A.O4_N.aw4_n.cdPFi4_ZkbNhI.Z_O.I4_Zwa5YI
+makeuseof.com##.dgEhJe6g
+makeuseof.com##.fEy1Z2XT
 map.baidu.com###activity-banner-panel
 map.baidu.com###newuilogo
 map.baidu.com##.BMap_cpyCtrl.BMap_noprint.anchorBL
@@ -2705,21 +2849,56 @@ matplotlib.org##.navbar-toggler-icon
 medium.com###credential_picker_container
 medium.com##div[data-popper-placement="top"]
 medium.com##nav
+medium.com##section[class="pw-more-medium-articles"]
 medium.com#?#div:-abp-has( > div > span >  div > div > div > div > div > p:-abp-contains(Share your ideas with millions of readers))
 medium.com#?#div:-abp-has(> div > div > div > a > div > div > div > div > div > svg[aria-label="Home"])
+medium.com#?#div:-abp-has(> div > div > div > button > svg[aria-label="responses"])
+medium.com#?#div:-abp-has(> div > div > div > button[aria-label="responses"])
 medium.com#?#div:-abp-has(> div > div > div > div > div > div > a:-abp-contains(Try Knowable))
-medium.com#?#div:-abp-has(> div > div > div > span > a > div > svg[aria-label="clap"])
 medium.com#?#div:-abp-has(> div > div > div > div > div[aria-describedby="searchResults"])
 medium.com#?#div:-abp-has(> div > div > div > div > div[aria-labelledby="searchResults"])
 medium.com#?#div:-abp-has(> div > div > div > div > input[aria-label="search"])
+medium.com#?#div:-abp-has(> div > div > div > span > a > div > svg[aria-label="clap"])
 medium.com#?#div:-abp-has(> div > span > a > button[aria-controls="addToCatalogBookmarkButton"])
-medium.com##section[class="pw-more-medium-articles"]
 medium.com#?#footer:-abp-has(> div > div > div > div > div > div > div > div > button > svg[aria-label="responses"])
-|https://cdn-client.medium.com/lite/static/js/PostPage.RightColumnContent.*chunk.js
-|https://cdn-client.medium.com/lite/static/js/PostNextFiveStories.*chunk.js
-medium.com#?#div:-abp-has(> div > div > div > button[aria-label="responses"])
-medium.com#?#div:-abp-has(> div > div > div > button > svg[aria-label="responses"])
+member.bilibili.com###appeal-main
+member.bilibili.com###data-up
+member.bilibili.com###fans
+member.bilibili.com###growing-up
+member.bilibili.com##.bcc-nav-slider-item__content
+member.bilibili.com##.bcc-nav-slider-sub-menu
+member.bilibili.com##.bcc-select-input-inner
+member.bilibili.com##.bcc-select-input-inner
+member.bilibili.com##.bcc-select-input-wrap
+member.bilibili.com##.bcc-select-input-wrap
+member.bilibili.com##.bcc-table__cell
+member.bilibili.com##.card-container
+member.bilibili.com##.cc-header
+member.bilibili.com##.comment_content
+member.bilibili.com##.comment_wrap.cc-content-body
+member.bilibili.com##.comment_wrap.cc-content-body.pos-center
+member.bilibili.com##.content-layout_wrap.lab-box.cc-content-body.pos-center
+member.bilibili.com##.data-card
+member.bilibili.com##.data-card-detail
 member.bilibili.com##.feedback-container.utils-box
+member.bilibili.com##.header-nav
+member.bilibili.com##.home-wrap.cc-content-body
+member.bilibili.com##.home-wrap.cc-content-body.pos-center
+member.bilibili.com##.link-top-item
+member.bilibili.com##.link-top-item
+member.bilibili.com##.link-top-item.router-link-exact-active.active
+member.bilibili.com##.medal
+member.bilibili.com##.meta-footer.clearfix
+member.bilibili.com##.more-btn
+member.bilibili.com##.notify-tips.layout.hover
+member.bilibili.com##.page-wrp.is-article.cc-zimu-wrp
+member.bilibili.com##.pubdate.is-success
+member.bilibili.com##.router-item
+member.bilibili.com##.router_wrap
+member.bilibili.com##.setting
+member.bilibili.com##.summary
+member.bilibili.com##.treaty-content-body
+member.bilibili.com##.video-tab
 microsoft.com###supColumnWrapper
 microsoft.com###uhf-footer
 microsoft.com##.c-uhff.context-uhf
@@ -2920,8 +3099,10 @@ runoob.com###comments
 runoob.com###runoob-detail-nav
 runoob.com###runoobvote-id-43479
 runoob.com###s
+runoob.com##.cate-items
 runoob.com##.col.logo
 runoob.com##.col.nav
+runoob.com##.comment-signarea
 runoob.com##.comt-meta.wrapper
 runoob.com##.fa.fa-moon-o
 runoob.com##.fa.fa-qrcode
@@ -2933,6 +3114,7 @@ runoob.com##.placeholder
 runoob.com##.previous-next-links
 runoob.com##.qrcode
 runoob.com##.runoob.cf
+runoob.com##.sidebar-box.recommend-here.list-link
 runoob.com##.title
 runoob.com##.upvotejs.upvotejs-enabled
 runoob.com##.w-1000.copyright
@@ -3015,6 +3197,20 @@ search.bilibili.com##.t
 search.bilibili.com##.tips-link
 search.bilibili.com##.type
 search.bilibili.com##.watch-later-trigger.watch-later
+segmentfault.com###article-header
+segmentfault.com###comment-area
+segmentfault.com###footer
+segmentfault.com###sf-header
+segmentfault.com##.align-items-center.btn-group-vertical
+segmentfault.com##.bg-transparent.card-header
+segmentfault.com##.bg-white.shadow-sm.py-0.fixed-top.animate__animated.animate__fadeInDown.animate__faster.navbar.navbar-expand-lg.navbar-light.bg-light
+segmentfault.com##.bg-white.shadow-sm.sticky-top.animate__animated.animate__fadeInDown.animate__faster.navbar.navbar-expand-lg.navbar-light
+segmentfault.com##.breadcrumb.bg-transparent
+segmentfault.com##.comment-wrap.card
+segmentfault.com##.d-flex.align-items-center.py-3.list-group-item.list-group-item-action
+segmentfault.com##.d-none.d-sm-block.bg-white.py-5.font-size-14.border-top
+segmentfault.com##.fade.modal.show
+segmentfault.com##.sticky-inner-wrapper
 serverfault.com###comments-link-385726
 serverfault.com###comments-link-385748
 serverfault.com###footer
@@ -3043,17 +3239,62 @@ serverfault.com##.user-info
 serverfault.com##.youarehere.is-selected.flex--item.s-btn.s-btn__muted.s-btn__outlined
 smallpdf.com##.g8wmsu-0.eQxqIw
 smallpdf.com##.sc-1o2e7ef-0.bYbgQN
+softwaretestinghelp.com###site-navigation
+softwaretestinghelp.com###site-navigation
+softwaretestinghelp.com###sticky-navigation
+softwaretestinghelp.com##.auto-hide-sticky
+softwaretestinghelp.com##.auto-hide-sticky.main-navigation.sub-menu-right.stuckElement
+softwaretestinghelp.com##.auto-hide-sticky.main-navigation.sub-menu-right.stuckElement.is_stuck.navigation-stick.navigation-clone.sticky-navigation-transition.sticky-nav-scrolling-up
+softwaretestinghelp.com##.inside-header
+softwaretestinghelp.com##.inside-header
+softwaretestinghelp.com##.inside-right-sidebar
+softwaretestinghelp.com##.inside-right-sidebar
+softwaretestinghelp.com##.site-info
+softwaretestinghelp.com##.site-info
+softwaretestinghelp.com##.tl-lb-target.tve-leads-track-lightbox-3.tve_p_lb_background.tve_lb_open.tve_lb_opening
+softwaretestinghelp.com##.tve_p_lb_content.tve-tl-anim.tl-anim-zoom_in.bSe.cnt.tve-leads-triggered
+softwaretestinghelp.com##.tve_p_lb_overlay
+softwaretestinghelp.com##a[class="generate-back-to-top"]
 sourcemaking.com##.announcement-block.prom.ga-triggered
 sourcemaking.com##.banner.prom.ga-triggered
 sourcemaking.com##.footer
 sourcemaking.com##.navigation-container
 sourcemaking.com##.prev-next
 sourcemaking.com##.prom.text.ga-triggered
+space.bilibili.com###h-name
+space.bilibili.com###h-sign
+space.bilibili.com###submit-video-type-filter
+space.bilibili.com##.avatar-container
+space.bilibili.com##.be-dropdown-trigger
+space.bilibili.com##.be-pager-options-elevator
+space.bilibili.com##.be-pager-total
+space.bilibili.com##.be-tab-cursor
+space.bilibili.com##.be-tab-inner.clearfix
+space.bilibili.com##.bili-dyn-item__main
 space.bilibili.com##.col-2
+space.bilibili.com##.contribution-sidenav
+space.bilibili.com##.h-level.m-level
+space.bilibili.com##.h-v-btn.popup-select
+space.bilibili.com##.h-vipType.disable
+space.bilibili.com##.icon.search-btn
 space.bilibili.com##.iconfont.icon-ic_more
+space.bilibili.com##.list-style
+space.bilibili.com##.n-btn.n-bangumi.n-subs.n-cinema
+space.bilibili.com##.n-btn.n-bangumi.n-subs.n-cinema.router-link-exact-active.router-link-active.active
+space.bilibili.com##.n-btn.n-dynamic
+space.bilibili.com##.n-btn.n-setting
+space.bilibili.com##.n-data.n-bf
+space.bilibili.com##.n-data.n-fs
+space.bilibili.com##.normal-left
+space.bilibili.com##.normal-right
+space.bilibili.com##.page-head__left
+space.bilibili.com##.play-all-channel
 space.bilibili.com##.section.elec
 space.bilibili.com##.section.i-live
+space.bilibili.com##.space-theme-trigger.icon
+space.bilibili.com##.space_input
 space.bilibili.com##.to-top
+space.bilibili.com##.v-filter-line.clearfix.page-head__right
 stackexchange.com###announcement-banner
 stackexchange.com###btnFollowPost-41650253
 stackexchange.com###comments-link-40568
@@ -3062,6 +3303,7 @@ stackexchange.com###js-gdpr-consent-banner
 stackexchange.com###left-sidebar
 stackexchange.com###noscript-warning
 stackexchange.com###post-form
+stackexchange.com###show-editor-button
 stackexchange.com###sidebar
 stackexchange.com##.\-marketing-link.js-gps-track.js-products-menu
 stackexchange.com##.bg-black-025.bs-sm.bt.bc-black-100.ps-fixed.l0.r0.b0.z-nav.js-dismissable-hero
@@ -3073,6 +3315,7 @@ stackexchange.com##.d-flex.g4.gsx.ai-center.sm\:fd-column.sm\:ai-start
 stackexchange.com##.d-flex.gs8.s-anchors.s-anchors__muted.fw-wrap
 stackexchange.com##.ff-sans.ps-fixed.z-nav-fixed.ws4.sm\:w-auto.p32.bg-black-750.fc-white.bar-lg.b16.l16.r16.js-consent-banner
 stackexchange.com##.flex--item.s-btn.s-btn__muted.s-btn__outlined
+stackexchange.com##.form-submit.print\:d-none.js-add-answer-component
 stackexchange.com##.grid--cell.s-btn.s-btn__muted.s-btn__outlined
 stackexchange.com##.grid.d-flex.gs8.s-anchors.s-anchors__muted.fw-wrap
 stackexchange.com##.grid.gs16.md\:fd-column.new-login-form
@@ -3127,6 +3370,7 @@ stackoverflow.com###js-gdpr-consent-banner
 stackoverflow.com###left-sidebar
 stackoverflow.com###noscript-warning
 stackoverflow.com###post-form
+stackoverflow.com###show-editor-button
 stackoverflow.com###sidebar
 stackoverflow.com##.\-marketing-link.js-gps-track.js-products-menu
 stackoverflow.com##.bg-black-025.bs-sm.bt.bc-black-100.ps-fixed.l0.r0.b0.z-nav.js-dismissable-hero
@@ -3141,6 +3385,7 @@ stackoverflow.com##.d-flex.g4.gsx.ai-center.sm\:fd-column.sm\:ai-start
 stackoverflow.com##.d-flex.gs8.s-anchors.s-anchors__muted.fw-wrap
 stackoverflow.com##.ff-sans.ps-fixed.z-nav-fixed.ws4.sm\:w-auto.p32.bg-black-750.fc-white.bar-lg.b16.l16.r16.js-consent-banner
 stackoverflow.com##.flex--item.s-btn.s-btn__muted.s-btn__outlined
+stackoverflow.com##.form-submit.print\:d-none.js-add-answer-component
 stackoverflow.com##.grid--cell.s-btn.s-btn__muted.s-btn__outlined
 stackoverflow.com##.grid.d-flex.gs8.s-anchors.s-anchors__muted.fw-wrap
 stackoverflow.com##.grid.gs16.md\:fd-column.new-login-form
@@ -3304,7 +3549,6 @@ support.microsoft.com##.sc-TBWPX.jvfpSe.c-uhf-nav-link
 techiedelight.com###blog_subscription-7
 techiedelight.com###eu-cookie-law
 techiedelight.com###footer
-##.js-accepted-answer-indicator
 techiedelight.com##.hide-on-button
 techiedelight.com##.textwidget.custom-html-widget
 techiedelight.com##.widget.widget_blog_subscription.jetpack_subscription_widget
@@ -3431,6 +3675,7 @@ tutorialspoint.com##.navbar-top
 tutorialspoint.com##.navbar-top
 tutorialspoint.com##.navbar-top.navbar-dark.d-xl-block.py-2.mx-2.mx-md-4.rounded-bottom-4
 tutorialspoint.com##.qa_category
+tutorialspoint.com##.qa_widget.mui-panel.prof-view-artcle
 tutorialspoint.com##.right-menu
 tutorialspoint.com##.row.uk-min-height
 tutorialspoint.com##.site-message
@@ -3526,7 +3771,11 @@ wikihow.com###article_courses_banner
 wikihow.com##.contribute2.show
 wikipedia.org###asn-dismissable-notice
 wikipedia.org###bluedeck_ding
+wikipedia.org###mw-panel-toc
+wikipedia.org###p-lang-btn-checkbox
+wikipedia.org###p-lang-btn-label
 wikipedia.org###setindexbox
+wikipedia.org###vector-toc-collapsed-checkbox
 wikipedia.org###wll2021
 wikipedia.org##.box-More_citations_needed.plainlinks.metadata.ambox.ambox-content.ambox-Refimprove
 wikipedia.org##.box-More_footnotes.plainlinks.metadata.ambox.ambox-style.ambox-More_footnotes
@@ -3534,6 +3783,7 @@ wikipedia.org##.box-More_footnotes.plainlinks.metadata.ambox.ambox-style.ambox-M
 wikipedia.org##.box-More_footnotes.plainlinks.metadata.ambox.ambox-style.ambox-More_footnotes
 wikipedia.org##.metadata.plainlinks.dmbox.dmbox-setindex
 wikipedia.org##.mw-editsection
+wikipedia.org##.mw-footer-container
 wikipedia.org##.mwe-popups-container
 wikipedia.org##.rt-tooltipContent.mw-parser-output
 wikipedia.org##.rt-tooltipTail
@@ -3541,9 +3791,15 @@ wikipedia.org##.side-box-flex
 wikipedia.org##.side-box-text.plainlist
 wikipedia.org##.side-box.side-box-right.plainlinks.sistersitebox
 wikipedia.org##.toctogglespan
+wikipedia.org##.vector-main-menu-container
+wikipedia.org##.vector-menu-checkbox.mw-interlanguage-selector
+wikipedia.org##.vector-menu-heading.mw-ui-button.mw-ui-quiet.mw-ui-progressive.mw-portlet-lang-heading-68
+wikipedia.org##.vector-sitenotice-container
 wikipedia.org##.wll-cta
 wikipedia.org##.wll-image
 wikipedia.org##.wll-logo
+wikipedia.org##div[class="vector-page-toolbar"]
+wikipedia.org##header[class="mw-header mw-ui-icon-flush-left mw-ui-icon-flush-right"]
 wrcbtv.com##.CollapsibleHeader
 wrcbtv.com##.Footer
 wrcbtv.com##.NewsBanner-item.NewsBanner-firstItem
@@ -3628,6 +3884,7 @@ youtube.com###search-icon-legacy
 youtube.com###search-icon-legacy
 youtube.com###sections
 youtube.com###sentiment
+youtube.com###sponsor-button
 youtube.com###title-container
 youtube.com###toast
 youtube.com###tooltip
@@ -3655,6 +3912,7 @@ youtube.com##.style-scope.ytd-button-renderer
 youtube.com##.style-scope.ytd-button-renderer.style-default.size-default
 youtube.com##.style-scope.ytd-comments
 youtube.com##.style-scope.ytd-engagement-panel-title-header-renderer
+youtube.com##.style-scope.ytd-expandable-metadata-renderer
 youtube.com##.style-scope.ytd-guide-renderer
 youtube.com##.style-scope.ytd-horizontal-card-list-renderer
 youtube.com##.style-scope.ytd-info-panel-content-renderer
@@ -3677,6 +3935,10 @@ youtube.com##.style-scope.ytd-two-column-browse-results-renderer
 youtube.com##.toast-button.style-scope.yt-notification-action-renderer.paper-toast-open
 youtube.com##.yt-simple-endpoint.style-scope.ytd-mini-guide-entry-renderer
 youtube.com##.yt-simple-endpoint.style-scope.ytd-rich-metadata-renderer
+youtube.com##.yt-spec-button-shape-next.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--size-m
+youtube.com##.yt-spec-touch-feedback-shape.yt-spec-touch-feedback-shape--touch-response
+youtube.com##.yt-spec-touch-feedback-shape__fill
+youtube.com##.yt-spec-touch-feedback-shape__stroke
 youtube.com##.ytp-autonav-toggle-button
 youtube.com##.ytp-autonav-toggle-button-container
 youtube.com##.ytp-cards-button-icon
@@ -3693,6 +3955,13 @@ youtube.com##.ytp-videowall-still.ytp-suggestion-set
 youtube.com##div[id="hover-overlays"]
 youtube.com##div[id="mouseover-overlay"]
 youtube.com##yt-icon[class="style-scope ytd-searchbox"]
+youtubekids.com###related
+youtubekids.com###video-metadata
+youtubekids.com##.style-scope.ytk-slim-video-metadata-renderer
+youtubekids.com##tp-yt-paper-button[id="privacy-notice-button"]
+youtubekids.com##tp-yt-paper-icon-button[id="player-autoplay-button"]
+youtubekids.com##tp-yt-paper-icon-button[id="player-next-button"]
+youtubekids.com##tp-yt-paper-icon-button[id="volume-button"]
 zh.wikipedia.org###asn-dismissable-notice
 zh.wikipedia.org###catlinks
 zh.wikipedia.org###footer
@@ -3777,6 +4046,8 @@ zhuanlan.zhihu.com##.css-1izy64v
 zhuanlan.zhihu.com##img[class="TitleImage"]
 zhuyulab.blog.csdn.net###csdn-highschool-window
 zhuyulab.blog.csdn.net##.csdn-highschool-window.csdn-highschool-blog-window
+|https://cdn-client.medium.com/lite/static/js/PostNextFiveStories.*chunk.js
+|https://cdn-client.medium.com/lite/static/js/PostPage.RightColumnContent.*chunk.js
 ||accounts./gsi/iframe/select
 ||accounts.google.com/gsi/iframe/select
 ||api.map.baidu.com/images/copyright_logo.png
@@ -3793,6 +4064,7 @@ zhuyulab.blog.csdn.net##.csdn-highschool-window.csdn-highschool-blog-window
 ||buy.tinypass.com/checkout/template/cacheableShow
 ||cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fgiphy.com%2Fembed%2FexQrMRVK2x9rW%2Ftwitter%2Fiframe&display_name=Giphy&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fjust-do-it-exQrMRVK2x9rW&image=https%3A%2F%2Fmedia3.giphy.com%2Fmedia%2FexQrMRVK2x9rW%2F200.gif&key=a19fcc184b9711e1b4764040d3dc5c07&type=text%2Fhtml&schema=giphy
 ||cdn2.jianshu.io/assets/default_avatar/3-9a2bcc21a5d89e21dafc73b39dc5f582.jpg
+||cnblogs.com/skins/autumn/images/xml.gif
 ||common.cnblogs.com/images/copycode.gif
 ||crossmark-cdn.crossref.org/widget/v2.0/logos/CROSSMARK_Color_horizontal.svg
 ||dblp.org/img/cog.dark.24x24.png
@@ -3820,6 +4092,7 @@ zhuyulab.blog.csdn.net##.csdn-highschool-window.csdn-highschool-blog-window
 ||google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png
 ||google.com/images/branding/googlelogo/2x/googlelogo_light_color_272x92dp.png
 ||google.com/images/hpp/YT_RedPlayButton_Icon_48x48.png
+||google.com/logos/doodles/2022/veterans-day-2022-6753651837109534-l.webp
 ||google.fr/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png
 ||googleapis.com^$domain=geeksforgeeks.com
 ||googleapis.com^$domain=medium.com
@@ -3851,7 +4124,9 @@ zhuyulab.blog.csdn.net##.csdn-highschool-window.csdn-highschool-blog-window
 ||leetcode.com/_next/static/images/logo-ff2b712834cf26bf50a5de58ee27bcef.png
 ||media.geeksforgeeks.org/wp-content/cdn-uploads/20200627154920/GFG-LT-CIP-camp2.png
 ||media.geeksforgeeks.org/wp-content/cdn-uploads/20200707154047/GFG_RT_CIP_8July.png
+||member.bilibili.com/york/ct-data/articleAnalysis
 ||miro.medium.com/max/3840
+||ngcc.bytedance.com/im-linkchat/*
 ||passport.csdn.net/account/login?from=https://blog.csdn.net/caoshangpa/article/details/79226270
 ||passport.csdn.net/account/login?from=https://blog.csdn.net/chance_wang/article/details/1609081
 ||passport.csdn.net/account/login?from=https://blog.csdn.net/simon_2011/article/details/78161322
@@ -3879,279 +4154,4 @@ zhuyulab.blog.csdn.net##.csdn-highschool-window.csdn-highschool-blog-window
 ||youtube.com/live_chat
 ||youtube.com/live_chat_replay
 ||zh.wikipedia.org/static/images/mobile/copyright/wikipedia-wordmark-zh-hans.svg
-softwaretestinghelp.com##a[class="generate-back-to-top"]
-softwaretestinghelp.com##.inside-right-sidebar
-softwaretestinghelp.com##.inside-header
-softwaretestinghelp.com###site-navigation
-softwaretestinghelp.com##.auto-hide-sticky
-softwaretestinghelp.com##.site-info
-makeuseof.com##.dgEhJe6g
-makeuseof.com##.fEy1Z2XT
-google.com.hk##.yQ0wwc
-##.yQ0wwc
-google.com.hk##.MwRhke
-##.MwRhke
-google.com.hk##.Si7Nvc.O1t3Xb
-##.Si7Nvc.O1t3Xb
-en.cppreference.com##.coliru-btn.coliru-btn-run-init.cye-lm-tag
-cplusplus.com###I_top
-data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDI0LjAuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IlN0YW5kYXJkX3Byb2R1Y3RfaWNvbiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIKCSB4PSIwcHgiIHk9IjBweCIgd2lkdGg9IjE5MnB4IiBoZWlnaHQ9IjE5MnB4IiB2aWV3Qm94PSIwIDAgMTkyIDE5MiIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgMTkyIDE5MiIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxyZWN0IGlkPSJib3VuZGluZ19ib3hfMV8iIGZpbGw9Im5vbmUiIHdpZHRoPSIxOTIiIGhlaWdodD0iMTkyIi8+CjxnIGlkPSJhcnRfbGF5ZXIiPgoJPGNpcmNsZSBpZD0iRG90IiBmaWxsPSIjNDI4NUY0IiBjeD0iOTYiIGN5PSIxMDQuMTUiIHI9IjI4Ii8+Cgk8cGF0aCBpZD0iUmVkIiBmaWxsPSIjRUE0MzM1IiBkPSJNMTYwLDcydjQwLjE1VjEzNmMwLDEuNjktMC4zNCwzLjI5LTAuODIsNC44MnYwdjBjLTEuNTcsNC45Mi01LjQzLDguNzgtMTAuMzUsMTAuMzVoMHYwCgkJYy0xLjUzLDAuNDktMy4xMywwLjgyLTQuODIsMC44Mkg2NmwxNiwxNmg1MGgxMmM0LjQyLDAsOC42My0wLjksMTIuNDYtMi41MWMzLjgzLTEuNjIsNy4yOC0zLjk2LDEwLjE3LTYuODYKCQljMS40NS0xLjQ1LDIuNzYtMy4wMywzLjkxLTQuNzRjMi4zLTMuNCwzLjk2LTcuMjgsNC44MS0xMS40NGMwLjQzLTIuMDgsMC42NS00LjI0LDAuNjUtNi40NXYtMTJWOTYuMTVWODRsLTYtMTlsLTEwLjgyLDIuMTgKCQlDMTU5LjY2LDY4LjcxLDE2MCw3MC4zMSwxNjAsNzJ6Ii8+Cgk8cGF0aCBpZD0iQmx1ZSIgZmlsbD0iIzQyODVGNCIgZD0iTTMyLDcyYzAtMS42OSwwLjM0LTMuMjksMC44Mi00LjgyYzEuNTctNC45Miw1LjQzLTguNzgsMTAuMzUtMTAuMzVDNDQuNzEsNTYuMzQsNDYuMzEsNTYsNDgsNTYKCQloOTZjMS42OSwwLDMuMjksMC4zNCw0LjgyLDAuODJjMCwwLDAsMCwwLDBMMTQ5LDQ1bC0xNy01bC0xNi0xNmgtMTMuNDRIOTZoLTYuNTZINzZMNjAsNDBINDhjLTE3LjY3LDAtMzIsMTQuMzMtMzIsMzJ2MTJ2MjBsMTYsMTYKCQlWNzJ6Ii8+Cgk8cGF0aCBpZD0iR3JlZW4iIGZpbGw9IiMzNEE4NTMiIGQ9Ik0xNDQsNDBoLTEybDE2LjgzLDE2LjgzYzEuMjMsMC4zOSwyLjM5LDAuOTMsMy40NywxLjU5YzIuMTYsMS4zMiwzLjk3LDMuMTMsNS4yOSw1LjI5CgkJYzAuNjYsMS4wOCwxLjIsMi4yNCwxLjU5LDMuNDd2MEwxNzYsODRWNzJDMTc2LDU0LjMzLDE2MS42Nyw0MCwxNDQsNDB6Ii8+Cgk8cGF0aCBpZD0iWWVsbG93IiBmaWxsPSIjRkJCQzA0IiBkPSJNNDgsMTY4aDM5Ljg5bC0xNi0xNkg0OGMtOC44MiwwLTE2LTcuMTgtMTYtMTZ2LTIzLjg5bC0xNi0xNlYxMzZDMTYsMTUzLjY3LDMwLjMzLDE2OCw0OCwxNjh6CgkJIi8+CjwvZz4KPC9zdmc+Cg==
-google.com.hk##.nDcEnd
-##.nDcEnd
-gitee.com###git-bulletin
-gitee.com##.ui.info.message
-stackexchange.com###show-editor-button
-stackexchange.com##.form-submit.print\:d-none.js-add-answer-component
-stackoverflow.com###show-editor-button
-stackoverflow.com##.form-submit.print\:d-none.js-add-answer-component
-github.com##svg[data-test-selector="codespaces-notification-callout"]
-member.bilibili.com##.meta-footer.clearfix
-member.bilibili.com##.pubdate.is-success
-bilibili.com##.adblock-tips
-bilibili.com##.bili-live-card__wrap.__scale-wrap
-gitee.com##.menu-item.board-view.border.d-flex-center.item
-gitee.com##.menu-item.milestone-btn.d-flex-center.border.item
-member.bilibili.com##.video-tab
-member.bilibili.com##.header-nav
-bilibili.com###data-up
-bilibili.com##div[class="ep-list-card-operator-item ep-list-card-operator-edit ban"]
-member.bilibili.com###data-up
-bilibili.com###fans
-member.bilibili.com###fans
-member.bilibili.com###growing-up
-bilibili.com###growing-up
-member.bilibili.com##.home-wrap.cc-content-body.pos-center
-member.bilibili.com##.notify-tips.layout.hover
-member.bilibili.com##.comment_wrap.cc-content-body.pos-center
-member.bilibili.com##.summary
-member.bilibili.com##.bcc-table__cell
-member.bilibili.com##.data-card-detail
-member.bilibili.com##.card-container
-member.bilibili.com##.data-card
-member.bilibili.com##.medal
-||member.bilibili.com/york/ct-data/articleAnalysis
-member.bilibili.com##.content-layout_wrap.lab-box.cc-content-body.pos-center
-member.bilibili.com##.treaty-content-body
-member.bilibili.com##.setting
-member.bilibili.com##.home-wrap.cc-content-body
-softwaretestinghelp.com##.tve_p_lb_overlay
-softwaretestinghelp.com##.tve_p_lb_content.tve-tl-anim.tl-anim-zoom_in.bSe.cnt.tve-leads-triggered
-softwaretestinghelp.com##.tl-lb-target.tve-leads-track-lightbox-3.tve_p_lb_background.tve_lb_open.tve_lb_opening
-softwaretestinghelp.com##.inside-right-sidebar
-softwaretestinghelp.com###site-navigation
-softwaretestinghelp.com##.auto-hide-sticky.main-navigation.sub-menu-right.stuckElement
-softwaretestinghelp.com##.inside-header
-softwaretestinghelp.com##.site-info
-softwaretestinghelp.com###sticky-navigation
-softwaretestinghelp.com##.auto-hide-sticky.main-navigation.sub-menu-right.stuckElement.is_stuck.navigation-stick.navigation-clone.sticky-navigation-transition.sticky-nav-scrolling-up
-member.bilibili.com##.comment_content
-member.bilibili.com##.comment_wrap.cc-content-body
-member.bilibili.com##.page-wrp.is-article.cc-zimu-wrp
-member.bilibili.com###appeal-main
-member.bilibili.com##.router-item
-member.bilibili.com##.router_wrap
-member.bilibili.com##.bcc-nav-slider-sub-menu
-member.bilibili.com##.bcc-nav-slider-item__content
-member.bilibili.com##.more-btn
-member.bilibili.com##.link-top-item
-member.bilibili.com##.bcc-select-input-inner
-member.bilibili.com##.bcc-select-input-wrap
-member.bilibili.com##.cc-header
-space.bilibili.com##.bili-dyn-item__main
-space.bilibili.com##.n-btn.n-bangumi.n-subs.n-cinema.router-link-exact-active.router-link-active.active
-space.bilibili.com##.n-btn.n-dynamic
-space.bilibili.com##.n-data.n-bf
-space.bilibili.com##.n-data.n-fs
-space.bilibili.com##.h-level.m-level
-space.bilibili.com##.h-vipType.disable
-space.bilibili.com###h-sign
-space.bilibili.com##.space_input
-jianshu.com##div[class="logo-container"]
-jianshu.com##a[class="logo-con-wrapper"]
-space.bilibili.com##.avatar-container
-space.bilibili.com##.normal-right
-space.bilibili.com##.normal-left
-space.bilibili.com##.h-v-btn.popup-select
-space.bilibili.com##.space-theme-trigger.icon
-space.bilibili.com##.icon.search-btn
-space.bilibili.com##.n-btn.n-bangumi.n-subs.n-cinema
-space.bilibili.com##.be-tab-inner.clearfix
-space.bilibili.com##.page-head__left
-space.bilibili.com##.v-filter-line.clearfix.page-head__right
-space.bilibili.com###submit-video-type-filter
-space.bilibili.com##.contribution-sidenav
-space.bilibili.com###h-name
-member.bilibili.com##.link-top-item.router-link-exact-active.active
-member.bilibili.com##.link-top-item
-member.bilibili.com##.bcc-select-input-inner
-member.bilibili.com##.bcc-select-input-wrap
-bilibili.com##div[class="footer-item"]
-bilibili.com##div[class="activity-banner"]
-bilibili.com##div[class="upload-nav"]
-bilibili.com##div[class="editor-entry"]
-bilibili.com##div[class="nav-upload-container"]
-bilibili.com##a[class="nav-upload-item"]
-space.bilibili.com##.n-btn.n-setting
-space.bilibili.com##.play-all-channel
-space.bilibili.com##.list-style
-space.bilibili.com##.be-pager-total
-space.bilibili.com##.be-pager-options-elevator
-bilibili.com##div[class="bpx-player-video-info"]
-bilibili.com##div[class="bpx-player-video-info-online"]
-bilibili.com##div[class="bpx-player-video-info-divide"]
-bilibili.com##div[class="bpx-player-video-info-dm"]
-bilibili.com##div[class="bpx-player-dm-setting"]
-bilibili.com##div[class="bpx-player-video-inputbar"]
-bilibili.com##div[class="bpx-player-video-inputbar-wrap"]
-bilibili.com##div[class="bpx-player-dm-btn-send"]
-bilibili.com##div[class="bpx-player-top-issue"]
-bilibili.com##div[class="bpx-player-follow"]
-bilibili.com##div[class="bpx-player-top-left-follow"]
-bilibili.com##div[class="bpx-player-top-left"]
-bilibili.com##div[class="bpx-player-top-wrap"]
-bilibili.com##div[class="bpx-player-state-wrap"]
-bilibili.com##span[class="view item"]
-bilibili.com##div[class="video-data-list"]
-bilibili.com##div[class="side-utils"]
-bilibili.com##div[class="back-top-box"]
-bilibili.com##div[class="bpx-player-dm-btn-send bui bui-button"]
-bilibili.com##div[class="bpx-player-video-inputbar focus bpx-player-checkBox-hide"]
-bilibili.com##div[class="bpx-player-ctrl-btn bpx-player-ctrl-subtitle"]
-bilibili.com##div[class="bpx-player-ctrl-subtitle"]
-bilibili.com##div[class="bpx-player-ctrl-btn bpx-player-ctrl-playbackrate"]
-bilibili.com##div[class="bpx-player-ctrl-playbackrate"]
-bilibili.com##div[class="bpx-player-ctrl-btn bpx-player-ctrl-setting"]
-bilibili.com##div[class="bpx-player-ctrl-setting"]
-bilibili.com##div[class="upload-audit-progress"]
-bilibili.com##div[class="follow-sidenav"]
-bilibili.com##div[class="follow-list-container"]
-bilibili.com##div[class="follow-tabs"]
-bilibili.com##div[class="follow-header follow-header-info"]
-bilibili.com##div[class="bpx-player-pbp-pin-icon"]
-bilibili.com##div[class="fans-action"]
-gitee.com##div[class="ui menu-item more-menu border dropdown"]
-bilibili.com##div[class="feed-floor empty-floor"]
-bilibili.com##picture[id="bili-header-banner-img"]
-bilibili.com###bili-header-banner-img
-bilibili.com##div[class="v-popover-wrp submit-auto-tips"]
-bilibili.com##div[class="be-dropdown fans-action-btn fans-action-follow"]
-bilibili.com##div[class="bpx-player-video-inputbar focus bpx-player-checkBox-hide"]
-bilibili.com##div[class="bpx-player-video-inputbar"]
-bilibili.com##div[class="bpx-player-dm-btn-send bui bui-button"]
-bilibili.com##div[class="bpx-player-dm-btn-send"]
-bilibili.com##div[class="recommended-container"]
-bilibili.com##div[class="feed2-floors"]
-bilibili.com##div[class="feed-floor-list"]
-bilibili.com##div[class="header-channel-fixed"]
-bilibili.com##svg[class="search-logo p_center_y"]
-bilibili.com##svg[class="bili-watch-later__icon"]
-bilibili.com##span[class="bili-watch-later__tip"]
-bilibili.com##div[class="header-channel"]
-bilibili.com##ul[class="left-entry"]
-bilibili.com##a[class="entry-title"]
-bilibili.com##svg[class="zhuzhan-icon"]
-bilibili.com##div[class="show-more-text"]
-bilibili.com##div[class="bili-watch-later"]
-bilibili.com##div[class="search-tabs i_wrapper"]
-bilibili.com##div[class="article-header showSecondTab"]
-bilibili.com##div[class="article-header"]
-bilibili.com##div[class="mt_xxl search-conditions i_wrapper mt_lg"]
-bilibili.com##div[class="conditions-order flex_between"]
-bilibili.com##div[class="bili-video-card__stats--left"]
-bilibili.com##main[class="bili-feed4-layout"]
-bilibili.com##div[class="bangumi-pgc-list i_wrapper search-all-list"]
-bilibili.com##button[class="vui_button vui_button--link p_center showMediaMoreMin"]
-bilibili.com##symbol[id="logo"]
-bilibili.com###bili-header-banner-img
-bilibili.com##div[data-report="search-filter.all"]
-bilibili.com##div[class="side-buttons-wrapper i_wrapper"]
-bilibili.com##div[class="pin-layer-search"]
-bilibili.com##div[class="bpx-player-ending-panel"]
-bilibili.com##div[class="bpx-player-share-panel"]
-bilibili.com##div[class="bpx-player-ending-wrap"]
-bilibili.com##div[class="paly-all-btn"]
-bilibili.com##div[class="bpx-player-ending-backdrop"]
-bilibili.com##div[class="side-buttons-container p_fixed"]
-bilibili.com##div[class="vui_button vui_button--active-shrink btn-to-top visible"]
-bilibili.com##div[class="bpx-player-ctrl-btn bpx-player-ctrl-wide"]
-bilibili.com##div[class="bpx-player-ctrl-btn bpx-player-ctrl-wide bpx-state-entered"]
-bilibili.com##div[aria-label="宽屏"]
-bilibili.com##video[loop=""]
-bilibili.com##span[class="i-watchlater"]
-bilibili.com##span[class="playall"]
-bilibili.com###bpx-svg-sprite-next
-bilibili.com#?#a:-abp-has(> i[class="bcc-iconfont bcc-icon-icon_list_ranking_x1"])
-bilibili.com#?#a:-abp-has(> i[class="bcc-icon-icon_list_ranking_x1"])
-space.bilibili.com##.be-dropdown-trigger
-space.bilibili.com##.be-tab-cursor
-bilibili.com##.be-tab-cursor
-youtubekids.com###video-metadata
-youtubekids.com##.style-scope.ytk-slim-video-metadata-renderer
-youtubekids.com###related
-youtubekids.com##tp-yt-paper-icon-button[id="player-next-button"]
-youtubekids.com##tp-yt-paper-icon-button[id="player-autoplay-button"]
-youtubekids.com##tp-yt-paper-button[id="privacy-notice-button"]
-youtubekids.com##tp-yt-paper-icon-button[id="volume-button"]
-||google.com/logos/doodles/2022/veterans-day-2022-6753651837109534-l.webp
-google.com##.o3j99.LLD4me.LS8OJ
-github.com##div[class="js-profile-editable-area"]
-##.ZbYMvd
-wikipedia.org###vector-toc-collapsed-checkbox
-wikipedia.org##.vector-main-menu-container
-wikipedia.org##.vector-sitenotice-container
-wikipedia.org##div[class="vector-page-toolbar"]
-wikipedia.org###mw-panel-toc
-wikipedia.org##header[class="mw-header mw-ui-icon-flush-left mw-ui-icon-flush-right"]
-wikipedia.org##.mw-footer-container
-wikipedia.org###p-lang-btn-checkbox
-wikipedia.org##.vector-menu-checkbox.mw-interlanguage-selector
-wikipedia.org###p-lang-btn-label
-wikipedia.org##.vector-menu-heading.mw-ui-button.mw-ui-quiet.mw-ui-progressive.mw-portlet-lang-heading-68
-youtube.com##.yt-spec-touch-feedback-shape__fill
-youtube.com##.yt-spec-touch-feedback-shape__stroke
-youtube.com##.yt-spec-touch-feedback-shape.yt-spec-touch-feedback-shape--touch-response
-youtube.com##.yt-spec-button-shape-next.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--size-m
-cnblogs.com###blog_nav_admin
-cnblogs.com##.menu
-cnblogs.com###rss_link_split
-cnblogs.com###newpost_link_split
-||cnblogs.com/skins/autumn/images/xml.gif
-cnblogs.com###contact_link_split
-cnblogs.com###bloghome_link_split
-cnblogs.com###sitehome_link_split
-cnblogs.com##td[style="padding-bottom: 30px"]
-baidu.com###s_js_news
-baidu.com###s_xmancard_news_new
-baidu.com###s_mancard_main
-baidu.com##.s-news-wrapper
-baidu.com##.hot-news-wrapper
-baidu.com##.hot-refresh-text
-bing.com##.tdw_visitable_link
-bing.com###textDeeplinksWidgetContainer
-###textDeeplinksWidgetContainer
-##.tdw_visitable_link
-youtube.com###sponsor-button
-youtube.com##.style-scope.ytd-expandable-metadata-renderer
-google.com##.jOVpdb
-##.jOVpdb
-tutorialspoint.com##.qa_widget.mui-panel.prof-view-artcle
-runoob.com##.cate-items
-runoob.com##.sidebar-box.recommend-here.list-link
-runoob.com##.comment-signarea
-||ngcc.bytedance.com/im-linkchat/*
-feishu.cn##.hc_sticky_container.js-hc_sticky_container
-segmentfault.com##.fade.modal.show
-segmentfault.com###footer
-segmentfault.com##.d-none.d-sm-block.bg-white.py-5.font-size-14.border-top
-segmentfault.com##.sticky-inner-wrapper
-segmentfault.com##.align-items-center.btn-group-vertical
-segmentfault.com###sf-header
-segmentfault.com##.bg-white.shadow-sm.sticky-top.animate__animated.animate__fadeInDown.animate__faster.navbar.navbar-expand-lg.navbar-light
-segmentfault.com###article-header
-segmentfault.com##.bg-white.shadow-sm.py-0.fixed-top.animate__animated.animate__fadeInDown.animate__faster.navbar.navbar-expand-lg.navbar-light.bg-light
-segmentfault.com##.d-flex.align-items-center.py-3.list-group-item.list-group-item-action
-segmentfault.com##.bg-transparent.card-header
-segmentfault.com###comment-area
-segmentfault.com##.comment-wrap.card
-segmentfault.com##.breadcrumb.bg-transparent
 
