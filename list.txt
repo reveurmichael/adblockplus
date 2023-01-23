@@ -4105,8 +4105,8 @@ wikipedia.org##header[class="mw-header mw-ui-icon-flush-left mw-ui-icon-flush-ri
 wikipedia.org##.mw-footer-container
 wikipedia.org###p-lang-btn-checkbox
 wikipedia.org##.vector-menu-checkbox.mw-interlanguage-selector
-en.wikipedia.org###p-lang-btn-label
-en.wikipedia.org##.vector-menu-heading.mw-ui-button.mw-ui-quiet.mw-ui-progressive.mw-portlet-lang-heading-68
+wikipedia.org###p-lang-btn-label
+wikipedia.org##.vector-menu-heading.mw-ui-button.mw-ui-quiet.mw-ui-progressive.mw-portlet-lang-heading-68
 youtube.com##.yt-spec-touch-feedback-shape__fill
 youtube.com##.yt-spec-touch-feedback-shape__stroke
 youtube.com##.yt-spec-touch-feedback-shape.yt-spec-touch-feedback-shape--touch-response
