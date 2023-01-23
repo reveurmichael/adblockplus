@@ -4096,6 +4096,9 @@ youtubekids.com##tp-yt-paper-icon-button[id="volume-button"]
 google.com##.o3j99.LLD4me.LS8OJ
 github.com##div[class="js-profile-editable-area"]
 ##.ZbYMvd
+wikipedia.org##div[class="vector-page-toolbar"]
+wikipedia.org###mw-panel-toc
+wikipedia.org##header
 youtube.com##.yt-spec-touch-feedback-shape__fill
 youtube.com##.yt-spec-touch-feedback-shape__stroke
 youtube.com##.yt-spec-touch-feedback-shape.yt-spec-touch-feedback-shape--touch-response
