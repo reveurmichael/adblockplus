@@ -4158,3 +4158,5 @@ zhuyulab.blog.csdn.net##.csdn-highschool-window.csdn-highschool-blog-window
 baidu.com###message-center-panel
 map.baidu.com###message-center-panel
 overleaf.com##footer
+overleaf.com##div[class="project-list-sidebar-survey ng-scope"]
+overleaf.com##div[class="project-list-sidebar-survey"]
