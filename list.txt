@@ -4167,4 +4167,5 @@ overleaf.com##header[class="outline-footer"]
 overleaf.com##a[class="toolbar-header-upgrade-prompt btn btn-primary btn-xs"]
 overleaf.com##.alert.alert-success.compile-time-warning
 overleaf.com##user-notifications
+shu.edu.cn###adu40
 
