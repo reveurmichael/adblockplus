@@ -4161,9 +4161,10 @@ overleaf.com##footer
 overleaf.com##div[class="project-list-sidebar-survey ng-scope"]
 overleaf.com##div[class="project-list-sidebar-survey"]
 overleaf.com##div[class="project-tools"]
+overleaf.com##div[class="user-notifications"]
 overleaf.com##div[class="editor-toggle-switch"]
 overleaf.com##header[class="outline-footer"]
 overleaf.com##a[class="toolbar-header-upgrade-prompt btn btn-primary btn-xs"]
 overleaf.com##.alert.alert-success.compile-time-warning
-
+overleaf.com##user-notifications
 
