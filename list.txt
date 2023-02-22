@@ -4172,6 +4172,7 @@ mail.google.com##.brC-bsf-aT5-aOt
 mail.google.com##.nH.aUx
 mail.google.com##.d-Na-JX-I.d-Na-M7-JX.d-Na-axY.d-Na-Gs.d-Na-JX-I-JW
 mail.google.com##.d-Na-JX-I.d-Na-JG.d-Na-IF.d-Na-JX-I-JW
-
+cloud.tencent.com##div[class="pls-footer J-qc-footer"]
+cloud.tencent.com##div[class="pls-floatbar J-qc-scrollbar"]
 
 
