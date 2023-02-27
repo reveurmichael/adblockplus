@@ -4177,4 +4177,4 @@ cloud.tencent.com##div[class="pls-floatbar J-qc-scrollbar"]
 cloud.tencent.com##.tpm1-anchor-widget__bd
 cloud.tencent.com##a[class="pls-back2top"]
 cloud.tencent.com##.rno-scrollbar-tools-button.rno-scrollbar-tools-toggle
-
+github.com##span[class="unread-indicator js-feature-preview-indicator"]
