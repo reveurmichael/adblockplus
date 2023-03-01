@@ -4179,3 +4179,4 @@ cloud.tencent.com##a[class="pls-back2top"]
 cloud.tencent.com##.rno-scrollbar-tools-button.rno-scrollbar-tools-toggle
 github.com##span[class="unread-indicator js-feature-preview-indicator"]
 bilibili.com##div[class="pop-live-small-mode part-undefined"]
+github.com#?#div:-abp-has(a[href="#enroll-beta"])
