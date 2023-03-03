@@ -4182,3 +4182,9 @@ bilibili.com##div[class="pop-live-small-mode part-undefined"]
 tencent.com##div[class="_sdk-entrance-btn"]
 cloud.tencent.com##div[class="_sdk-entrance-btn"]
 console.cloud.tencent.com##div[class="_sdk-entrance-btn"]
+gitee.com##div[class="fixed right-5 bottom-32 z-40 md:hidden"]
+gitee.com##a[aria-label="notifications"]
+gitee.com##img[alt="gitee logo"]
+
+
+
