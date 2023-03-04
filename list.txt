@@ -4198,7 +4198,8 @@ github.com##svg[class="octicon octicon-sidebar-expand"]
 github.com##svg[class="octicon octicon-filter"]
 github.com##span[class="TextInput-icon"]
 github.com##button[data-testid="collapse-file-tree-button"]
-
+github.com##details[data-target="notifications-list-subscription-form.details"]
+github.com##notifications-list-subscription-form[data-action="notifications-dialog-label-toggled:notifications-list-subscription-form#handleDialogLabelToggle"]
 
 
 
