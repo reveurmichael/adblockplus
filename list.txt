@@ -4192,7 +4192,8 @@ youtube.com##.yt-spec-button-shape-with-label
 youtube.com###actions
 youtube.com##.yt-spec-button-shape-next.yt-spec-button-shape-next--text.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--size-xl.yt-spec-button-shape-next--icon-button
 ||scholar.google.com/intl/en/scholar/images/2x/scholar_logo_64dp.png
-
+github.com##div[class="Box-sc-1gh2r6s-0 jypBpZ"]
+github.com##div[class="Box-sc-1gh2r6s-0 eQwyfV"]
 
 
 
