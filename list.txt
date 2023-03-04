@@ -4203,6 +4203,7 @@ github.com##span[class="TextInput-icon"]
 github.com##button[data-testid="collapse-file-tree-button"]
 github.com##details[data-target="notifications-list-subscription-form.details"]
 github.com##notifications-list-subscription-form[data-action="notifications-dialog-label-toggled:notifications-list-subscription-form#handleDialogLabelToggle"]
+github.com##button[data-component="IconButton" aria-label="outline"]
 
 
 
