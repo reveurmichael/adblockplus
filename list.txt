@@ -4186,6 +4186,9 @@ gitee.com##div[class="fixed right-5 bottom-32 z-40 md:hidden"]
 gitee.com##a[aria-label="notifications"]
 gitee.com##img[alt="gitee logo"]
 github.com#?#button:-abp-has(>span>span>svg[class="octicon octicon-arrow-up"])
+github.com#?#span:-abp-has(>span>svg[class="octicon octicon-arrow-up"])
+github.com#?#span:-abp-has(>svg[class="octicon octicon-arrow-up"])
+github.com##svg[class="octicon octicon-arrow-up"]
 scholar.google.com###gsc_prf_nbar_ccl
 ||map-mobile-resource.cdn.bcebos.com/icon/service/pc-station/default/PCBanner.png
 youtube.com##.yt-spec-button-shape-with-label
