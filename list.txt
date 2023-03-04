@@ -4194,6 +4194,7 @@ youtube.com##.yt-spec-button-shape-next.yt-spec-button-shape-next--text.yt-spec-
 ||scholar.google.com/intl/en/scholar/images/2x/scholar_logo_64dp.png
 github.com##div[class="Box-sc-1gh2r6s-0 jypBpZ"]
 github.com##div[class="Box-sc-1gh2r6s-0 eQwyfV"]
+github.com##svg[class="octicon octicon-sidebar-expand"]
 
 
 
