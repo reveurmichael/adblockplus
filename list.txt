@@ -4204,6 +4204,9 @@ github.com##button[data-testid="collapse-file-tree-button"]
 github.com##details[data-target="notifications-list-subscription-form.details"]
 github.com##notifications-list-subscription-form[data-action="notifications-dialog-label-toggled:notifications-list-subscription-form#handleDialogLabelToggle"]
 github.com##button[data-component="IconButton" aria-label="outline"]
-
+opensource.com###block-dynamicformblock-2
+opensource.com##.dyfo-float.block.block-rhcomdev-dyfo-block.block-rhcomdev-dyfo-block-dynamic-form-block.subscribe-float.show.pin-top
+opensource.com###subscribe-float-close
+opensource.com##.subscribe-float__close
 
 
