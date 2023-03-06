@@ -4208,5 +4208,7 @@ opensource.com###block-dynamicformblock-2
 opensource.com##.dyfo-float.block.block-rhcomdev-dyfo-block.block-rhcomdev-dyfo-block-dynamic-form-block.subscribe-float.show.pin-top
 opensource.com###subscribe-float-close
 opensource.com##.subscribe-float__close
+open.spotify.com##.ot-sdk-row
+open.spotify.com##.dz_h98rH9nZCwfPdnKgr
 
 
