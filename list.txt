@@ -4210,5 +4210,5 @@ opensource.com###subscribe-float-close
 opensource.com##.subscribe-float__close
 open.spotify.com##.ot-sdk-row
 open.spotify.com##.dz_h98rH9nZCwfPdnKgr
-
+baidu.com##span[class="ipt_rec"]
 
