@@ -4215,3 +4215,5 @@ bilibili.com##.fixed-sidenav-storage
 bilibili.com##div[class="plp-r"]
 youtube.com##.yt-spec-button-shape-next.yt-spec-button-shape-next--outline.yt-spec-button-shape-next--call-to-action.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--icon-leading
 youtube.com##.yt-spec-touch-feedback-shape.yt-spec-touch-feedback-shape--touch-response-inverse
+cn.bing.com###wikiWidgetContainer
+cn.bing.com##.b_widgetContainer.slide-in
