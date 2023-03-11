@@ -1623,8 +1623,6 @@ en.wikipedia.org###wikipedia_asian_month_2021
 en.wikipedia.org###wll2021
 en.wikipedia.org##.box-More_citations_needed.plainlinks.metadata.ambox.ambox-content.ambox-Refimprove
 en.wikipedia.org##.box-More_footnotes.plainlinks.metadata.ambox.ambox-style.ambox-More_footnotes
-en.wikipedia.org##.box-More_footnotes.plainlinks.metadata.ambox.ambox-style.ambox-More_footnotes
-en.wikipedia.org##.box-More_footnotes.plainlinks.metadata.ambox.ambox-style.ambox-More_footnotes
 en.wikipedia.org##.catlinks
 en.wikipedia.org##.cnotice
 en.wikipedia.org##.cnotice-logo-container
@@ -4205,8 +4203,6 @@ zhuyulab.blog.csdn.net##.csdn-highschool-window.csdn-highschool-blog-window
 ||s.yimg.com/uu/api/res/1.2/tlH39_E6uodAb71xKF1FVA--~B/Zmk9c3RyaW07aD0zODg7cHlvZmY9MDtxPTk1O3c9NzIwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/lo/api/res/1.2/KqQcbNNSaMrUcuyh80yCKg--~C/Y2g9MzExLjY2NTMwOTQ0NjI1NDA3O2NyPTE7Y3c9NTU0LjY3MzkxMzA0MzQ3ODM7ZHg9MjEuOTEzMDQzNDc4MjYwODc7ZHk9MjQuNjI1NDA3MTY2MTIzNzg7Zmk9dWxjcm9wOzthcHBpZD1wcm9kZXNrMg--/https://media.zenfs.com/fr/article.bfmtv.com/ffa1df1480068c4f9a2c9edcb631ae8a.cf.webp
 ||s4-cs-pub-std.oss-cn-hangzhou.aliyuncs.com/im_plugin_button_image/tid1628/udesk_1604663557483_siuog.png
 ||scholar.google.com/intl/en/scholar/images/2x/scholar_logo_64dp.png
-||scholar.google.com/intl/en/scholar/images/2x/scholar_logo_64dp.png
-||scikit-learn.org/stable/_static/scikit-learn-logo-small.png
 ||scikit-learn.org/stable/_static/scikit-learn-logo-small.png
 ||secure.gravatar.com/avatar
 ||static-cdn.jtvnw.net/emoticons/v2/929945/default/light/2.0
