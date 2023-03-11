@@ -322,6 +322,7 @@
 ##.z4qXNd
 ##.zNFAfd
 ##back-top
+##div[class="DhGrzc BDXcec"]
 ##div[class="Okagcf"]
 ##div[class="header-main__wrapper"]
 ##g-img[class="QyR1Ze BA0A6c"]
@@ -488,6 +489,7 @@ baidu.com###foot
 baidu.com###lg
 baidu.com###lm-new
 baidu.com###logo
+baidu.com###message-center-panel
 baidu.com###navs
 baidu.com###relativewords
 baidu.com###rs_new
@@ -602,6 +604,7 @@ baidu.com##div[class="bdsug bdsug-new"]
 baidu.com##div[class="c-img c-img-circle c-gap-right-xsmall"]
 baidu.com##div[style="overflow: hidden;background: #fff;"]
 baidu.com##div[style="position: fixed; bottom: 0px; left: 0px; z-index: 300; width: 100%; height: 52px; background: rgb(255, 255, 255); opacity: 1; border-top: 1px solid rgb(224, 224, 224); display: flex;"]
+baidu.com##span[class="ipt_rec"]
 baike.baidu.com###J-bds_app
 baike.baidu.com###J-bds_task
 baike.baidu.com###J-declare
@@ -739,6 +742,7 @@ bilibili.com##.download-entry.download-client-trigger
 bilibili.com##.ear.bilifont.bili-icon_youdaohang_xiaodianshitianxian
 bilibili.com##.eva-extension-body
 bilibili.com##.first-screen.b-wrap
+bilibili.com##.fixed-sidenav-storage
 bilibili.com##.header
 bilibili.com##.histories
 bilibili.com##.histories-wrap
@@ -870,6 +874,8 @@ bilibili.com##div[class="mt_xxl search-conditions i_wrapper mt_lg"]
 bilibili.com##div[class="nav-upload-container"]
 bilibili.com##div[class="paly-all-btn"]
 bilibili.com##div[class="pin-layer-search"]
+bilibili.com##div[class="plp-r"]
+bilibili.com##div[class="pop-live-small-mode part-undefined"]
 bilibili.com##div[class="recommended-container"]
 bilibili.com##div[class="search-tabs i_wrapper"]
 bilibili.com##div[class="show-more-text"]
@@ -1076,6 +1082,12 @@ builtin.com##.row.row-region-bottom
 builtin.com##.scrolling-cta.jobs-scrolling-cta.cta-visible
 builtin.com##.show
 christophm.github.io###cta-button-desktop
+cloud.tencent.com##.rno-scrollbar-tools-button.rno-scrollbar-tools-toggle
+cloud.tencent.com##.tpm1-anchor-widget__bd
+cloud.tencent.com##a[class="pls-back2top"]
+cloud.tencent.com##div[class="_sdk-entrance-btn"]
+cloud.tencent.com##div[class="pls-floatbar J-qc-scrollbar"]
+cloud.tencent.com##div[class="pls-footer J-qc-footer"]
 cn.bing.com###as_foot
 cn.bing.com###b_context
 cn.bing.com###b_footer
@@ -1105,6 +1117,7 @@ cn.bing.com###id_h
 cn.bing.com###id_l
 cn.bing.com###mfa_srch
 cn.bing.com###qs_searchBox
+cn.bing.com###recentSearchLGContainer
 cn.bing.com###sb_fdb
 cn.bing.com###sb_form_go
 cn.bing.com###sc_hdu
@@ -1118,6 +1131,7 @@ cn.bing.com###thumb_f5
 cn.bing.com###thumb_t5
 cn.bing.com###tog-qry-link
 cn.bing.com###vs_cont
+cn.bing.com###wikiWidgetContainer
 cn.bing.com##.actionmenuexp
 cn.bing.com##.as_rmhswarning
 cn.bing.com##.b_algospacing_block
@@ -1147,6 +1161,7 @@ cn.bing.com##.b_subModule
 cn.bing.com##.b_suffix.b_secondaryText.nowrap
 cn.bing.com##.b_traits.b_primtxt
 cn.bing.com##.b_underSearchbox
+cn.bing.com##.b_widgetContainer.slide-in
 cn.bing.com##.b_wpTabsWrapper
 cn.bing.com##.c_tlbxTrg
 cn.bing.com##.cico.siteicon
@@ -1161,6 +1176,7 @@ cn.bing.com##.gtt_left
 cn.bing.com##.header
 cn.bing.com##.hlig.feedback-binded
 cn.bing.com##.id_button
+cn.bing.com##.lgw-slide-in
 cn.bing.com##.mfa_btn
 cn.bing.com##.mic_cont.icon
 cn.bing.com##.null
@@ -1347,6 +1363,7 @@ computingforgeeks.com##.td-post-views
 computingforgeeks.com##.td-scroll-up.td-hide-scroll-up-on-mob.td-scroll-up-visible
 computingforgeeks.com##.td-sub-footer-container.td-container-wrap
 computingforgeeks.com##.td_block_wrap.td_block_related_posts.tdi_5.td_with_ajax_pagination.td-pb-border-top.td_block_template_1
+console.cloud.tencent.com##div[class="_sdk-entrance-btn"]
 cplusplus.com###I_bottom
 cplusplus.com###I_top
 cplusplus.com###I_userbuttons
@@ -1848,6 +1865,7 @@ gitee.com##.ui.yellow.message.recommend-notice.mt-0
 gitee.com##.users__personal-avatar
 gitee.com##.w-10.h-10.leading-10.bg-white.hover\:bg-gray-50.text-gray-400.rounded-full.shadow.text-center
 gitee.com##.w-10.h-10.leading-10.bg-white.hover\:bg-gray-50.text-gray-400.rounded-full.shadow.text-center
+gitee.com##a[aria-label="notifications"]
 gitee.com##a[class="git-nav-user__register-item"]
 gitee.com##a[class="git-nav-user__register-item"]
 gitee.com##a[class="git-nav-user__register-item"]
@@ -1881,6 +1899,7 @@ gitee.com##a[title="高校版"]
 gitee.com##a[title="高校版"]
 gitee.com##a[title="高校版"]
 gitee.com##a[title="高校版"]
+gitee.com##div[class="fixed right-5 bottom-32 z-40 md:hidden"]
 gitee.com##div[class="item donate-container"]
 gitee.com##div[class="item fork-container"]
 gitee.com##div[class="item gitosc-logo"]
@@ -1890,6 +1909,7 @@ gitee.com##div[class="ui menu-item more-menu border dropdown"]
 gitee.com##div[id="blob-comment"]
 gitee.com##div[id="comment-box"]
 gitee.com##div[id="js-service-support-dropdown"]
+gitee.com##img[alt="gitee logo"]
 gitee.com#?#div:-abp-has(> div > button[id="quiting-button"])
 gitee.com#?#div:-abp-has(> div > button[id="quiting-button"])
 gitee.com#?#div:-abp-has(> div > button[id="quiting-button"])
@@ -1919,8 +1939,22 @@ github.com##.team-left-column.col-12.col-md-3.col-lg-3.pr-3.pr-md-4.pr-lg-5.mt-5
 github.com##.team-left-column.col-md-3.col-lg-4.mt-5.hide-lg.hide-md.hide-sm.border-bottom
 github.com##.team-left-column.col-md-3.col-lg-4.mt-5.hide-lg.hide-md.hide-sm.border-bottom
 github.com##.text-small.color-fg-muted.mx-md-2.mt-md-2.mb-2.mt-3
+github.com##button[data-component="IconButton" aria-label="outline"]
+github.com##button[data-testid="collapse-file-tree-button"]
+github.com##details[data-target="notifications-list-subscription-form.details"]
+github.com##div[class="Box-sc-1gh2r6s-0 eQwyfV"]
+github.com##div[class="Box-sc-1gh2r6s-0 jypBpZ"]
 github.com##div[class="js-profile-editable-area"]
+github.com##notifications-list-subscription-form[data-action="notifications-dialog-label-toggled:notifications-list-subscription-form#handleDialogLabelToggle"]
+github.com##span[class="TextInput-icon"]
+github.com##span[class="unread-indicator js-feature-preview-indicator"]
+github.com##svg[class="octicon octicon-arrow-up"]
+github.com##svg[class="octicon octicon-filter"]
+github.com##svg[class="octicon octicon-sidebar-expand"]
 github.com##svg[data-test-selector="codespaces-notification-callout"]
+github.com#?#button:-abp-has(>span>span>svg[class="octicon octicon-arrow-up"])
+github.com#?#span:-abp-has(>span>svg[class="octicon octicon-arrow-up"])
+github.com#?#span:-abp-has(>svg[class="octicon octicon-arrow-up"])
 gitlab.com##.badge.badge-pill.issues-count.green-badge
 gitlab.com##.gl-card.gl-px-8.gl-py-6
 gitlab.com##.header-help-dropdown-toggle.gl-relative
@@ -2807,6 +2841,10 @@ machinelearningmastery.com##button
 machinelearningmastery.com##button
 machinelearningmastery.com##div[style="text-align: center;"]
 machinelearningmastery.com##div[style="text-align: center;"]
+mail.google.com##.brC-bsf-aT5-aOt
+mail.google.com##.d-Na-JX-I.d-Na-JG.d-Na-IF.d-Na-JX-I-JW
+mail.google.com##.d-Na-JX-I.d-Na-M7-JX.d-Na-axY.d-Na-Gs.d-Na-JX-I-JW
+mail.google.com##.nH.aUx
 mail.yahoo.com##.D_F.ab_C.gl_C.p_a.B_6Fd5.R_dm5.H_6UbO.W_6UbO.E_6Fd5.I_ZRpDPm.e_dRA.r_P.Z_O.I4_Zwa5YI
 mail.yahoo.com##.D_F.em_N.ek_BB.iz_A.iy_h.a_3vpWV.H_6D6F
 mail.yahoo.com##.D_F.en_0.gl_FM.je_6Fd5.jb_6Fd5.N_6Fd5.X_6Fd5.H_7bcz.k_w.I_ZkbNhI.m_Z14vXdP.U_67SN
@@ -2820,6 +2858,7 @@ mail.yahoo.com##.c27KHO0_n.I_ZkbNhI.O_cMp.b_0.D_F.cdPFi_Z281SGl.r_P.s_6NIX.H_6NI
 makeuseof.com##.dgEhJe6g
 makeuseof.com##.fEy1Z2XT
 map.baidu.com###activity-banner-panel
+map.baidu.com###message-center-panel
 map.baidu.com###newuilogo
 map.baidu.com##.BMap_cpyCtrl.BMap_noprint.anchorBL
 map.baidu.com##.message-center-entrance
@@ -2948,10 +2987,16 @@ nytimes.com###gateway-content
 nytimes.com##.css-5x99bu
 nytimes.com##.css-mcm29f
 ocw.mit.edu##.help-message
+open.spotify.com##.dz_h98rH9nZCwfPdnKgr
+open.spotify.com##.ot-sdk-row
 openclassrooms.com###course-footer
 openclassrooms.com##.alt-section.noMarginBottom
 openclassrooms.com##.jss2
+opensource.com###block-dynamicformblock-2
+opensource.com###subscribe-float-close
+opensource.com##.dyfo-float.block.block-rhcomdev-dyfo-block.block-rhcomdev-dyfo-block-dynamic-form-block.subscribe-float.show.pin-top
 opensource.com##.panel-pane.pane-block.pane-bean-email-capture.widget-block.widget-block__left.show
+opensource.com##.subscribe-float__close
 orcaes.co###backtotop
 orcaes.co###block-block-39
 orcaes.co###block-views-blog-block-3
@@ -2974,6 +3019,16 @@ orcaes.co##.region.region-bottom-third.col-xs-12.col-sm-6.col-md-3.col-lg-3
 orcaes.co##.region.region-right-sidebar.col-xs-12.col-sm-12.col-md-3.col-lg-3
 orcaes.co##.tb-megamenu-nav.nav.level-0.items-6
 orcaes.co##div[style="text-align:center"]
+overleaf.com##.alert.alert-success.compile-time-warning
+overleaf.com##a[class="toolbar-header-upgrade-prompt btn btn-primary btn-xs"]
+overleaf.com##div[class="editor-toggle-switch"]
+overleaf.com##div[class="project-list-sidebar-survey ng-scope"]
+overleaf.com##div[class="project-list-sidebar-survey"]
+overleaf.com##div[class="project-tools"]
+overleaf.com##div[class="user-notifications"]
+overleaf.com##footer
+overleaf.com##header[class="outline-footer"]
+overleaf.com##user-notifications
 php.cn##.layui-col-md4.article-list-right
 php.cn##.wwads-cn.wwads-vertical
 pinterest.com##.CCY.czT.eEj.XJa.FTD.L4E.DI9.BG7
@@ -3129,6 +3184,7 @@ scholar.google.com###gs_hdr_mnu
 scholar.google.com###gs_hp_cv19
 scholar.google.com###gs_hp_giants
 scholar.google.com###gs_hp_main
+scholar.google.com###gsc_prf_nbar_ccl
 scholar.google.com##.gs_btnMNT.gs_in_ib.gs_btn_lrge
 scholar.google.com##.gs_fa_td.gs_fao_info
 scholar.google.com##.gs_fao_actb
@@ -3237,6 +3293,7 @@ serverfault.com##.site-header
 serverfault.com##.top-bar.js-top-bar.top-bar__network
 serverfault.com##.user-info
 serverfault.com##.youarehere.is-selected.flex--item.s-btn.s-btn__muted.s-btn__outlined
+shu.edu.cn###adu40
 smallpdf.com##.g8wmsu-0.eQxqIw
 smallpdf.com##.sc-1o2e7ef-0.bYbgQN
 softwaretestinghelp.com###site-navigation
@@ -3554,6 +3611,7 @@ techiedelight.com##.textwidget.custom-html-widget
 techiedelight.com##.widget.widget_blog_subscription.jetpack_subscription_widget
 telecom.economictimes.indiatimes.com###yolooverlay
 telecom.economictimes.indiatimes.com##.login-blocker
+tencent.com##div[class="_sdk-entrance-btn"]
 tensorflow.org###devsite-select-15915869983017016-button
 tensorflow.org###devsite-select-15915869983017016-button
 tensorflow.org###devsite-select-19381318275548256-button
@@ -3862,6 +3920,7 @@ youdao.com##.via.ar
 youdao.com##.via.rank
 youdao.com##.word-book_operate.word-operate_comp
 youdao.com##langSelector
+youtube.com###actions
 youtube.com###chat
 youtube.com###chips
 youtube.com###country-code
@@ -3935,8 +3994,12 @@ youtube.com##.style-scope.ytd-two-column-browse-results-renderer
 youtube.com##.toast-button.style-scope.yt-notification-action-renderer.paper-toast-open
 youtube.com##.yt-simple-endpoint.style-scope.ytd-mini-guide-entry-renderer
 youtube.com##.yt-simple-endpoint.style-scope.ytd-rich-metadata-renderer
+youtube.com##.yt-spec-button-shape-next.yt-spec-button-shape-next--outline.yt-spec-button-shape-next--call-to-action.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--icon-leading
+youtube.com##.yt-spec-button-shape-next.yt-spec-button-shape-next--text.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--size-xl.yt-spec-button-shape-next--icon-button
 youtube.com##.yt-spec-button-shape-next.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--size-m
+youtube.com##.yt-spec-button-shape-with-label
 youtube.com##.yt-spec-touch-feedback-shape.yt-spec-touch-feedback-shape--touch-response
+youtube.com##.yt-spec-touch-feedback-shape.yt-spec-touch-feedback-shape--touch-response-inverse
 youtube.com##.yt-spec-touch-feedback-shape__fill
 youtube.com##.yt-spec-touch-feedback-shape__stroke
 youtube.com##.ytp-autonav-toggle-button
@@ -4122,6 +4185,7 @@ zhuyulab.blog.csdn.net##.csdn-highschool-window.csdn-highschool-blog-window
 ||javatpoint.com/images/menuhome64.png
 ||kns.cnki.net/kcms/detail/frame/list.aspx
 ||leetcode.com/_next/static/images/logo-ff2b712834cf26bf50a5de58ee27bcef.png
+||map-mobile-resource.cdn.bcebos.com/icon/service/pc-station/default/PCBanner.png
 ||media.geeksforgeeks.org/wp-content/cdn-uploads/20200627154920/GFG-LT-CIP-camp2.png
 ||media.geeksforgeeks.org/wp-content/cdn-uploads/20200707154047/GFG_RT_CIP_8July.png
 ||member.bilibili.com/york/ct-data/articleAnalysis
@@ -4141,6 +4205,7 @@ zhuyulab.blog.csdn.net##.csdn-highschool-window.csdn-highschool-blog-window
 ||s.yimg.com/uu/api/res/1.2/tlH39_E6uodAb71xKF1FVA--~B/Zmk9c3RyaW07aD0zODg7cHlvZmY9MDtxPTk1O3c9NzIwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/lo/api/res/1.2/KqQcbNNSaMrUcuyh80yCKg--~C/Y2g9MzExLjY2NTMwOTQ0NjI1NDA3O2NyPTE7Y3c9NTU0LjY3MzkxMzA0MzQ3ODM7ZHg9MjEuOTEzMDQzNDc4MjYwODc7ZHk9MjQuNjI1NDA3MTY2MTIzNzg7Zmk9dWxjcm9wOzthcHBpZD1wcm9kZXNrMg--/https://media.zenfs.com/fr/article.bfmtv.com/ffa1df1480068c4f9a2c9edcb631ae8a.cf.webp
 ||s4-cs-pub-std.oss-cn-hangzhou.aliyuncs.com/im_plugin_button_image/tid1628/udesk_1604663557483_siuog.png
 ||scholar.google.com/intl/en/scholar/images/2x/scholar_logo_64dp.png
+||scholar.google.com/intl/en/scholar/images/2x/scholar_logo_64dp.png
 ||scikit-learn.org/stable/_static/scikit-learn-logo-small.png
 ||scikit-learn.org/stable/_static/scikit-learn-logo-small.png
 ||secure.gravatar.com/avatar
@@ -4154,68 +4219,6 @@ zhuyulab.blog.csdn.net##.csdn-highschool-window.csdn-highschool-blog-window
 ||youtube.com/live_chat
 ||youtube.com/live_chat_replay
 ||zh.wikipedia.org/static/images/mobile/copyright/wikipedia-wordmark-zh-hans.svg
-##div[class="DhGrzc BDXcec"]
-baidu.com###message-center-panel
-map.baidu.com###message-center-panel
-overleaf.com##footer
-overleaf.com##div[class="project-list-sidebar-survey ng-scope"]
-overleaf.com##div[class="project-list-sidebar-survey"]
-overleaf.com##div[class="project-tools"]
-overleaf.com##div[class="user-notifications"]
-overleaf.com##div[class="editor-toggle-switch"]
-overleaf.com##header[class="outline-footer"]
-overleaf.com##a[class="toolbar-header-upgrade-prompt btn btn-primary btn-xs"]
-overleaf.com##.alert.alert-success.compile-time-warning
-overleaf.com##user-notifications
-shu.edu.cn###adu40
-mail.google.com##.brC-bsf-aT5-aOt
-mail.google.com##.nH.aUx
-mail.google.com##.d-Na-JX-I.d-Na-M7-JX.d-Na-axY.d-Na-Gs.d-Na-JX-I-JW
-mail.google.com##.d-Na-JX-I.d-Na-JG.d-Na-IF.d-Na-JX-I-JW
-cloud.tencent.com##div[class="pls-footer J-qc-footer"]
-cloud.tencent.com##div[class="pls-floatbar J-qc-scrollbar"]
-cloud.tencent.com##.tpm1-anchor-widget__bd
-cloud.tencent.com##a[class="pls-back2top"]
-cloud.tencent.com##.rno-scrollbar-tools-button.rno-scrollbar-tools-toggle
-github.com##span[class="unread-indicator js-feature-preview-indicator"]
-bilibili.com##div[class="pop-live-small-mode part-undefined"]
-tencent.com##div[class="_sdk-entrance-btn"]
-cloud.tencent.com##div[class="_sdk-entrance-btn"]
-console.cloud.tencent.com##div[class="_sdk-entrance-btn"]
-gitee.com##div[class="fixed right-5 bottom-32 z-40 md:hidden"]
-gitee.com##a[aria-label="notifications"]
-gitee.com##img[alt="gitee logo"]
-github.com#?#button:-abp-has(>span>span>svg[class="octicon octicon-arrow-up"])
-github.com#?#span:-abp-has(>span>svg[class="octicon octicon-arrow-up"])
-github.com#?#span:-abp-has(>svg[class="octicon octicon-arrow-up"])
-github.com##svg[class="octicon octicon-arrow-up"]
-scholar.google.com###gsc_prf_nbar_ccl
-||map-mobile-resource.cdn.bcebos.com/icon/service/pc-station/default/PCBanner.png
-youtube.com##.yt-spec-button-shape-with-label
-youtube.com###actions
-youtube.com##.yt-spec-button-shape-next.yt-spec-button-shape-next--text.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--size-xl.yt-spec-button-shape-next--icon-button
-||scholar.google.com/intl/en/scholar/images/2x/scholar_logo_64dp.png
-github.com##div[class="Box-sc-1gh2r6s-0 jypBpZ"]
-github.com##div[class="Box-sc-1gh2r6s-0 eQwyfV"]
-github.com##svg[class="octicon octicon-sidebar-expand"]
-github.com##svg[class="octicon octicon-filter"]
-github.com##span[class="TextInput-icon"]
-github.com##button[data-testid="collapse-file-tree-button"]
-github.com##details[data-target="notifications-list-subscription-form.details"]
-github.com##notifications-list-subscription-form[data-action="notifications-dialog-label-toggled:notifications-list-subscription-form#handleDialogLabelToggle"]
-github.com##button[data-component="IconButton" aria-label="outline"]
-opensource.com###block-dynamicformblock-2
-opensource.com##.dyfo-float.block.block-rhcomdev-dyfo-block.block-rhcomdev-dyfo-block-dynamic-form-block.subscribe-float.show.pin-top
-opensource.com###subscribe-float-close
-opensource.com##.subscribe-float__close
-open.spotify.com##.ot-sdk-row
-open.spotify.com##.dz_h98rH9nZCwfPdnKgr
-baidu.com##span[class="ipt_rec"]
-bilibili.com##.fixed-sidenav-storage
-bilibili.com##div[class="plp-r"]
-youtube.com##.yt-spec-button-shape-next.yt-spec-button-shape-next--outline.yt-spec-button-shape-next--call-to-action.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--icon-leading
-youtube.com##.yt-spec-touch-feedback-shape.yt-spec-touch-feedback-shape--touch-response-inverse
-cn.bing.com###wikiWidgetContainer
-cn.bing.com##.b_widgetContainer.slide-in
-cn.bing.com###recentSearchLGContainer
-cn.bing.com##.lgw-slide-in
+
+
+
