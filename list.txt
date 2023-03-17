@@ -4216,5 +4216,6 @@ zhuyulab.blog.csdn.net##.csdn-highschool-window.csdn-highschool-blog-window
 ||youtube.com/live_chat_replay
 ||zh.wikipedia.org/static/images/mobile/copyright/wikipedia-wordmark-zh-hans.svg
 cloud.tencent.com##div[class="tpm1-anchor-widget__inner"]
+cloud.tencent.com##div[class="_sdk-entrance-btn"]
 
 
