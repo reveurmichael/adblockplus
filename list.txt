@@ -4217,5 +4217,6 @@ zhuyulab.blog.csdn.net##.csdn-highschool-window.csdn-highschool-blog-window
 ||zh.wikipedia.org/static/images/mobile/copyright/wikipedia-wordmark-zh-hans.svg
 cloud.tencent.com##div[class="tpm1-anchor-widget__inner"]
 cloud.tencent.com##div[class="_sdk-entrance-btn"]
-
+en.wikipedia.org##.mw-ui-icon.mw-ui-icon-element.mw-ui-button.vector-limited-width-toggle
+wikipedia.org##.mw-ui-icon.mw-ui-icon-element.mw-ui-button.vector-limited-width-toggle
 
