@@ -4220,4 +4220,20 @@ cloud.tencent.com##div[class="_sdk-entrance-btn"]
 en.wikipedia.org##.mw-ui-icon.mw-ui-icon-element.mw-ui-button.vector-limited-width-toggle
 wikipedia.org##.mw-ui-icon.mw-ui-icon-element.mw-ui-button.vector-limited-width-toggle
 wikipedia.org##.vector-limited-width-toggle
+||player-video.lefigaro.fr/player-widget/#embedId=flive-channel-not-live-httpscdnjwplayercomplayersgaWxy4bVQJrZqen6html&isFirst=yes&channel=not-live&channelUrl=https%3A%2F%2Fcdn.jwplayer.com%2Fplayers%2FgaWxy4bV-QJrZqen6.html&channelTitle=La%20s%C3%A9lection%20Figaro%20Live%20du%20week-end
+lefigaro.fr##.fig-sticky-bottom-subscription-banner__link
+lefigaro.fr##.fig-sticky-bottom-subscription-banner__inner
+lefigaro.fr###fh-ft
+lefigaro.fr##.video-sticky-limit
+lefigaro.fr##.fh-subscribe.fh-subscribe--desktop
+github.com##.js-user-status-container.user-status-circle-badge.d-inline-block.lh-condensed-ultra.p-2
+github.com##.js-user-status-container.user-status-circle-badge
+github.com##.js-user-status-container
+
+
+
+
+
+
+
 
