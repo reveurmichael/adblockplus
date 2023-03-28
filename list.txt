@@ -4234,5 +4234,7 @@ zhuanlan.zhihu.com##.Catalog
 google.com##.sBbkle
 ##.sBbkle
 github.com##aside[aria-label="Your dev branch isn't protected"]
+github.com##aside[aria-label="Your master branch isn't protected"]
+github.com##aside[aria-label="Your main branch isn't protected"]
 
 
