@@ -4236,5 +4236,6 @@ google.com##.sBbkle
 github.com##aside[aria-label="Your dev branch isn't protected"]
 github.com##aside[aria-label="Your master branch isn't protected"]
 github.com##aside[aria-label="Your main branch isn't protected"]
-
+githu.com#?#div:-abp-has(> div > div > a[data-ga-click="Repository, go to new pull request form, location:recently pushed branches; text:Compare & pull request"])
+githu.com#?#div:-abp-has(> div > div > a:-abp-contains(Compare & pull request))
 
