@@ -4244,4 +4244,3 @@ bilibili.com##.toolbar_toolbar__NJCNy
 bilibili.com###review-module
 bilibili.com##.navTools_wrap__6zVtd
 bilibili.com##.review_review_module__ASXSK
-github.com##div[class="flash flash-warn color-fg-default mb-3"]
