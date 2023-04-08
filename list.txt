@@ -4242,4 +4242,5 @@ youtube.com##a[href="/premium"]
 bilibili.com##.mediainfo_media_toolbar__Plbze
 bilibili.com##.toolbar_toolbar__NJCNy
 bilibili.com###review-module
+bilibili.com##.navTools_wrap__6zVtd
 bilibili.com##.review_review_module__ASXSK
