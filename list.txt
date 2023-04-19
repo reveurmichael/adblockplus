@@ -4246,3 +4246,4 @@ bilibili.com##.navTools_wrap__6zVtd
 bilibili.com##.review_review_module__ASXSK
 youtube.com###secondary
 theminimalists.com##.grecaptcha-badge
+##.grecaptcha-badge
