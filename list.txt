@@ -4046,5 +4046,5 @@ zhuanlan.zhihu.com##.Qrcode-container.smallVersion
 zhuanlan.zhihu.com##.Recommendations-Main
 zhuanlan.zhihu.com##.Voters
 zhuanlan.zhihu.com##img[class="TitleImage"]
-zhuyulab.blog.csdn.net##.csdn-highschool-window.csdn-highschool-blog-window
-zhuyulab.blog.csdn.net###csdn-highschool-window
+##.csdn-highschool-window.csdn-highschool-blog-window
+###csdn-highschool-window
