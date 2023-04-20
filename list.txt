@@ -1,10 +1,10 @@
-!
+[Adblock Plus 2.0]
+! Version:
+! Title:
+! Last modified:
 ! Expires: 1 days (update frequency)
 ! Homepage:
-! Last modified:
-! Title:
-! Version:
-[Adblock Plus 2.0]
+!
 ##.a1DBFd
 ##.a9nkvf
 ##.aajZCb
