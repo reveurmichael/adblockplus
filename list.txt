@@ -4049,3 +4049,13 @@ zhuanlan.zhihu.com##img[class="TitleImage"]
 ##.csdn-highschool-window.csdn-highschool-blog-window
 ###csdn-highschool-window
 bing.com##.b-conclfb-wrapper
+softwaretestinghelp.com##.tve_p_lb_overlay
+softwaretestinghelp.com##.tve_p_lb_content.tve-tl-anim.tl-anim-zoom_in.bSe.cnt.tve-leads-triggered
+softwaretestinghelp.com##.tl-lb-target.tve-leads-track-lightbox-3.tve_p_lb_background.tve_lb_open.tve_lb_opening
+softwaretestinghelp.com##.inside-right-sidebar
+softwaretestinghelp.com###site-navigation
+softwaretestinghelp.com##.auto-hide-sticky.main-navigation.sub-menu-right.stuckElement
+softwaretestinghelp.com##.inside-header
+softwaretestinghelp.com##.site-info
+softwaretestinghelp.com###sticky-navigation
+softwaretestinghelp.com##.auto-hide-sticky.main-navigation.sub-menu-right.stuckElement.is_stuck.navigation-stick.navigation-clone.sticky-navigation-transition.sticky-nav-scrolling-up
