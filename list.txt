@@ -4048,3 +4048,4 @@ zhuanlan.zhihu.com##.Voters
 zhuanlan.zhihu.com##img[class="TitleImage"]
 ##.csdn-highschool-window.csdn-highschool-blog-window
 ###csdn-highschool-window
+bing.com##.b-conclfb-wrapper
