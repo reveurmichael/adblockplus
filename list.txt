@@ -4059,3 +4059,15 @@ softwaretestinghelp.com##.inside-header
 softwaretestinghelp.com##.site-info
 softwaretestinghelp.com###sticky-navigation
 softwaretestinghelp.com##.auto-hide-sticky.main-navigation.sub-menu-right.stuckElement.is_stuck.navigation-stick.navigation-clone.sticky-navigation-transition.sticky-nav-scrolling-up
+www.tensorflow.org##div[class="scSurveySurveymanagerroot"]
+tensorflow.org##div[class="scSurveySurveymanagerroot"]
+en.wikipedia.org##.vector-limited-width-popup
+wikipedia.org##.vector-limited-width-popup
+en.wikipedia.org##.vector-header-start
+en.wikipedia.org##.vector-user-links
+en.wikipedia.org###p-search
+wikipedia.org##.vector-header-start
+wikipedia.org##.vector-user-links
+wikipedia.org###p-search
+baike.baidu.com##.optimize-content
+baidu.com##.optimize-content
