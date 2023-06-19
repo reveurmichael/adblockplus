@@ -4080,3 +4080,7 @@ analyticsvidhya.com###loginModal
 analyticsvidhya.com##.modal.login-pop-up.show
 analyticsvidhya.com##.modal-backdrop.show
 edureka.co##.icon-bar-sticky.sticky
+console.cloud.tencent.com##div[class="_sdk-entrance-btn is-support J-onlin-service-entrance"]
+console.cloud.tencent.com##div[class="_sdk-entrance-btn is-dynamic dot"]
+console.cloud.tencent.com##div[class="_sdk-entrance-btn is-doc"]
+console.cloud.tencent.com##div[class="_sdk-entrance-btn is-operate"]
