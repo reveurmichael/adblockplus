@@ -4073,5 +4073,10 @@ baike.baidu.com##.optimize-content
 baidu.com##.optimize-content
 gitee.com##div[class="gitee-birthday-logo"]
 gitee.com##div[class="gitee-birthday-logo-container"]
-
-
+visualstudio.com##footer
+code.visualstudio.com##footer
+analyticsvidhya.com##.modal-content
+analyticsvidhya.com###loginModal
+analyticsvidhya.com##.modal.login-pop-up.show
+analyticsvidhya.com##.modal-backdrop.show
+edureka.co##.icon-bar-sticky.sticky
