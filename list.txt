@@ -4091,3 +4091,6 @@ cloud.tencent.com##div[class="_sdk-entrance-btn is-doc"]
 cloud.tencent.com##div[class="_sdk-entrance-btn is-operate"]
 cloud.tencent.com##div[data-hot="widget.help.productEvents"]
 geeksforgeeks.org##div[class="badges"]
+google.com.hk##.sBbkle
+##.sBbkle
+
