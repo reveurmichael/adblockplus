@@ -4089,6 +4089,7 @@ cloud.tencent.com##div[class="_sdk-entrance-btn is-support J-onlin-service-entra
 cloud.tencent.com##div[class="_sdk-entrance-btn is-dynamic dot"]
 cloud.tencent.com##div[class="_sdk-entrance-btn is-doc"]
 cloud.tencent.com##div[class="_sdk-entrance-btn is-operate"]
+cloud.tencent.com##span[class="sdk-menus-badge sdk-menus-badge--radius is-blue-dark"]
 cloud.tencent.com##div[data-hot="widget.help.productEvents"]
 geeksforgeeks.org##div[class="badges"]
 google.com.hk##.sBbkle
