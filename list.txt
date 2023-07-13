@@ -4097,3 +4097,4 @@ geeksforgeeks.org##div[class="badges"]
 google.com.hk##.sBbkle
 ##.sBbkle
 dev.to##.multiple_reactions_engagement
+docs.docker.com##.ot-floating-button__open
