@@ -4138,3 +4138,4 @@ y.qq.com##.mod_player_login
 y.qq.com##.btn_big_like
 y.qq.com##.btn_big_down
 y.qq.com##.mod_btn_comment
+dev.to##.crayons-card.crayons-card--secondary.crayons-sponsorship.billboard
