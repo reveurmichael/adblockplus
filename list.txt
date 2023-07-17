@@ -4154,3 +4154,4 @@ pan.baidu.com##.moreVertical.wp-s-header__right-item
 pan.baidu.com##.wp-s-aside-nav__util-fav-body
 pan.baidu.com##.wp-s-aside-nav__main-bottom
 pan.baidu.com##.wp-s-pan-file-main__nav-detail-switch.cursor-p
+github.com##.AppHeader-button.AppHeader-button--hasIndicator
