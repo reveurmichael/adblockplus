@@ -4156,3 +4156,4 @@ pan.baidu.com##.wp-s-aside-nav__main-bottom
 pan.baidu.com##.wp-s-pan-file-main__nav-detail-switch.cursor-p
 github.com##.AppHeader-button.AppHeader-button--hasIndicator
 pan.baidu.com##.u-badge__content.is-dot
+pan.baidu.com##.wp-s-aside-nav__sub-container.cursor-p.wp-s-aside-nav__list-shortcut-all
