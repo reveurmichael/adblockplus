@@ -4141,3 +4141,8 @@ y.qq.com##.mod_btn_comment
 dev.to##.crayons-card.crayons-card--secondary.crayons-sponsorship.billboard
 github.com###AppHeader-notifications-button
 github.com##.AppHeader-button.AppHeader-button--hasIndicator
+cloud.tencent.com##.cdc-footer.J-footer.com-2-footer
+cloud.tencent.com##.com-widget-global
+cloud.tencent.com##.widget-btn.widget-back2top
+segmentfault.com##.fade.modal
+segmentfault.com##.btn.btn-light
