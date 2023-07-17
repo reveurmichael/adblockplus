@@ -4146,3 +4146,10 @@ cloud.tencent.com##.com-widget-global
 cloud.tencent.com##.widget-btn.widget-back2top
 segmentfault.com##.fade.modal
 segmentfault.com##.btn.btn-light
+pan.baidu.com###web-header-text-s-43
+pan.baidu.com##.web-header-ad-item.wp-s-header__right-item
+pan.baidu.com##.wp-s-header__game-entry
+pan.baidu.com##.u-button.u-svip-button.wp-s-header__vip-btn-wrapper.u-button--default.u-button--mini.is-round.u-svip-button--main.u-svip-button--mini
+pan.baidu.com##.moreVertical.wp-s-header__right-item
+pan.baidu.com##.wp-s-aside-nav__util-fav-body
+pan.baidu.com##.wp-s-aside-nav__main-bottom
