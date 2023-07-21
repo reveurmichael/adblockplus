@@ -4160,3 +4160,6 @@ pan.baidu.com##.wp-s-aside-nav__sub-container.cursor-p.wp-s-aside-nav__list-shor
 space.bilibili.com##.n-data.n-gz
 csdn.net##.recommend-item-box
 blog.csdn.net##.recommend-item-box
+docs.aws.amazon.com###thumbUp
+docs.aws.amazon.com###thumbDown
+docs.aws.amazon.com###feedback-link
