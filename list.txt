@@ -4163,3 +4163,4 @@ blog.csdn.net##.recommend-item-box
 docs.aws.amazon.com###thumbUp
 docs.aws.amazon.com###thumbDown
 docs.aws.amazon.com###feedback-link
+docs.aws.amazon.com##footer
