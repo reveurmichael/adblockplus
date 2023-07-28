@@ -4166,6 +4166,7 @@ docs.aws.amazon.com###feedback-link
 docs.aws.amazon.com##footer
 chat.openai.com##div[class="pb-3 pt-2 text-center text-xs text-gray-600 dark:text-gray-300 md:px-[60px] md:pb-6 md:pt-3"]
 chat.openai.com##button[class="cursor-pointer"]
+chat.openai.com##img[alt="User"]
 chat.openai.com##button[aria-label="Share chat"]
 chat.openai.com###headlessui-menu-button-\:r9\:
 chat.openai.com##.flex.w-full.items-center.gap-2\.5.rounded-md.px-3.py-3.text-sm.transition-colors.duration-200.hover\:bg-gray-800.group-ui-open\:bg-gray-800
