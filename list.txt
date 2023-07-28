@@ -4171,6 +4171,7 @@ chat.openai.com##.cursor-pointer
 chat.openai.com##button[class="rounded-md"]
 chat.openai.com##img[alt="User"]
 chat.openai.com##path
+chat.openai.com##button
 chat.openai.com##button[aria-label="Share chat"]
 chat.openai.com##button[class="p-1 rounded-md hover:bg-gray-100 hover:text-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-gray-200 disabled:dark:hover:text-gray-400"]
 chat.openai.com##button[class="p-1 rounded-md hover:bg-gray-100 hover:text-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-gray-200 disabled:dark:hover:text-gray-400 md:invisible md:group-hover:visible"]
