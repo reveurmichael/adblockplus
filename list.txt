@@ -4184,6 +4184,19 @@ chat.openai.com###headlessui-menu-button-\:r2m\:
 chat.openai.com##.flex.w-full.items-center.gap-2\.5.rounded-md.px-3.py-3.text-sm.transition-colors.duration-200.hover\:bg-gray-800.group-ui-open\:bg-gray-800
 google.com##.acCJ4b
 ##.acCJ4b
+cloud.tencent.com##.cdc-suspend-pill__inner
+cloud.tencent.com##.cdc-widget-global
+cloud.tencent.com##.cdc-layout__side
+cloud.tencent.com##.cdc-header__top
+cloud.tencent.com##.cdc-header__bottom
+cloud.tencent.com##.cdc-crumb__inner
+cloud.tencent.com##.cdc-sticky-header.mod-sticky-header
+cloud.tencent.com##.cdc-svg-icon-con.is-operate
+cloud.tencent.com##.mod-article-content.recommend
+cloud.tencent.com##.cdc-footer
+cloud.tencent.com##.mod-article-content.is-pill-hidden
+cloud.tencent.com##.title-tag
+
 
 
 
