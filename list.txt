@@ -4182,7 +4182,8 @@ chat.openai.com##.flex.p-3.items-center.gap-3.transition-colors.duration-200.tex
 ||google.com/recaptcha/api2/anchor?ar=1&k=6LeEdY0UAAAAAGwlBVZIGAGWgzW8cm4lhWCsWpRx&co=aHR0cHM6Ly9yLWNyYWZ0Lm9yZzo0NDM.&hl=en&v=6MY32oPwFCn9SUKWt8czDsDw&size=invisible&cb=st5snxoxq5m3
 chat.openai.com###headlessui-menu-button-\:r2m\:
 chat.openai.com##.flex.w-full.items-center.gap-2\.5.rounded-md.px-3.py-3.text-sm.transition-colors.duration-200.hover\:bg-gray-800.group-ui-open\:bg-gray-800
-
+google.com##.acCJ4b
+##.acCJ4b
 
 
 
