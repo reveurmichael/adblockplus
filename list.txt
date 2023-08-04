@@ -4198,14 +4198,31 @@ cloud.tencent.com##.mod-article-content.is-pill-hidden
 cloud.tencent.com##.title-tag
 google.com###appbar
 google.com##.appbar
+###appbar
+##.appbar
 m.sohu.com##.article
 m.sohu.com##.feed-item-container
 m.sohu.com##.rec__head
 m.sohu.com##.header
 m.sohu.com##.top-header
-
-
-
+google.com###hfcr
+google.com###snbc
+google.com###sZmt3b
+google.com###lfootercc
+google.com###_V8vMZKjAH-_O1e8PyN-AsAQ_40
+google.com##.DH7hPe
+google.com###gac_scont
+google.com###_V8vMZKjAH-_O1e8PyN-AsAQ_7
+google.com##.sfbg
+###hfcr
+###snbc
+###sZmt3b
+###lfootercc
+###_V8vMZKjAH-_O1e8PyN-AsAQ_40
+##.DH7hPe
+###gac_scont
+###_V8vMZKjAH-_O1e8PyN-AsAQ_7
+##.sfbg
 
 
 
