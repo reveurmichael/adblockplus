@@ -9,8 +9,10 @@
 ##.a9nkvf
 ##.aajZCb
 ##.AbmtKb
+##.acCJ4b
 ##.aEkOAd
 ##.aL7jS
+##.appbar
 ##.asjHCd
 ##.AUiS2
 ##.auth.new-icon.hide
@@ -37,6 +39,7 @@
 ##.d-flex.g4.gsx.ai-center.sm\:fd-column.sm\:ai-start
 ##.D6lY4c
 ##.dEsxWc
+##.DH7hPe
 ##.dict-indexes
 ##.dropdown.details-overlay.details-reset.d-inline-block.new-reactions-dropdown.reactions-menu.js-reaction-popover-container.js-comment-header-reaction-button
 ##.e2BEnf.mfMhoc
@@ -254,8 +257,11 @@
 ###_8quLYOnRPKO20PEP9vqhqAo66
 ###_blIEYuLuLo-eseMP2bmVmAg5
 ###_fY3bYdbuELGf4-EPqL2GoAY5
+###_V8vMZKjAH-_O1e8PyN-AsAQ_40
+###_V8vMZKjAH-_O1e8PyN-AsAQ_7
 ###_VEwKYuvcDZL29APMk4eAAw5
 ###abar_button_opt
+###appbar
 ###article_courses_banner
 ###b_mtp
 ###back-top
@@ -266,6 +272,7 @@
 ###fbar
 ###fbarcnt
 ###fresh-share-exp-e
+###gac_scont
 ###gb
 ###gs_ftr
 ###gs_hdr_act_i
@@ -279,11 +286,13 @@
 ###hdtb
 ###hdtb-sc
 ###hdtb-tls
+###hfcr
 ###hpcanvas
 ###hpcta
 ###hpctaplay
 ###hplogo
 ###hplogovideo
+###lfootercc
 ###lo-highlight-meter-2-copy
 ###msc
 ###mw-indicator-spoken-icon
@@ -300,6 +309,8 @@
 ###SBmmZd
 ###Site-feedback-btn-id
 ###slim_appbar
+###snbc
+###sZmt3b
 ###textDeeplinksWidgetContainer
 ###thumb_f10
 ###thumb_t10
@@ -354,6 +365,7 @@
 ||google.com/images/branding/googlelogo/2x/googlelogo_light_color_272x92dp.png
 ||google.com/images/hpp/YT_RedPlayButton_Icon_48x48.png
 ||google.com/logos/doodles/2022/veterans-day-2022-6753651837109534-l.webp
+||google.com/recaptcha/api2/anchor?ar=1&k=6LeEdY0UAAAAAGwlBVZIGAGWgzW8cm4lhWCsWpRx&co=aHR0cHM6Ly9yLWNyYWZ0Lm9yZzo0NDM.&hl=en&v=6MY32oPwFCn9SUKWt8czDsDw&size=invisible&cb=st5snxoxq5m3
 ||google.fr/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png
 ||googleapis.com^$domain=geeksforgeeks.com
 ||googleapis.com^$domain=medium.com
@@ -457,6 +469,7 @@ analyticssteps.com##.stick_lft_social
 analyticssteps.com###navbar
 analyticsvidhya.com##.author-row
 analyticsvidhya.com##.av-comment-section
+analyticsvidhya.com##.banner-section-for-display
 analyticsvidhya.com##.bg-white.common-header
 analyticsvidhya.com##.bg-white.header-2.header-2-fixed-top
 analyticsvidhya.com##.blog-tag-row
@@ -479,6 +492,9 @@ analyticsvidhya.com##.main-nav-bar.clearfix
 analyticsvidhya.com##.media-body
 analyticsvidhya.com##.media.pb-3.mt-3
 analyticsvidhya.com##.meta-count
+analyticsvidhya.com##.modal-backdrop.show
+analyticsvidhya.com##.modal-content
+analyticsvidhya.com##.modal.login-pop-up.show
 analyticsvidhya.com##.page-header.margin-top-fix.active
 analyticsvidhya.com##.py-1.alert.alert-warning.alert-dismissible.fade.show.m-0.rounded-0
 analyticsvidhya.com##.scroll-up
@@ -489,6 +505,7 @@ analyticsvidhya.com###avFlashSale
 analyticsvidhya.com###blog-comments-section
 analyticsvidhya.com###cookie-law-info-bar
 analyticsvidhya.com###jp-relatedposts
+analyticsvidhya.com###loginModal
 analyticsvidhya.com###main-nav-bar
 analyticsvidhya.com###respond
 analyticsvidhya.com###scrolltop
@@ -625,6 +642,7 @@ baidu.com##.noTapColor.use-festival
 baidu.com##.nums_text
 baidu.com##.op-guide
 baidu.com##.op-se-listen-recommend
+baidu.com##.optimize-content
 baidu.com##.options_2Vntk
 baidu.com##.outer_wqJjM.relative_5Vbw9
 baidu.com##.qrcode-layer.icon-mask-wrapper
@@ -725,6 +743,7 @@ baike.baidu.com##.lemmaWgt-focusAndRelation.relations
 baike.baidu.com##.lemmaWgt-secondsKnow-pageBg.lemmaWgt-secondsKnow-isScience-pageBg
 baike.baidu.com##.navbar-bg
 baike.baidu.com##.navbar-bg-top
+baike.baidu.com##.optimize-content
 baike.baidu.com##.paper-title
 baike.baidu.com##.posterFlag.excellent-icon
 baike.baidu.com##.sciencePaper-list
@@ -804,6 +823,7 @@ bilibili.com##.card-list
 bilibili.com##.contact-help
 bilibili.com##.danmaku-wrap
 bilibili.com##.default-btn.charge-btn.btn-transition.not-follow-charge-btn
+bilibili.com##.default-btn.new-charge-btn.charge-btn-loaded
 bilibili.com##.default-entry
 bilibili.com##.desc-info.desc-v2.open
 bilibili.com##.dm
@@ -851,6 +871,7 @@ bilibili.com##.right-entry__outside.right-entry--vip
 bilibili.com##.s_tag.report-wrap-module.report-scroll-module
 bilibili.com##.search-panel
 bilibili.com##.second-line_right
+bilibili.com##.send-msg
 bilibili.com##.share
 bilibili.com##.side-toolbar
 bilibili.com##.space-between
@@ -1009,6 +1030,7 @@ bing.com##.b_slidesContainer
 bing.com##.b_underSearchbox
 bing.com##.b_vlist2col
 bing.com##.b_wpTabsWrapper
+bing.com##.b-conclfb-wrapper
 bing.com##.bnp_fly_hp
 bing.com##.dict_oa
 bing.com##.dl_collapsed
@@ -1111,6 +1133,7 @@ blog.csdn.net##.person-messagebox
 blog.csdn.net##.profile-intro-name-boxOpration
 blog.csdn.net##.profile-intro.d-flex
 blog.csdn.net##.recommend-end-box
+blog.csdn.net##.recommend-item-box
 blog.csdn.net##.recommend-item-box.baiduSearch
 blog.csdn.net##.recommend-item-box.blog-expert-recommend-box
 blog.csdn.net##.recommend-item-box.recommend-download-box.clearfix
@@ -1165,14 +1188,53 @@ builtin.com##.scrolling-cta.jobs-scrolling-cta.cta-visible
 builtin.com##.show
 builtin.com###article-signup-meter
 builtin.com###builtin-navigation
+chat.openai.com##.cursor-pointer
+chat.openai.com##.flex.p-3.items-center.gap-3.transition-colors.duration-200.text-white.cursor-pointer.text-sm.hover\:bg-gray-800.rounded-md
+chat.openai.com##.flex.w-full.items-center.gap-2\.5.rounded-md.px-3.py-3.text-sm.transition-colors.duration-200.hover\:bg-gray-800.group-ui-open\:bg-gray-800
+chat.openai.com###headlessui-menu-button-\:r2m\:
+chat.openai.com###headlessui-menu-button-\:r9\:
+chat.openai.com##button
+chat.openai.com##button[aria-label="Share chat"]
+chat.openai.com##button[class="cursor-pointer"]
+chat.openai.com##button[class="p-1 rounded-md hover:bg-gray-100 hover:text-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-gray-200 disabled:dark:hover:text-gray-400 md:invisible md:group-hover:visible"]
+chat.openai.com##button[class="p-1 rounded-md hover:bg-gray-100 hover:text-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-gray-200 disabled:dark:hover:text-gray-400"]
+chat.openai.com##button[class="rounded-md"]
+chat.openai.com##div[class="pb-3 pt-2 text-center text-xs text-gray-600 dark:text-gray-300 md:px-[60px] md:pb-6 md:pt-3"]
+chat.openai.com##div[class="text-gray-400 flex self-end lg:self-center justify-center mt-2 gap-2 md:gap-3 lg:gap-1 lg:absolute lg:top-0 lg:translate-x-full lg:right-0 lg:mt-0 lg:pl-2 visible"]
+chat.openai.com##div[data-projection-id="1"]
+chat.openai.com##img[alt="User"]
+chat.openai.com##path
 christophm.github.io###cta-button-desktop
+cloud.tencent.com##.cdc-crumb__inner
+cloud.tencent.com##.cdc-footer
+cloud.tencent.com##.cdc-footer.J-footer.com-2-footer
+cloud.tencent.com##.cdc-header__bottom
+cloud.tencent.com##.cdc-header__top
+cloud.tencent.com##.cdc-layout__side
+cloud.tencent.com##.cdc-sticky-header.mod-sticky-header
+cloud.tencent.com##.cdc-suspend-pill__inner
+cloud.tencent.com##.cdc-svg-icon-con.is-operate
+cloud.tencent.com##.cdc-widget-global
+cloud.tencent.com##.com-widget-global
+cloud.tencent.com##.mod-article-content.is-pill-hidden
+cloud.tencent.com##.mod-article-content.recommend
 cloud.tencent.com##.rno-scrollbar-tools-button.rno-scrollbar-tools-toggle
+cloud.tencent.com##.title-tag
 cloud.tencent.com##.tpm1-anchor-widget__bd
+cloud.tencent.com##.widget-btn.widget-back2top
 cloud.tencent.com##a[class="pls-back2top"]
+cloud.tencent.com##div[class="_sdk-entrance-btn is-doc"]
+cloud.tencent.com##div[class="_sdk-entrance-btn is-dynamic dot"]
+cloud.tencent.com##div[class="_sdk-entrance-btn is-operate"]
+cloud.tencent.com##div[class="_sdk-entrance-btn is-support J-onlin-service-entrance"]
 cloud.tencent.com##div[class="_sdk-entrance-btn"]
+cloud.tencent.com##div[class="app-lighthouse-alert"]
+cloud.tencent.com##div[class="app-overview-justify-grid__col app-overview-justify-grid__col--right"]
 cloud.tencent.com##div[class="pls-floatbar J-qc-scrollbar"]
 cloud.tencent.com##div[class="pls-footer J-qc-footer"]
 cloud.tencent.com##div[class="tpm1-anchor-widget__inner"]
+cloud.tencent.com##div[data-hot="widget.help.productEvents"]
+cloud.tencent.com##span[class="sdk-menus-badge sdk-menus-badge--radius is-blue-dark"]
 cn.bing.com##.actionmenuexp
 cn.bing.com##.as_rmhswarning
 cn.bing.com##.b_algospacing_block
@@ -1401,6 +1463,7 @@ code.visualstudio.com##.updates-banner
 code.visualstudio.com##.widget
 code.visualstudio.com###docs-navbar
 code.visualstudio.com###docs-subnavbar
+code.visualstudio.com##footer
 coderedirect.com##.banner
 coderedirect.com##.cd-top.cd-is-visible
 coderedirect.com##.twohalf.column
@@ -1447,7 +1510,12 @@ computingforgeeks.com##.td-scroll-up.td-hide-scroll-up-on-mob.td-scroll-up-visib
 computingforgeeks.com##.td-sub-footer-container.td-container-wrap
 computingforgeeks.com###commentform
 computingforgeeks.com###comments
+console.cloud.tencent.com##div[class="_sdk-entrance-btn is-doc"]
+console.cloud.tencent.com##div[class="_sdk-entrance-btn is-dynamic dot"]
+console.cloud.tencent.com##div[class="_sdk-entrance-btn is-operate"]
+console.cloud.tencent.com##div[class="_sdk-entrance-btn is-support J-onlin-service-entrance"]
 console.cloud.tencent.com##div[class="_sdk-entrance-btn"]
+console.cloud.tencent.com##div[data-hot="widget.help.productEvents"]
 cplusplus.com###I_bottom
 cplusplus.com###I_top
 cplusplus.com###I_userbuttons
@@ -1486,6 +1554,7 @@ crunchify.com##.textwidget.custom-html-widget
 crunchify.com##.yarpp.yarpp-related.yarpp-related-website.yarpp-template-list
 crunchify.com###beforefooterid
 crunchify.com###disqus_thread
+csdn.net##.recommend-item-box
 csdn.net##.recommend-nps-box.common-nps-box
 csdn.net###recommendNps
 data-flair.training##.\31 pw1bfsztpkf
@@ -1530,9 +1599,11 @@ dblp.org###search
 dblp.org###sorting-selector
 dev.to##.crayons-article-actions__inner
 dev.to##.crayons-article-sticky.grid.gap-4.break-word
+dev.to##.crayons-card.crayons-card--secondary.crayons-sponsorship.billboard
 dev.to##.crayons-card.crayons-card--secondary.text-padding.mb-4.print-hidden
 dev.to##.crayons-footer.print-hidden
 dev.to##.crayons-header.print-hidden
+dev.to##.multiple_reactions_engagement
 dev.to##.text-padding.mb-4.border-t-1.border-0.border-solid.border-base-10
 dev.to###article-show-primary-sticky-nav
 dev.to###bottom-content-read-next
@@ -1615,8 +1686,13 @@ docker.com##.et_pb_section.et_pb_section_0_tb_footer.et_pb_with_background.et_se
 docker.com##.footer
 docker.com##.ratings-div
 docker.com###footer
+docs.aws.amazon.com###feedback-link
+docs.aws.amazon.com###thumbDown
+docs.aws.amazon.com###thumbUp
+docs.aws.amazon.com##footer
 docs.docker.com##.col-toc
 docs.docker.com##.footer
+docs.docker.com##.ot-floating-button__open
 docs.docker.com##.ratings-div
 docs.github.com##.container-xl.mx-auto.py-6.py-lg-6.clearfix.border-top.border-color-secondary
 docs.github.com##.container-xl.px-3.mt-6.mb-8.px-md-6.position-relative.d-flex.flex-row-reverse.flex-xl-row.flex-wrap.flex-xl-nowrap.flex-justify-center.flex-xl-justify-between.f6.color-fg-muted
@@ -1671,6 +1747,7 @@ edureka.co##.course-tags-section
 edureka.co##.cr-group-tr-cs-carousal
 edureka.co##.cta-ads-block-inline.curriculum-link
 edureka.co##.footer-registration-details
+edureka.co##.icon-bar-sticky.sticky
 edureka.co##.modal-backdrop.fade.show
 edureka.co##.modal-content
 edureka.co##.modal.fade.blog_feature_popup.show
@@ -1713,6 +1790,10 @@ en.wikipedia.org##.side-box-text.plainlist
 en.wikipedia.org##.side-box.side-box-right.plainlinks.sistersitebox
 en.wikipedia.org##.sidebar.nomobile
 en.wikipedia.org##.toctogglespan
+en.wikipedia.org##.vector-header-start
+en.wikipedia.org##.vector-header.mw-header
+en.wikipedia.org##.vector-limited-width-popup
+en.wikipedia.org##.vector-user-links
 en.wikipedia.org##.wll-cta
 en.wikipedia.org##.wll-image
 en.wikipedia.org##.wll-logo
@@ -1726,6 +1807,7 @@ en.wikipedia.org###mw-head
 en.wikipedia.org###mw-indicator-spoken-icon
 en.wikipedia.org###mw-page-base
 en.wikipedia.org###mw-panel
+en.wikipedia.org###p-search
 en.wikipedia.org###pt-anoncontribs
 en.wikipedia.org###setindexbox
 en.wikipedia.org###wikipedia_asian_month_2021
@@ -1845,6 +1927,7 @@ geeksforgeeks.org###ide_link
 geeksforgeeks.org###main::before
 geeksforgeeks.org###scrollTopBtn
 geeksforgeeks.org###secondary
+geeksforgeeks.org##div[class="badges"]
 geeksforgeeks.org##div[class="header-main__wrapper"]
 geeksforgeeks.org##div[class="textBasedMannualAds_2"]
 gitee.com#?#div:-abp-has(> div > button[id="quiting-button"])
@@ -1944,6 +2027,8 @@ gitee.com##a[title="开源软件"]
 gitee.com##a[title="私有云"]
 gitee.com##a[title="高校版"]
 gitee.com##div[class="fixed right-5 bottom-32 z-40 md:hidden"]
+gitee.com##div[class="gitee-birthday-logo-container"]
+gitee.com##div[class="gitee-birthday-logo"]
 gitee.com##div[class="item donate-container"]
 gitee.com##div[class="item fork-container"]
 gitee.com##div[class="item gitosc-logo"]
@@ -1959,8 +2044,10 @@ githu.com#?#div:-abp-has(> div > div > a[data-ga-click="Repository, go to new pu
 github.com#?#button:-abp-has(>span>span>svg[class="octicon octicon-arrow-up"])
 github.com#?#span:-abp-has(>span>svg[class="octicon octicon-arrow-up"])
 github.com#?#span:-abp-has(>svg[class="octicon octicon-arrow-up"])
+github.com##.AppHeader-button.AppHeader-button--hasIndicator
 github.com##.border-top.color-border-muted.pt-3.mt-3.d-none.d-md-block
 github.com##.border.rounded-2.mb-4.pb-3.color-border-muted.color-bg-default.js-notice
+github.com##.Box-sc-g0xbh4-0.cYPxpP
 github.com##.Box.position-relative.rounded-2.mb-4.p-3.js-notice-dismiss
 github.com##.ClipboardButton.btn.js-clipboard-copy.m-2.p-0.tooltipped-no-delay
 github.com##.d-flex.flex-items-between.footer.container-lg.my-5.px-0
@@ -1983,6 +2070,7 @@ github.com##.team-left-column.col-12.col-md-3.col-lg-3.pr-3.pr-md-4.pr-lg-5.mt-5
 github.com##.team-left-column.col-md-3.col-lg-4.mt-5.hide-lg.hide-md.hide-sm.border-bottom
 github.com##.text-small.color-fg-muted.mx-md-2.mt-md-2.mb-2.mt-3
 github.com##.UnderlineNav-item.hx_underlinenav-item-ts.lh-0
+github.com###AppHeader-notifications-button
 github.com###feed-next
 github.com###sponsor-button-repo
 github.com##aside[aria-label="Your dev branch isn't protected"]
@@ -2094,6 +2182,7 @@ google.com.hk##.r21Kzd
 google.com.hk##.r21Kzd.cye-lm-tag
 google.com.hk##.RBevQb.iUh30
 google.com.hk##.S4UV0.r2fjmd.pAbhZc.ouy7Mc.cB4NFc.GUHazd
+google.com.hk##.sBbkle
 google.com.hk##.SenEzd.TXKQpd.mIKy0c.OSrXXb.dGWpb
 google.com.hk##.sfbg
 google.com.hk##.Si7Nvc.O1t3Xb
@@ -2158,8 +2247,10 @@ google.com.hk###SBmmZd
 google.com.hk###slim_appbar
 google.com##.a1DBFd
 google.com##.aajZCb
+google.com##.acCJ4b
 google.com##.aEkOAd
 google.com##.aL7jS
+google.com##.appbar
 google.com##.asjHCd
 google.com##.AUiS2
 google.com##.AvBz0e
@@ -2171,6 +2262,7 @@ google.com##.CNf3nf.LhCR5d
 google.com##.Cq2QEe.kno-fb-ctx.cv2VAd
 google.com##.Czd4wf
 google.com##.dEsxWc
+google.com##.DH7hPe
 google.com##.e2BEnf.U7izfe.hWIMdd
 google.com##.e2BEnf.U7izfe.mfMhoc
 google.com##.eMLgL.Inwu4e
@@ -2304,22 +2396,28 @@ google.com##.zNFAfd
 google.com##[class="Okagcf"]
 google.com###_8quLYOnRPKO20PEP9vqhqAo66
 google.com###_blIEYuLuLo-eseMP2bmVmAg5
+google.com###_V8vMZKjAH-_O1e8PyN-AsAQ_40
+google.com###_V8vMZKjAH-_O1e8PyN-AsAQ_7
 google.com###_VEwKYuvcDZL29APMk4eAAw5
 google.com###abar_button_opt
+google.com###appbar
 google.com###BIqFsb
 google.com###bottomads
 google.com###fbar
 google.com###fbarcnt
+google.com###gac_scont
 google.com###gb
 google.com###gsri_ok0
 google.com###hdtb
 google.com###hdtb-sc
 google.com###hdtb-tls
+google.com###hfcr
 google.com###hpcanvas
 google.com###hpcta
 google.com###hpctaplay
 google.com###hplogo
 google.com###hplogovideo
+google.com###lfootercc
 google.com###msc
 google.com###NmTzue
 google.com###pTwnEc
@@ -2328,6 +2426,8 @@ google.com###rhs
 google.com###sbfblt
 google.com###SBmmZd
 google.com###slim_appbar
+google.com###snbc
+google.com###sZmt3b
 google.com###Yf1RJc
 google.com###z9PoV
 google.com##g-img[class="QyR1Ze BA0A6c"]
@@ -2603,6 +2703,18 @@ kns.cnki.net###oldversion
 kns.cnki.net###RefTrack
 kns.cnki.net###searchset
 kns.cnki.net##li[style="width: 230px; height: 150px;"]
+kugou.com##.btnArea2.clearfix
+kugou.com##.cmhead1_d0
+kugou.com##.cmhead2
+kugou.com##.cmhead2_d0
+kugou.com##.cmhead2_d01
+kugou.com##.icon.show-playbar-btn
+kugou.com##.macDownload-left
+kugou.com##.macDownload-right
+kugou.com##.macDownload.actived
+kugou.com##.showHide-bg
+kugou.com###macDownload
+kugou.com###showHide_playbar
 learncpp.com##.footer-one
 learncpp.com##.footer-widget-inside
 learncpp.com##.header-fixed
@@ -2811,6 +2923,11 @@ m.guancha.cn##.swiper-slide.shiping.swiper-slide-next
 m.guancha.cn##.swiper-slide.yaowen.swiper-slide-active
 m.guancha.cn##.top-menu
 m.guancha.cn##.top-menu-list
+m.sohu.com##.article
+m.sohu.com##.feed-item-container
+m.sohu.com##.header
+m.sohu.com##.rec__head
+m.sohu.com##.top-header
 m.youtube.com##.pivot-bar-item-tab.pivot-explore
 m.youtube.com##.pivot-bar-item-tab.pivot-library
 m.youtube.com##.pivot-bar-item-tab.pivot-w2w
@@ -2835,6 +2952,7 @@ machinelearningknowledge.ai##.td-ss-main-sidebar
 machinelearningknowledge.ai##.td-sub-footer-container.td-container-wrap
 machinelearningknowledge.ai###comments
 machinelearningknowledge.ai###respond
+machinelearningmastery.com##.adv-link
 machinelearningmastery.com##.comment-respond
 machinelearningmastery.com##.crp_related
 machinelearningmastery.com##.nav-next.fr
@@ -3027,6 +3145,16 @@ overleaf.com##div[class="user-notifications"]
 overleaf.com##footer
 overleaf.com##header[class="outline-footer"]
 overleaf.com##user-notifications
+pan.baidu.com##.moreVertical.wp-s-header__right-item
+pan.baidu.com##.u-badge__content.is-dot
+pan.baidu.com##.u-button.u-svip-button.wp-s-header__vip-btn-wrapper.u-button--default.u-button--mini.is-round.u-svip-button--main.u-svip-button--mini
+pan.baidu.com##.web-header-ad-item.wp-s-header__right-item
+pan.baidu.com##.wp-s-aside-nav__main-bottom
+pan.baidu.com##.wp-s-aside-nav__sub-container.cursor-p.wp-s-aside-nav__list-shortcut-all
+pan.baidu.com##.wp-s-aside-nav__util-fav-body
+pan.baidu.com##.wp-s-header__game-entry
+pan.baidu.com##.wp-s-pan-file-main__nav-detail-switch.cursor-p
+pan.baidu.com###web-header-text-s-43
 php.cn##.layui-col-md4.article-list-right
 php.cn##.wwads-cn.wwads-vertical
 pinterest.com##.CCY.czT.eEj.XJa.FTD.L4E.DI9.BG7
@@ -3237,9 +3365,11 @@ segmentfault.com##.bg-transparent.card-header
 segmentfault.com##.bg-white.shadow-sm.py-0.fixed-top.animate__animated.animate__fadeInDown.animate__faster.navbar.navbar-expand-lg.navbar-light.bg-light
 segmentfault.com##.bg-white.shadow-sm.sticky-top.animate__animated.animate__fadeInDown.animate__faster.navbar.navbar-expand-lg.navbar-light
 segmentfault.com##.breadcrumb.bg-transparent
+segmentfault.com##.btn.btn-light
 segmentfault.com##.comment-wrap.card
 segmentfault.com##.d-flex.align-items-center.py-3.list-group-item.list-group-item-action
 segmentfault.com##.d-none.d-sm-block.bg-white.py-5.font-size-14.border-top
+segmentfault.com##.fade.modal
 segmentfault.com##.fade.modal.show
 segmentfault.com##.sticky-inner-wrapper
 segmentfault.com###article-header
@@ -3287,6 +3417,19 @@ softwaretestinghelp.com##.tve_p_lb_overlay
 softwaretestinghelp.com###site-navigation
 softwaretestinghelp.com###sticky-navigation
 softwaretestinghelp.com##a[class="generate-back-to-top"]
+sohu.com##.allsee-list.clear
+sohu.com##.column.left
+sohu.com##.error-head
+sohu.com##.float-links
+sohu.com##.god-article-bottom
+sohu.com##.news-box.clear
+sohu.com##.sidebar.right
+sohu.com###allseeList
+sohu.com###float-btn
+sohu.com###god_bottom_banner
+sohu.com###main-header
+sohu.com###mpbox
+sohu.com###right-side-bar
 sourcemaking.com##.announcement-block.prom.ga-triggered
 sourcemaking.com##.banner.prom.ga-triggered
 sourcemaking.com##.footer
@@ -3314,6 +3457,7 @@ space.bilibili.com##.n-btn.n-dynamic
 space.bilibili.com##.n-btn.n-setting
 space.bilibili.com##.n-data.n-bf
 space.bilibili.com##.n-data.n-fs
+space.bilibili.com##.n-data.n-gz
 space.bilibili.com##.normal-left
 space.bilibili.com##.normal-right
 space.bilibili.com##.page-head__left
@@ -3593,6 +3737,7 @@ tensorflow.org##.gc-analytics-event.material-icons.devsite-icon-copy
 tensorflow.org###devsite-select-15915869983017016-button
 tensorflow.org###devsite-select-19381318275548256-button
 tensorflow.org##devsite-content-footer
+tensorflow.org##div[class="scSurveySurveymanagerroot"]
 theaisummer.com##.announcement-header--no-sticky
 theaisummer.com##.blog-page__right-sidebar
 theaisummer.com##.dl-prod-book-inline-banner
@@ -3730,6 +3875,7 @@ visual-paradigm.com##.footer
 visual-paradigm.com##.promo-container
 visual-paradigm.com##.scroll-top-wrapper.show
 visual-paradigm.com##.title-bar.sticky.is-at-top.is-stuck.shrink
+visualstudio.com##footer
 w3docs.com##.alert.alert-info
 w3docs.com##.bg-blue-steel.text-white.print\:hidden
 w3docs.com##.col-span-3.hidden.md\:block.pl-2.pt-8.border-l.border-gray-200
@@ -3761,6 +3907,11 @@ weibo.com##.WB_global_nav.WB_global_nav_v2.UI_top_hidden
 weibo.com##.WB_main.clearfix
 weibo.com###plc_frame
 weixin.qq.com##.qr_code_pc
+wiki.pathmind.com##.media.author-about
+wiki.pathmind.com##.navbar
+wiki.pathmind.com##.row.m0.widget.widget-search.wow.fadeInUp
+wiki.pathmind.com##.row.page-header
+wiki.pathmind.com###wiki-links-ul
 wikihow.com##.contribute2.show
 wikihow.com###article_courses_banner
 wikipedia.org##.box-More_citations_needed.plainlinks.metadata.ambox.ambox-content.ambox-Refimprove
@@ -3776,11 +3927,14 @@ wikipedia.org##.side-box-flex
 wikipedia.org##.side-box-text.plainlist
 wikipedia.org##.side-box.side-box-right.plainlinks.sistersitebox
 wikipedia.org##.toctogglespan
+wikipedia.org##.vector-header-start
+wikipedia.org##.vector-limited-width-popup
 wikipedia.org##.vector-limited-width-toggle
 wikipedia.org##.vector-main-menu-container
 wikipedia.org##.vector-menu-checkbox.mw-interlanguage-selector
 wikipedia.org##.vector-menu-heading.mw-ui-button.mw-ui-quiet.mw-ui-progressive.mw-portlet-lang-heading-68
 wikipedia.org##.vector-sitenotice-container
+wikipedia.org##.vector-user-links
 wikipedia.org##.wll-cta
 wikipedia.org##.wll-image
 wikipedia.org##.wll-logo
@@ -3789,6 +3943,7 @@ wikipedia.org###bluedeck_ding
 wikipedia.org###mw-panel-toc
 wikipedia.org###p-lang-btn-checkbox
 wikipedia.org###p-lang-btn-label
+wikipedia.org###p-search
 wikipedia.org###setindexbox
 wikipedia.org###vector-toc-collapsed-checkbox
 wikipedia.org###wll2021
@@ -3800,6 +3955,7 @@ wrcbtv.com##.Footer
 wrcbtv.com##.NewsBanner-item.NewsBanner-firstItem
 wrcbtv.com##.NewsBanner-text.showTimestamp
 wrcbtv.com##.SimpleNavigation
+www.tensorflow.org##div[class="scSurveySurveymanagerroot"]
 www4.bing.com##.b_logo
 www4.bing.com##.b_scopebar
 www4.bing.com##.fdbtext
@@ -3812,6 +3968,10 @@ www4.bing.com###qs_searchBox
 www4.bing.com###thumb_f10
 www4.bing.com###thumb_t10
 www4.bing.com###vs_mic_icon
+y.qq.com##.btn_big_down
+y.qq.com##.btn_big_like
+y.qq.com##.mod_btn_comment
+y.qq.com##.mod_player_login
 youdao.com##.aca
 youdao.com##.add_to_wordbook
 youdao.com##.ads
@@ -4046,183 +4206,5 @@ zhuanlan.zhihu.com##.Qrcode-container.smallVersion
 zhuanlan.zhihu.com##.Recommendations-Main
 zhuanlan.zhihu.com##.Voters
 zhuanlan.zhihu.com##img[class="TitleImage"]
-##.csdn-highschool-window.csdn-highschool-blog-window
-###csdn-highschool-window
-bing.com##.b-conclfb-wrapper
-softwaretestinghelp.com##.tve_p_lb_overlay
-softwaretestinghelp.com##.tve_p_lb_content.tve-tl-anim.tl-anim-zoom_in.bSe.cnt.tve-leads-triggered
-softwaretestinghelp.com##.tl-lb-target.tve-leads-track-lightbox-3.tve_p_lb_background.tve_lb_open.tve_lb_opening
-softwaretestinghelp.com##.inside-right-sidebar
-softwaretestinghelp.com###site-navigation
-softwaretestinghelp.com##.auto-hide-sticky.main-navigation.sub-menu-right.stuckElement
-softwaretestinghelp.com##.inside-header
-softwaretestinghelp.com##.site-info
-softwaretestinghelp.com###sticky-navigation
-softwaretestinghelp.com##.auto-hide-sticky.main-navigation.sub-menu-right.stuckElement.is_stuck.navigation-stick.navigation-clone.sticky-navigation-transition.sticky-nav-scrolling-up
-www.tensorflow.org##div[class="scSurveySurveymanagerroot"]
-tensorflow.org##div[class="scSurveySurveymanagerroot"]
-en.wikipedia.org##.vector-limited-width-popup
-wikipedia.org##.vector-limited-width-popup
-en.wikipedia.org##.vector-header-start
-en.wikipedia.org##.vector-user-links
-en.wikipedia.org###p-search
-wikipedia.org##.vector-header-start
-wikipedia.org##.vector-user-links
-wikipedia.org###p-search
-baike.baidu.com##.optimize-content
-baidu.com##.optimize-content
-gitee.com##div[class="gitee-birthday-logo"]
-gitee.com##div[class="gitee-birthday-logo-container"]
-visualstudio.com##footer
-code.visualstudio.com##footer
-analyticsvidhya.com##.modal-content
-analyticsvidhya.com###loginModal
-analyticsvidhya.com##.modal.login-pop-up.show
-analyticsvidhya.com##.modal-backdrop.show
-edureka.co##.icon-bar-sticky.sticky
-console.cloud.tencent.com##div[class="_sdk-entrance-btn is-support J-onlin-service-entrance"]
-console.cloud.tencent.com##div[class="_sdk-entrance-btn is-dynamic dot"]
-console.cloud.tencent.com##div[class="_sdk-entrance-btn is-doc"]
-console.cloud.tencent.com##div[class="_sdk-entrance-btn is-operate"]
-console.cloud.tencent.com##div[data-hot="widget.help.productEvents"]
-cloud.tencent.com##div[class="_sdk-entrance-btn is-support J-onlin-service-entrance"]
-cloud.tencent.com##div[class="_sdk-entrance-btn is-dynamic dot"]
-cloud.tencent.com##div[class="app-overview-justify-grid__col app-overview-justify-grid__col--right"]
-cloud.tencent.com##div[class="_sdk-entrance-btn is-doc"]
-cloud.tencent.com##div[class="_sdk-entrance-btn is-operate"]
-cloud.tencent.com##div[class="app-lighthouse-alert"]
-cloud.tencent.com##span[class="sdk-menus-badge sdk-menus-badge--radius is-blue-dark"]
-cloud.tencent.com##div[data-hot="widget.help.productEvents"]
-geeksforgeeks.org##div[class="badges"]
-google.com.hk##.sBbkle
-##.sBbkle
-dev.to##.multiple_reactions_engagement
-docs.docker.com##.ot-floating-button__open
-github.com##.Box-sc-g0xbh4-0.cYPxpP
-machinelearningmastery.com##.adv-link
-analyticsvidhya.com##.banner-section-for-display
-wiki.pathmind.com##.navbar
-wiki.pathmind.com##.row.page-header
-wiki.pathmind.com###wiki-links-ul
-wiki.pathmind.com##.row.m0.widget.widget-search.wow.fadeInUp
-wiki.pathmind.com##.media.author-about
-en.wikipedia.org##.vector-header.mw-header
-sohu.com##.column.left
-sohu.com###right-side-bar
-sohu.com##.sidebar.right
-sohu.com###main-header
-sohu.com##.error-head
-sohu.com##.news-box.clear
-sohu.com###float-btn
-sohu.com##.float-links
-sohu.com###allseeList
-sohu.com##.allsee-list.clear
-sohu.com###mpbox
-sohu.com###god_bottom_banner
-sohu.com##.god-article-bottom
-bilibili.com##.default-btn.new-charge-btn.charge-btn-loaded
-bilibili.com##.send-msg
-kugou.com##.cmhead2_d01
-kugou.com##.cmhead2_d0
-kugou.com##.cmhead2
-kugou.com##.cmhead1_d0
-kugou.com##.btnArea2.clearfix
-kugou.com##.showHide-bg
-kugou.com###showHide_playbar
-kugou.com##.icon.show-playbar-btn
-kugou.com##.macDownload-left
-kugou.com##.macDownload-right
-kugou.com###macDownload
-kugou.com##.macDownload.actived
-y.qq.com##.mod_player_login
-y.qq.com##.btn_big_like
-y.qq.com##.btn_big_down
-y.qq.com##.mod_btn_comment
-dev.to##.crayons-card.crayons-card--secondary.crayons-sponsorship.billboard
-github.com###AppHeader-notifications-button
-github.com##.AppHeader-button.AppHeader-button--hasIndicator
-cloud.tencent.com##.cdc-footer.J-footer.com-2-footer
-cloud.tencent.com##.com-widget-global
-cloud.tencent.com##.widget-btn.widget-back2top
-segmentfault.com##.fade.modal
-segmentfault.com##.btn.btn-light
-pan.baidu.com###web-header-text-s-43
-pan.baidu.com##.web-header-ad-item.wp-s-header__right-item
-pan.baidu.com##.wp-s-header__game-entry
-pan.baidu.com##.u-button.u-svip-button.wp-s-header__vip-btn-wrapper.u-button--default.u-button--mini.is-round.u-svip-button--main.u-svip-button--mini
-pan.baidu.com##.moreVertical.wp-s-header__right-item
-pan.baidu.com##.wp-s-aside-nav__util-fav-body
-pan.baidu.com##.wp-s-aside-nav__main-bottom
-pan.baidu.com##.wp-s-pan-file-main__nav-detail-switch.cursor-p
-github.com##.AppHeader-button.AppHeader-button--hasIndicator
-pan.baidu.com##.u-badge__content.is-dot
-pan.baidu.com##.wp-s-aside-nav__sub-container.cursor-p.wp-s-aside-nav__list-shortcut-all
-space.bilibili.com##.n-data.n-gz
-csdn.net##.recommend-item-box
-blog.csdn.net##.recommend-item-box
-docs.aws.amazon.com###thumbUp
-docs.aws.amazon.com###thumbDown
-docs.aws.amazon.com###feedback-link
-docs.aws.amazon.com##footer
-chat.openai.com##div[class="pb-3 pt-2 text-center text-xs text-gray-600 dark:text-gray-300 md:px-[60px] md:pb-6 md:pt-3"]
-chat.openai.com##button[class="cursor-pointer"]
-chat.openai.com##div[data-projection-id="1"]
-chat.openai.com##.cursor-pointer
-chat.openai.com##button[class="rounded-md"]
-chat.openai.com##img[alt="User"]
-chat.openai.com##path
-chat.openai.com##button
-chat.openai.com##button[aria-label="Share chat"]
-chat.openai.com##button[class="p-1 rounded-md hover:bg-gray-100 hover:text-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-gray-200 disabled:dark:hover:text-gray-400"]
-chat.openai.com##button[class="p-1 rounded-md hover:bg-gray-100 hover:text-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-gray-200 disabled:dark:hover:text-gray-400 md:invisible md:group-hover:visible"]
-chat.openai.com##div[class="text-gray-400 flex self-end lg:self-center justify-center mt-2 gap-2 md:gap-3 lg:gap-1 lg:absolute lg:top-0 lg:translate-x-full lg:right-0 lg:mt-0 lg:pl-2 visible"]
-chat.openai.com###headlessui-menu-button-\:r9\:
-chat.openai.com##.flex.w-full.items-center.gap-2\.5.rounded-md.px-3.py-3.text-sm.transition-colors.duration-200.hover\:bg-gray-800.group-ui-open\:bg-gray-800
-chat.openai.com##.flex.p-3.items-center.gap-3.transition-colors.duration-200.text-white.cursor-pointer.text-sm.hover\:bg-gray-800.rounded-md
-||google.com/recaptcha/api2/anchor?ar=1&k=6LeEdY0UAAAAAGwlBVZIGAGWgzW8cm4lhWCsWpRx&co=aHR0cHM6Ly9yLWNyYWZ0Lm9yZzo0NDM.&hl=en&v=6MY32oPwFCn9SUKWt8czDsDw&size=invisible&cb=st5snxoxq5m3
-chat.openai.com###headlessui-menu-button-\:r2m\:
-chat.openai.com##.flex.w-full.items-center.gap-2\.5.rounded-md.px-3.py-3.text-sm.transition-colors.duration-200.hover\:bg-gray-800.group-ui-open\:bg-gray-800
-google.com##.acCJ4b
-##.acCJ4b
-cloud.tencent.com##.cdc-suspend-pill__inner
-cloud.tencent.com##.cdc-widget-global
-cloud.tencent.com##.cdc-layout__side
-cloud.tencent.com##.cdc-header__top
-cloud.tencent.com##.cdc-header__bottom
-cloud.tencent.com##.cdc-crumb__inner
-cloud.tencent.com##.cdc-sticky-header.mod-sticky-header
-cloud.tencent.com##.cdc-svg-icon-con.is-operate
-cloud.tencent.com##.mod-article-content.recommend
-cloud.tencent.com##.cdc-footer
-cloud.tencent.com##.mod-article-content.is-pill-hidden
-cloud.tencent.com##.title-tag
-google.com###appbar
-google.com##.appbar
-###appbar
-##.appbar
-m.sohu.com##.article
-m.sohu.com##.feed-item-container
-m.sohu.com##.rec__head
-m.sohu.com##.header
-m.sohu.com##.top-header
-google.com###hfcr
-google.com###snbc
-google.com###sZmt3b
-google.com###lfootercc
-google.com###_V8vMZKjAH-_O1e8PyN-AsAQ_40
-google.com##.DH7hPe
-google.com###gac_scont
-google.com###_V8vMZKjAH-_O1e8PyN-AsAQ_7
-google.com##.sfbg
-###hfcr
-###snbc
-###sZmt3b
-###lfootercc
-###_V8vMZKjAH-_O1e8PyN-AsAQ_40
-##.DH7hPe
-###gac_scont
-###_V8vMZKjAH-_O1e8PyN-AsAQ_7
-##.sfbg
-
 
 
