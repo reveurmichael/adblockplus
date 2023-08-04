@@ -4196,7 +4196,13 @@ cloud.tencent.com##.mod-article-content.recommend
 cloud.tencent.com##.cdc-footer
 cloud.tencent.com##.mod-article-content.is-pill-hidden
 cloud.tencent.com##.title-tag
-
+google.com###appbar
+google.com##.appbar
+m.sohu.com##.article
+m.sohu.com##.feed-item-container
+m.sohu.com##.rec__head
+m.sohu.com##.header
+m.sohu.com##.top-header
 
 
 
