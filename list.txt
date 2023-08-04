@@ -4206,5 +4206,12 @@ zhuanlan.zhihu.com##.Qrcode-container.smallVersion
 zhuanlan.zhihu.com##.Recommendations-Main
 zhuanlan.zhihu.com##.Voters
 zhuanlan.zhihu.com##img[class="TitleImage"]
-
+google.com##.ACRAdd.M2vV3
+google.com##.ExCKkf.z1asCe.rzyADb
+google.com##.M2vV3.vOY7J
+google.com##.BKRPef
+##.ACRAdd.M2vV3
+##.ExCKkf.z1asCe.rzyADb
+##.M2vV3.vOY7J
+##.BKRPef
 
