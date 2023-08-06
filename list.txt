@@ -4224,3 +4224,4 @@ pan.baidu.com###ft
 pan.baidu.com###web-right-view
 pan.baidu.com###web-multi-bottom
 pan.baidu.com##.module-share-footer
+pan.baidu.com##img[class="btn-img-tips"]
