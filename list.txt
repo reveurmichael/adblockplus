@@ -4218,3 +4218,9 @@ google.com##.OT2FZc
 google.com##.EWpfde
 ##.OT2FZc
 ##.EWpfde
+pan.baidu.com##.ad-platform-tips
+pan.baidu.com##.ad-multi-tips
+pan.baidu.com###ft
+pan.baidu.com###web-right-view
+pan.baidu.com###web-multi-bottom
+pan.baidu.com##.module-share-footer
