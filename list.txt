@@ -4225,3 +4225,11 @@ pan.baidu.com###web-right-view
 pan.baidu.com###web-multi-bottom
 pan.baidu.com##.module-share-footer
 pan.baidu.com##img[class="btn-img-tips"]
+||google.com/recaptcha/api2/anchor?ar=1&k=6LeEdY0UAAAAAGwlBVZIGAGWgzW8cm4lhWCsWpRx&co=aHR0cHM6Ly9yLWNyYWZ0Lm9yZzo0NDM.&hl=en&v=6MY32oPwFCn9SUKWt8czDsDw&size=invisible&cb=st5snxoxq5m3
+chat.openai.com###headlessui-menu-button-\:r2m\:
+chat.openai.com##.flex.w-full.items-center.gap-2\.5.rounded-md.px-3.py-3.text-sm.transition-colors.duration-200.hover\:bg-gray-800.group-ui-open\:bg-gray-800
+chat.openai.com##.flex.h-full.w-full.flex-col.p-2
+chat.openai.com##.scrollbar-trigger.relative.h-full.w-full.flex-1.items-start.border-white\/20
+chat.openai.com##.flex.h-full.min-h-0.flex-col
+chat.openai.com##.h-full.w-\[260px\]
+chat.openai.com##.dark.flex-shrink-0.overflow-x-hidden.bg-gray-900
