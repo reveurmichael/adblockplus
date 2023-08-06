@@ -4236,3 +4236,4 @@ chat.openai.com##.dark.flex-shrink-0.overflow-x-hidden.bg-gray-900
 chat.openai.com##.relative.z-20.flex.min-h-\[60px\].flex-wrap.items-center.justify-between.gap-3.border-b.border-black\/10.bg-white.p-2.text-gray-500.dark\:border-gray-900\/50.dark\:bg-gray-800.dark\:text-gray-300
 chat.openai.com##.relative.p-1.rounded-sm.h-\[30px\].w-\[30px\].text-white.flex.items-center.justify-center
 ##.gototop
+chat.openai.com##.md\:flex.items-start.text-center.gap-3\.5
