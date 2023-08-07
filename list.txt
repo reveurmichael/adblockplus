@@ -4241,3 +4241,4 @@ youtube.com##.yt-spec-button-shape-next.yt-spec-button-shape-next--outline.yt-sp
 youtube.com##.style-scope.ytd-structured-description-content-renderer
 youtube.com##.style-scope.ytd-video-description-infocards-section-renderer
 youtube.com###action-buttons
+github.com##summary[class="btn-link Link--muted my-2 btn-link Link--muted"]
