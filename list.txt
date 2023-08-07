@@ -4242,3 +4242,4 @@ youtube.com##.style-scope.ytd-structured-description-content-renderer
 youtube.com##.style-scope.ytd-video-description-infocards-section-renderer
 youtube.com###action-buttons
 github.com##summary[class="btn-link Link--muted my-2 btn-link Link--muted"]
+##div[class="Vtx8Xc jrwKTb ovklQ"]
