@@ -4237,3 +4237,5 @@ chat.openai.com##.relative.z-20.flex.min-h-\[60px\].flex-wrap.items-center.justi
 chat.openai.com##.relative.p-1.rounded-sm.h-\[30px\].w-\[30px\].text-white.flex.items-center.justify-center
 ##.gototop
 chat.openai.com##.md\:flex.items-start.text-center.gap-3\.5
+youtube.com##.yt-spec-button-shape-next.yt-spec-button-shape-next--outline.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--icon-leading
+youtube.com##.style-scope.ytd-structured-description-content-renderer
