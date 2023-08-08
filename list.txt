@@ -4244,3 +4244,6 @@ youtube.com###action-buttons
 github.com##summary[class="btn-link Link--muted my-2 btn-link Link--muted"]
 ##div[class="Vtx8Xc jrwKTb ovklQ"]
 runoob.com##.comment-signarea
+w3schools.com##.w3-bar-item
+w3schools.com###pagetop
+w3schools.com##.w3-bar.notranslate.w3-white
