@@ -4250,3 +4250,10 @@ w3schools.com##.w3-bar.notranslate.w3-white
 baidu.com##.load-text
 baidu.com##.s-loading-frame.bottom.bottom-no-more
 baidu.com##.s-loading-frame
+baidu.com##.bdsug
+baidu.com##.bdsug-new
+baidu.com##.new-pmd
+baidu.com##.bdsug-feedback-wrap
+baidu.com###normalSugSearchUl
+
+
