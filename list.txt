@@ -4253,5 +4253,7 @@ baidu.com##.s-loading-frame
 baidu.com##.bdsug
 baidu.com##.bdsug-new
 baidu.com##.bdsug-feedback-wrap
-
-
+communities.vmware.com###onetrust-banner-sdk
+communities.vmware.com##.otFlat.bottom.vertical-align-content.ot-buttons-fw
+communities.vmware.com##.footer-component
+communities.vmware.com##.footer-container
