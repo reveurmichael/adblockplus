@@ -4271,3 +4271,5 @@ babylonbee.com##.font-bold
 marketplace.visualstudio.com##.uxservices-header
 marketplace.visualstudio.com##.breadcrumb
 marketplace.visualstudio.com##.installHelpInfo
+baidu.com###searchTag
+baidu.com##.tag-container_ksKXH.tag-fixed
