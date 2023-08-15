@@ -4280,3 +4280,11 @@ zionladder.com###totop
 ###totop
 ##totop
 bilibili.com##.upinfo-btn-panel
+cloud.tencent.com##.topbar-guide-btn-tips
+cloud.tencent.com##.qc-back2top
+cloud.tencent.com##.J-qc-back2top
+cloud.tencent.com##.c-footer-inner
+cloud.tencent.com##.rno-feedback-panel
+cloud.tencent.com##.more-help
+cloud.tencent.com##.doc-pages.J-docDetailPagination
+cloud.tencent.com##.correlation-doc-box
