@@ -4288,3 +4288,6 @@ cloud.tencent.com##.rno-feedback-panel
 cloud.tencent.com##.more-help
 cloud.tencent.com##.doc-pages.J-docDetailPagination
 cloud.tencent.com##.correlation-doc-box
+cloud.tencent.com##.nav-title
+cloud.tencent.com##.markdown-nav-list.J-floatCategory
+cloud.tencent.com##.rno-title-module-operate
