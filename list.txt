@@ -4279,3 +4279,4 @@ zionladder.com###launcher
 zionladder.com###totop
 ###totop
 ##totop
+bilibili.com##.upinfo-btn-panel
