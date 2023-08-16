@@ -4338,3 +4338,16 @@ dict.youdao.com##.wordbook_btn
 youdao.com##.wordbook_btn
 ##.DhGrzc.BDXcec
 ##.ExCKkf.z1asCe.rzyADb
+##.dRYYxd
+##.BKRPef
+##span[class="ACRAdd M2vV3"]
+google.com.hk##.DhGrzc.BDXcec
+google.com.hk##.ExCKkf.z1asCe.rzyADb
+google.com.hk##.dRYYxd
+google.com.hk##.BKRPef
+google.com.hk##span[class="ACRAdd M2vV3"]
+google.com##.DhGrzc.BDXcec
+google.comk##.ExCKkf.z1asCe.rzyADb
+google.com##.dRYYxd
+google.com##.BKRPef
+google.com##span[class="ACRAdd M2vV3"]
