@@ -4305,5 +4305,9 @@ bard.google.com##div[class="ng-tns-c17339010-34"]
 bard.google.com##div[class="user-profile-picture-container"]
 bard.google.com##.banner.regular.experiment.desktop
 bard.google.com##.banner.regular
+bard.google.com##.logo-gutter
+bard.google.com##.send-button-container
+bard.google.com##header
+bard.google.com##.help-settings-updates-container
 chat.openai.com###radix-\:rb\:
 chat.openai.com##.relative.animate-slideLeftAndFade.select-none.rounded-xl.bg-gray-900.p-4.text-sm.text-white.shadow-sm.dark\:bg-gray-50.dark\:text-gray-700
