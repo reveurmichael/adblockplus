@@ -4309,6 +4309,8 @@ bard.google.com##.logo-gutter
 bard.google.com##.buttons-container
 bard.google.com##.retry-button
 bard.google.com##.retry
+bard.google.com##.location-buttons-dot
+bard.google.com##.update-location-text
 bard.google.com##.user-profile-picture-container
 bard.google.com##.mat-mdc-focus-indicator
 bard.google.com##.actions-container
