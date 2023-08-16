@@ -4296,7 +4296,6 @@ bilibili.com##.flexible-roll-btn-inner.expand-btn
 bilibili.com##.nav-search-clean.has-keyword
 bilibili.com##.nav-search-clean
 bard.google.com##.gmat-caption.ng-tns-c1056145790-1.ng-star-inserted
-bard.google.com##.ng-star-inserted
 bard.google.com##.gmat-caption
 bard.google.com##.mat-mdc-button-touch-target
 bard.google.com##.mat-panel-title-hover.ng-tns-c2479044054-88
@@ -4306,3 +4305,5 @@ bard.google.com##div[class="ng-tns-c17339010-34"]
 bard.google.com##div[class="user-profile-picture-container"]
 bard.google.com##.banner.regular.experiment.desktop
 bard.google.com##.banner.regular
+chat.openai.com###radix-\:rb\:
+chat.openai.com##.relative.animate-slideLeftAndFade.select-none.rounded-xl.bg-gray-900.p-4.text-sm.text-white.shadow-sm.dark\:bg-gray-50.dark\:text-gray-700
