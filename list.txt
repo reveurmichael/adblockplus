@@ -4303,6 +4303,8 @@ bard.google.com##.mat-panel-title-hover
 bard.google.com##div[class="user-profile-picture-container ng-tns-c17339010-34"]
 bard.google.com##div[class="ng-tns-c17339010-34"]
 bard.google.com##div[class="code-block-decoration footer gmat-overline hide-from-message-actions"]
+bard.google.com##div[class="ccode-block-decoration footer gmat-overline hide-from-message-actions ng-star-inserted"]
+bard.google.com##a[class="disclaimer-suffix"]
 bard.google.com##.banner.regular.experiment.desktop
 bard.google.com##.banner.regular
 bard.google.com##.logo-gutter
