@@ -4337,5 +4337,4 @@ google.com##.O4T6Pe
 dict.youdao.com##.wordbook_btn
 youdao.com##.wordbook_btn
 ##.DhGrzc.BDXcec
-##.BDXcec
-##.DhGrzc
+##.ExCKkf.z1asCe.rzyADb
