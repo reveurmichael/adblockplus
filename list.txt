@@ -4354,3 +4354,7 @@ google.com##span[class="ACRAdd M2vV3"]
 ##.OT2FZc
 google.com##.OT2FZc
 google.com.hk##.OT2FZc
+##div[class="Vtx8Xc jrwKTb ovklQ"]
+google.com##div[class="Vtx8Xc jrwKTb ovklQ"]
+google.com.hk##div[class="Vtx8Xc jrwKTb ovklQ"]
+
