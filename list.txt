@@ -4329,6 +4329,8 @@ chat.openai.com##.relative.animate-slideLeftAndFade.select-none.rounded-xl.bg-gr
 google.com.hk##.vqkKIe.wHYlTd
 google.com##.vqkKIe.wHYlTd
 ##.vqkKIe.wHYlTd
+scikit-learn.org###navbarSupportedContent
+scikit-learn.org##.sk-navbar-collapse.collapse.navbar-collapse
 
 
 
