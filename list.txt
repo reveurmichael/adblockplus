@@ -4357,4 +4357,9 @@ google.com.hk##.OT2FZc
 ##div[class="Vtx8Xc jrwKTb ovklQ"]
 google.com##div[class="Vtx8Xc jrwKTb ovklQ"]
 google.com.hk##div[class="Vtx8Xc jrwKTb ovklQ"]
-
+google.com##.appbar
+google.com.hk##.appbar
+##.appbar
+google.com###before-appbar
+google.com.hk###before-appbar
+###before-appbar
