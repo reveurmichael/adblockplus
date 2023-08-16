@@ -4320,3 +4320,7 @@ bard.google.com##user-profile-picture
 bard.google.com##.help-settings-updates-container
 chat.openai.com###radix-\:rb\:
 chat.openai.com##.relative.animate-slideLeftAndFade.select-none.rounded-xl.bg-gray-900.p-4.text-sm.text-white.shadow-sm.dark\:bg-gray-50.dark\:text-gray-700
+
+
+
+
