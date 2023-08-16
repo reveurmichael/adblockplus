@@ -4304,3 +4304,5 @@ bard.google.com##.mat-panel-title-hover
 bard.google.com##div[class="user-profile-picture-container ng-tns-c17339010-34"]
 bard.google.com##div[class="ng-tns-c17339010-34"]
 bard.google.com##div[class="user-profile-picture-container"]
+bard.google.com##.banner.regular.experiment.desktop
+bard.google.com##.banner.regular
