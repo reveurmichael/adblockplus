@@ -4305,12 +4305,14 @@ bard.google.com##div[class="ng-tns-c17339010-34"]
 bard.google.com##div[class="code-block-decoration footer gmat-overline hide-from-message-actions"]
 bard.google.com##div[class="ccode-block-decoration footer gmat-overline hide-from-message-actions ng-star-inserted"]
 bard.google.com##a[class="disclaimer-suffix"]
+bard.google.com##span[class="location-footer-atl-text"]
 bard.google.com##.banner.regular.experiment.desktop
 bard.google.com##.banner.regular
 bard.google.com##.logo-gutter
 bard.google.com##.buttons-container
 bard.google.com##.retry-button
 bard.google.com##.retry
+bard.google.com##.location-footer-atl-text
 bard.google.com##.location-buttons-dot
 bard.google.com##.update-location-text
 bard.google.com##.user-profile-picture-container
