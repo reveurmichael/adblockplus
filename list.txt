@@ -4360,6 +4360,9 @@ google.com.hk##div[class="Vtx8Xc jrwKTb ovklQ"]
 google.com##.appbar
 google.com.hk##.appbar
 ##.appbar
+google.com##.XZ5MVe
+google.com.hk##.XZ5MVe
+##.XZ5MVe
 google.com###before-appbar
 google.com.hk###before-appbar
 ###before-appbar
