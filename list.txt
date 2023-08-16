@@ -4309,11 +4309,14 @@ bard.google.com##.logo-gutter
 bard.google.com##.buttons-container
 bard.google.com##.retry-button
 bard.google.com##.retry
+bard.google.com##.user-profile-picture-container
 bard.google.com##.mat-mdc-focus-indicator
 bard.google.com##.actions-container
 bard.google.com##.send-button-container
 bard.google.com##header
 bard.google.com##button
+bard.google.com##mat-expansion-panel-header
+bard.google.com##user-profile-picture
 bard.google.com##.help-settings-updates-container
 chat.openai.com###radix-\:rb\:
 chat.openai.com##.relative.animate-slideLeftAndFade.select-none.rounded-xl.bg-gray-900.p-4.text-sm.text-white.shadow-sm.dark\:bg-gray-50.dark\:text-gray-700
