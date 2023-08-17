@@ -4389,3 +4389,11 @@ google.com.hk##.wv9iH.MjJqGe.cd29Sd
 google.com.hk##.UafVBb.rSonUc
 whatismyipaddress.com##.wipa-header
 whatismyipaddress.com##.footer-inner
+##.gbZSUe
+google.com##.gbZSUe
+google.com.hk##.gbZSUe
+google.com.hk##.s6MObf google.com##.s6MObf ##.s6MObf
+google.com.hk##.s6MObf
+google.com##.s6MObf
+##.s6MObf
+
