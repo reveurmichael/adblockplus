@@ -4399,3 +4399,8 @@ google.com##.s6MObf
 google.com.hk##.PPklbc
 google.com##.PPklbc
 ##.PPklbc
+bard.google.com##.code-block-decoration.footer.gmat-overline.hide-from-message-actions.ng-star-inserted
+google.com##.HiHjCd
+google.com.hk##.HiHjCd
+##.HiHjCd
+
