@@ -4410,3 +4410,6 @@ knowledgehut.com##header
 knowledgehut.com##footer
 knowledgehut.com##.slug___StyledDiv-sc-ctupo6-0.cyPrFP
 knowledgehut.com##.sticky.top-0.left-0
+knowledgehut.com##.copyright-footer.clearfix
+knowledgehut.com##.copyright-footer
+knowledgehut.com##.jx_ui_Widget
