@@ -4403,4 +4403,6 @@ bard.google.com##.code-block-decoration.footer.gmat-overline.hide-from-message-a
 google.com##.HiHjCd
 google.com.hk##.HiHjCd
 ##.HiHjCd
-
+en.wikipedia.org##.box-Expand_language.plainlinks.metadata.ambox.ambox-notice
+wikipedia.org##.box-Expand_language.plainlinks.metadata.ambox.ambox-notice
+wikipedia.org##.box-Expand_language
