@@ -4406,3 +4406,7 @@ google.com.hk##.HiHjCd
 en.wikipedia.org##.box-Expand_language.plainlinks.metadata.ambox.ambox-notice
 wikipedia.org##.box-Expand_language.plainlinks.metadata.ambox.ambox-notice
 wikipedia.org##.box-Expand_language
+knowledgehut.com##header
+knowledgehut.com##footer
+knowledgehut.com##.slug___StyledDiv-sc-ctupo6-0.cyPrFP
+knowledgehut.com##.sticky.top-0.left-0
