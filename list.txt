@@ -4387,3 +4387,5 @@ google.com.hk##.eMY8cf.MjJqGe.cd29Sd.xvfzbc.RsW3Ke.LkIdQb
 google.com.hk##.agI2ne
 google.com.hk##.wv9iH.MjJqGe.cd29Sd
 google.com.hk##.UafVBb.rSonUc
+whatismyipaddress.com##.wipa-header
+whatismyipaddress.com##.footer-inner
