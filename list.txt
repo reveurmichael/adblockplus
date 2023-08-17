@@ -4420,6 +4420,7 @@ whatismyipaddress.com##div.fl-row:nth-child(6) > div:nth-child(1) > div:nth-chil
 whatismyipaddress.com##div.fl-row:nth-child(7)
 whatismyipaddress.com##div.fl-row:nth-child(5)
 whatismyipaddress.com##div.text
+whatismyipaddress.com##span.tooltip
 baidu.com##.rn-h2
 baidu.com##.se-head-tablink
 baidu.com##.rn-footer
@@ -4432,5 +4433,4 @@ baidu.com###menu-container
 baidu.com###index-cross
 baidu.com##index-card > div.tab-tools.show-tools
 baidu.com##.callicon-wrap
-
 
