@@ -4389,6 +4389,7 @@ google.com.hk##.wv9iH.MjJqGe.cd29Sd
 google.com.hk##.UafVBb.rSonUc
 whatismyipaddress.com##.wipa-header
 whatismyipaddress.com##.footer-inner
+whatismyipaddress.com##.call-to-action
 ##.gbZSUe
 google.com##.gbZSUe
 google.com.hk##.gbZSUe
@@ -4413,7 +4414,11 @@ knowledgehut.com##.sticky.top-0.left-0
 knowledgehut.com##.copyright-footer.clearfix
 knowledgehut.com##.copyright-footer
 knowledgehut.com##.jx_ui_Widget
-
+whatismyipaddress.com##div.fl-row:nth-child(6)
+whatismyipaddress.com##.fl-node-5db9cbfda4006 > div:nth-child(1)
+whatismyipaddress.com##div.fl-row:nth-child(6) > div:nth-child(1) > div:nth-child(2)
+whatismyipaddress.com##div.fl-row:nth-child(7)
+whatismyipaddress.com##div.fl-row:nth-child(5)
 
 
 
