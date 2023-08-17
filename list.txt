@@ -4419,6 +4419,7 @@ whatismyipaddress.com##.fl-node-5db9cbfda4006 > div:nth-child(1)
 whatismyipaddress.com##div.fl-row:nth-child(6) > div:nth-child(1) > div:nth-child(2)
 whatismyipaddress.com##div.fl-row:nth-child(7)
 whatismyipaddress.com##div.fl-row:nth-child(5)
+whatismyipaddress.com##div.text
 
 
 
