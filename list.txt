@@ -4445,3 +4445,18 @@ babylonbee.com###app > div.min-h-screen.bg-global > div > main > div > div > div
 babylonbee.com###app > div.min-h-screen.bg-global > div > main > div > div > div > div.flex.flex-wrap.w-full.pt-0 > div.mb-2.lg\:pr-8.w-full.lg\:w-2\/3 > div.flex.flex-col.bg-gray-50.rounded.shadow-md.overflow-hidden.mb-4 > div.flex-1.bg-white.pt-0.sm\:px-6.pb-4.flex.flex-col.justify-between > div > div > hr
 babylonbee.com###app > div.min-h-screen.bg-global > div > main > div > div > div > div.w-full.my-4
 babylonbee.com###app > div.min-h-screen.bg-global > div > main > div > div > div > div.w-full.mb-4
+baijiahao.baidu.com##div[data-testid="recent"]
+baijiahao.baidu.com##div[data-testid="relate"]
+baijiahao.baidu.com##div[data-testid="search-rec"]
+baijiahao.baidu.com##span[data-testid="report-btn"]
+baijiahao.baidu.com##._2v051
+baijiahao.baidu.com##.Wo80H
+baijiahao.baidu.com##._3XLti
+baijiahao.baidu.com##.W2GBF
+baijiahao.baidu.com##._26vAC
+baijiahao.baidu.com##._3hMwG
+baijiahao.baidu.com###commentModule
+baijiahao.baidu.com##.ZSASH
+baijiahao.baidu.com###ssr-content > div.Wo80H > div > div.ZSASH > div > i
+baijiahao.baidu.com###ssr-content > div._2jN0Z > div > div._2v051
+baijiahao.baidu.com##.bH7m7
