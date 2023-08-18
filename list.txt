@@ -4460,3 +4460,6 @@ baijiahao.baidu.com##.ZSASH
 baijiahao.baidu.com###ssr-content > div.Wo80H > div > div.ZSASH > div > i
 baijiahao.baidu.com###ssr-content > div._2jN0Z > div > div._2v051
 baijiahao.baidu.com##.bH7m7
+map.baidu.com##.poiLeadDownloadCard
+map.baidu.com##.download-banner
+map.baidu.com##.qrcode-box
