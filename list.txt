@@ -4425,7 +4425,6 @@ baidu.com##.rn-h2
 baidu.com##.se-head-tablink
 baidu.com##.rn-footer
 baidu.com##.rn-split-line-b
-baidu.com###header > div:nth-child(7) > div
 baidu.com##.rn-large-pic-content rn-video-wrap
 baidu.com###index-box > a
 baidu.com###index-box
