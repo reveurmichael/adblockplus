@@ -4464,7 +4464,16 @@ map.baidu.com##.poiLeadDownloadCard
 map.baidu.com##.close-btn-download-banner
 map.baidu.com##.download-banner
 map.baidu.com##.qrcode-box
-
+space.bilibili.com##.i-pin-part
+space.bilibili.com##.i-pin-empty-set
+space.bilibili.com##.section.fav
+space.bilibili.com##.section.fav
+space.bilibili.com##.section.bangumi.empty
+space.bilibili.com##.section.subs.empty
+space.bilibili.com##.section.bangumi
+space.bilibili.com##.section.subs
+space.bilibili.com##.section.coin
+space.bilibili.com##.i-pin-empty-set.list-create
 
 
 
