@@ -4476,7 +4476,7 @@ space.bilibili.com##.section.bangumi
 space.bilibili.com##.section.subs
 space.bilibili.com##.section.coin
 space.bilibili.com##.i-pin-empty-set.list-create
-
+youtube.com##.opened
 
 
 
