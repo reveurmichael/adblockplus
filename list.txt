@@ -4467,7 +4467,9 @@ map.baidu.com##.qrcode-box
 space.bilibili.com##.i-pin-part
 space.bilibili.com##.i-pin-empty-set
 space.bilibili.com##.section.fav
-space.bilibili.com##.section.fav
+space.bilibili.com##.section.article
+space.bilibili.com##.fav
+space.bilibili.com##.article
 space.bilibili.com##.section.bangumi.empty
 space.bilibili.com##.section.subs.empty
 space.bilibili.com##.section.bangumi
