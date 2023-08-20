@@ -4479,7 +4479,7 @@ space.bilibili.com##.i-pin-empty-set.list-create
 youtube.com##.opened
 member.bilibili.com##.article-limit-state
 bilibili.com##.article-limit-state
-
+member.bilibili.com##.nav-wrp
 
 
 
