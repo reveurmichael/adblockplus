@@ -4480,7 +4480,13 @@ youtube.com##.opened
 member.bilibili.com##.article-limit-state
 bilibili.com##.article-limit-state
 member.bilibili.com##.nav-wrp
-
-
-
-
+||realpython.disqus.com/count-data.js
+||realpython.disqus.com/count.js
+||cdn.onesignal.com/sdks/OneSignalSDK.js
+realpython.com##.navbar
+realpython.com##.sidebar-module
+realpython.com##aside
+realpython.com##.footer
+realpython.com##.card
+realpython.com##script
+youtube.com##tp-yt-iron-overlay-backdrop
