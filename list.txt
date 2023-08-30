@@ -4491,3 +4491,7 @@ realpython.com##script
 youtube.com##tp-yt-iron-overlay-backdrop
 builtin.com###bix-share-social
 chat.openai.com##.relative.pb-3.pt-2.text-center.text-xs.text-gray-600.dark\:text-gray-300.md\:px-\[60px\].md\:pb-6.md\:pt-3
+w3schools.com##.ga-nav
+w3schools.com###scroll_right_btn
+w3schools.com##.w3-hide-medium.w3-hide-small
+w3schools.com###subtopnav
