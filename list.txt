@@ -4498,3 +4498,5 @@ w3schools.com###subtopnav
 chat.openai.com##.relative.p-1.rounded-sm.h-9.w-9.text-white.flex.items-center.justify-center
 frdic.com##.voice-js.voice-button
 whatismyipaddress.com##.fbx-subscribe-links
+chat.openai.com##.flex.justify-between.items-center.p-4.rounded-md.bg-gray-100.dark\:bg-gray-700.text-gray-700.dark\:text-gray-300.text-sm
+chat.openai.com##.flex-grow.flex-shrink-0.tabular-nums
