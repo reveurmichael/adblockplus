@@ -3175,11 +3175,6 @@ pinterest.com##div[style="background-color: rgb(255, 255, 255); border-radius: 8
 pinterest.com##div[style="min-height: 400px; padding: 20px 10px 24px;"]
 pinterest.com##div[style="position: fixed; z-index: 680; background: rgba(0, 0, 0, 0.65); transition: height 0.5s cubic-bezier(0.26, 0.87, 0.74, 0.93) 0s; backface-visibility: hidden; bottom: 0px; color: rgb(255, 255, 255); height: 100%; left: 0px; width: 100%;"]
 pinterest.com##div[style="transition: opacity 0.5s linear 0s; visibility: visible; opacity: 1; height: 100%; display: flex; overflow: scroll;"]
-pornhub.com##.adsbytrafficjunky
-pornhub.com##.footerContentWrapper
-pornhub.com##.networkTab
-pornhub.com##.wrapper
-pornhub.com###footer
 programiz.com##.btn.align-items-center.btn--toc
 programiz.com##.card-alt.card-alt--even-spaced.mb-10x
 programiz.com##.col-md-6.col-lg-3
