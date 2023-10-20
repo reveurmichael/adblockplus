@@ -4497,3 +4497,6 @@ chat.openai.com##.flex.justify-between.items-center.p-4.rounded-md.bg-gray-100.d
 chat.openai.com##.flex-grow.flex-shrink-0.tabular-nums
 youtube.com##.yt-spec-button-shape-next.yt-spec-button-shape-next--text.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--icon-trailing
 chat.openai.com##.relative.py-2.text-center.text-xs.text-gray-600.dark\:text-gray-300.md\:px-\[60px\]
+askubuntu.com##.ws-nowrap.s-btn.s-btn__filled
+stackoverflow.com##.ws-nowrap.s-btn.s-btn__filled
+stackexchange.com##.ws-nowrap.s-btn.s-btn__filled
