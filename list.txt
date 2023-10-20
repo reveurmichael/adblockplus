@@ -4500,3 +4500,8 @@ chat.openai.com##.relative.py-2.text-center.text-xs.text-gray-600.dark\:text-gra
 askubuntu.com##.ws-nowrap.s-btn.s-btn__filled
 stackoverflow.com##.ws-nowrap.s-btn.s-btn__filled
 stackexchange.com##.ws-nowrap.s-btn.s-btn__filled
+apple.stackexchange.com##.sm\:d-none.py24.bg-black-600.fc-black-300.ps-relative.js-dismissable-hero
+apple.stackexchange.com##.js-dismissable-hero
+stackexchange.com##.js-dismissable-hero
+askubuntu.com##.js-dismissable-hero
+stackoverflow.com##.js-dismissable-hero
