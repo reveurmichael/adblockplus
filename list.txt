@@ -4505,3 +4505,5 @@ apple.stackexchange.com##.js-dismissable-hero
 stackexchange.com##.js-dismissable-hero
 askubuntu.com##.js-dismissable-hero
 stackoverflow.com##.js-dismissable-hero
+google.com##.QdZIX
+##.QdZIX
