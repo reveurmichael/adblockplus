@@ -4467,3 +4467,5 @@ google.com##.QdZIX
 ##.QdZIX
 chat.openai.com##.flex.w-full.items-center.justify-between.bg-blue-950.p-3.text-white
 serverfault.com##.sm\:d-none.py24.bg-black-600.fc-black-300.ps-relative.js-dismissable-hero
+stackoverflow.com##.flex--item.mb8.fc-black-400
+stackoverflow.com##.d-flex.ps-relative.fw-wrap
