@@ -4469,3 +4469,11 @@ chat.openai.com##.flex.w-full.items-center.justify-between.bg-blue-950.p-3.text-
 serverfault.com##.sm\:d-none.py24.bg-black-600.fc-black-300.ps-relative.js-dismissable-hero
 stackoverflow.com##.flex--item.mb8.fc-black-400
 stackoverflow.com##.d-flex.ps-relative.fw-wrap
+youtube.com##.yt-spec-button-shape-next.yt-spec-button-shape-next--text.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--icon-trailing
+askubuntu.com##.ws-nowrap.s-btn.s-btn__filled
+blog.dailydoseofds.com##.topbar-content
+superuser.com##.sm\:d-none.py24.bg-black-600.fc-black-300.ps-relative.js-dismissable-hero
+superuser.com##.ws-nowrap.s-btn.s-btn__filled
+chat.openai.com##.flex.items-center.justify-center.gap-4.px-4.py-3.text-sm.text-token-text-tertiary
+chat.openai.com##.sticky.top-0.mb-1\.5.flex.items-center.justify-between.z-10.h-14.bg-white\/95.p-2.font-semibold.dark\:bg-gray-800\/90
+
