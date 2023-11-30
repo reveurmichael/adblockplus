@@ -4476,4 +4476,10 @@ superuser.com##.sm\:d-none.py24.bg-black-600.fc-black-300.ps-relative.js-dismiss
 superuser.com##.ws-nowrap.s-btn.s-btn__filled
 chat.openai.com##.flex.items-center.justify-center.gap-4.px-4.py-3.text-sm.text-token-text-tertiary
 chat.openai.com##.sticky.top-0.mb-1\.5.flex.items-center.justify-between.z-10.h-14.bg-white\/95.p-2.font-semibold.dark\:bg-gray-800\/90
-
+reddit.com##.bg-neutral-background.z-\[2\].box-border.flex.flex-col.mt-0.mb-0.pt-xs.xs\:pt-md.shrink-0.s\:shrink.w-full.min-h-screen-without-header.select-none
+reddit.com##.pdp.px-md.xs\:px-0.block
+reddit.com###right-sidebar-container
+reddit.com##.h-header-large
+reddit.com##.flex.items-center.pl-xs
+reddit.com##.flex.flex-row.col-start-1.col-end-4.items-center.text-16.m-md.xs\:mx-0.px-md.py-xs.min-h-\[56px\].box-border.rounded-sm.border-sm.border-neutral-border-weak.border-solid
+reddit.com###credential_picker_container
