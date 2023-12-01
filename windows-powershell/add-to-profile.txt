@@ -1,5 +1,5 @@
 Set-Alias -Name c -Value C:\Program` Files\Microsoft` VS` Code\bin\code.cmd
-Set-Alias -Name v -Value C:\Program` Files\Microsoft` VS` Code` Insiders\code-insiders.cmd
+Set-Alias -Name v -Value C:\Program` Files\Microsoft` VS` Code` Insiders\bin\code-insiders.cmd
 Set-Alias -Name b -Value C:\Program` Files\VSCodium\bin\codium.cmd
 
 Function CDGITHUB {Set-Location -Path C:\Users\Administrator\Documents\GitHub}
