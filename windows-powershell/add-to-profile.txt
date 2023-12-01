@@ -13,7 +13,10 @@ Function OPENJUPYTERNOTEBOOK {jupyter notebook}
 Set-Alias -Name n -Value OPENJUPYTERNOTEBOOK
 Function CDHOME {cd ~}
 Remove-Item Alias:h
+Remove-Item Alias:r
 Set-Alias -Name h -Value CDHOME
 Function GITSTASH {git stash}
 Set-Alias -Name s -Value GITSTASH
+Function MACHINELEARNINGOCADEMY {cd ~\PycharmProjects\machine-learning-ocademy; code .}
+Set-Alias -Name o -Value MACHINELEARNINGOCADEMY
 
