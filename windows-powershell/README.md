@@ -22,3 +22,5 @@ j
 l
 n
 
+
+https://stackoverflow.com/questions/56729734/powershell-cant-use-remove-alias
