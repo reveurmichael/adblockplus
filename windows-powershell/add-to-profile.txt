@@ -1,0 +1,3 @@
+Set-Alias -Name c -Value C:\Program` Files\Microsoft` VS` Code\bin\code.cmd
+Set-Alias -Name v -Value 'C:\Users\Administrator\AppData\Local\Programs\Microsoft VS Code Insiders\code-insiders.cmd'
+Set-Alias -Name b -Value C:\Program` Files\VSCodium\bin\codium.cmd
