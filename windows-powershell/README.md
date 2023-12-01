@@ -1,4 +1,4 @@
-First, `notepad $PROFILE`
+First, `code $PROFILE` or `notepad $PROFILE`
 
 (absolute path: `C:\Users\Administrator\Documents\WindowsPowerShell\Microsoft.PowerShell_profile.ps1`)
 
