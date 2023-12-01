@@ -1,5 +1,7 @@
 First, `notepad $PROFILE`
 
+And, copy paste what's in add-to-profile.txt
+
 
 C:\Program Files\VSCodium\bin\codium.cmd
 
