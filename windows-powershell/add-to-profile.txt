@@ -2,9 +2,9 @@ Set-Alias -Name c -Value C:\Program` Files\Microsoft` VS` Code\bin\code.cmd
 Set-Alias -Name v -Value C:\Program` Files\Microsoft` VS` Code` Insiders\bin\code-insiders.cmd
 Set-Alias -Name b -Value C:\Program` Files\VSCodium\bin\codium.cmd
 
-Function CDGITHUB {Set-Location -Path C:\Users\Administrator\Documents\GitHub}
+Function CDGITHUB {cd ~\Documents\GitHub}
 Set-Alias -Name g -Value CDGITHUB
-Function CDPYCHARMPROJECTS {Set-Location -Path C:\Users\Administrator\PycharmProjects}
+Function CDPYCHARMPROJECTS {cd ~\PycharmProjects}
 Set-Alias -Name p -Value CDPYCHARMPROJECTS
 Function OPENJUPYTERLAB {jupyter lab}
 Set-Alias -Name j -Value OPENJUPYTERLAB
