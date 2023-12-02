@@ -34,7 +34,3 @@ with
 
 User/profile/23u24pi0238/<CONTENT>
 
-
-## karabiner.json
-
-/Users/lunde/.config/karabiner/karabiner.json
