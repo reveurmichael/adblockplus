@@ -28,3 +28,5 @@ Remove-Item Alias:r
 Set-Alias -Name r -Value MACHINELEARNINGREVEURMICHAEL
 Function ADBLOCKPLUS {cd ~\PycharmProjects\adblockplus; code .}
 Set-Alias -Name a -Value ADBLOCKPLUS
+Function GITFETCH {git fetch origin; git fetch upstream}
+Set-Alias -Name f -Value GITFETCH
