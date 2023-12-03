@@ -41,6 +41,7 @@ alias a="code ~/PycharmProjects/adblockplus"
 alias o="code ~/PycharmProjects/machine-learning-ocademy"
 alias r="code ~/Documents/GitHub/reveurmichael-machine-learning"
 alias s="git stash"
+alias f="git fetch origin && git fetch upstream"
 
 
 # Load pyenv (to manage your Python versions)
