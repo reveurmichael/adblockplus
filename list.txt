@@ -4486,3 +4486,5 @@ google.com##.KMCbD
 ##.kBE71d
 ##.rEYMH.OSrXXb.IP95qb
 ##.KMCbD
+chat.openai.com##.dark.flex-shrink-0.overflow-x-hidden.bg-black
+careerkarma.com###fast-track-modal-window2
