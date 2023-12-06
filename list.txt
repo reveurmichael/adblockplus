@@ -4488,3 +4488,10 @@ google.com##.KMCbD
 ##.KMCbD
 chat.openai.com##.dark.flex-shrink-0.overflow-x-hidden.bg-black
 careerkarma.com###fast-track-modal-window2
+tutorialspoint.com##.header
+tutorialspoint.com##.library-nav
+tutorialspoint.com##.accent-header
+tutorialspoint.com##.footer__main
+tutorialspoint.com##.footer__legal
+tutorialspoint.com##.center-aligned.tutorial-menu
+||javatpoint.com/images/twitter32.png
