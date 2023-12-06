@@ -2532,20 +2532,9 @@ javatpoint.com##.footer1
 javatpoint.com##.footer2
 javatpoint.com##.gra1
 javatpoint.com##.gsc-control-cse.gsc-control-cse-en
-javatpoint.com##.h2
-javatpoint.com##.h3
-javatpoint.com##.homecontent
 javatpoint.com##.hrhomebox
-javatpoint.com##.next
-javatpoint.com##.nexttopicdiv
 javatpoint.com##.points
 javatpoint.com###menu
-javatpoint.com###myBtn
-javatpoint.com##div[style="clear:both;float:left;width:230px;margin-top:15px;margin-left:20px"]
-javatpoint.com##div[style="margin-top:5px;text-align:center"]
-javatpoint.com##div[style="width:100%;margin-top:10px;color:white;background-image: linear-gradient(145deg,#52a2fc,#480fcc);line-height:28px;"]
-javatpoint.com##h2[style="padding:60px 0px 0px 20px"]
-javatpoint.com##p[style="padding:0px 20px 60px 20px"]
 jetbrains.com##.jetbrains-cookies-banner__body
 jianshu.com##._11jppn
 jianshu.com##._13lIbp
