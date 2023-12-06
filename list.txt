@@ -4478,4 +4478,8 @@ zionladder.com##.footer.fixed-bottom
 zionladder.com###footer
 zionladder.com###launcher
 zionladder.com###totop
-
+guru99.com##.site-footer-row-container-inner
+guru99.com###kt-scroll-up
+guru99.com##.kadence-scroll-to-top
+guru99.com##.scroll-up-wrap
+guru99.com##.site-header-row-container-inner
