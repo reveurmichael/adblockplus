@@ -4483,3 +4483,17 @@ reddit.com##.h-header-large
 reddit.com##.flex.items-center.pl-xs
 reddit.com##.flex.flex-row.col-start-1.col-end-4.items-center.text-16.m-md.xs\:mx-0.px-md.py-xs.min-h-\[56px\].box-border.rounded-sm.border-sm.border-neutral-border-weak.border-solid
 reddit.com###credential_picker_container
+google.com##.s7d4ef
+google.com##.omFXYd
+google.com##.egm4nd
+google.com##.zKugA
+google.com##.kBE71d
+google.com##.rEYMH.OSrXXb.IP95qb
+google.com##.KMCbD
+##.s7d4ef
+##.omFXYd
+##.egm4nd
+##.zKugA
+##.kBE71d
+##.rEYMH.OSrXXb.IP95qb
+##.KMCbD
