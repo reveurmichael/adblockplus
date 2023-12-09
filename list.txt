@@ -4491,4 +4491,5 @@ google.com##.sG4Xue.gjGrxc.YzCcne
 ##.sG4Xue.gjGrxc.YzCcne
 blog.csdn.net##.passport-login-tip-container
 csdn.net##.passport-login-tip-container
-
+figma.com##.footer_banner--googleBanner--vQIvm.footer_banner--banner--EOipD.modal--modal--2VSSd.modal--modalShadow--ucS5o.modal--modalBare--Kg4QV
+figma.com##.base_cookie_banner--fileViewer__persistentMessage---xrm1.base_cookie_banner--fileViewer__persistentMessage_light--nNfrP
