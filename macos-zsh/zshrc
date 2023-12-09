@@ -30,6 +30,7 @@ unalias g
 unalias p
 unalias l
 unalias h
+unalias t
 alias g="cd ~/Documents/GitHub/"
 alias p="cd ~/PycharmProjects"
 alias z="code ~/.zshrc"

@@ -4483,3 +4483,11 @@ guru99.com###kt-scroll-up
 guru99.com##.kadence-scroll-to-top
 guru99.com##.scroll-up-wrap
 guru99.com##.site-header-row-container-inner
+google.com##.EEWFde
+google.com##.bDo4af
+google.com##.sG4Xue.gjGrxc.YzCcne
+##.EEWFde
+##.bDo4af
+##.sG4Xue.gjGrxc.YzCcne
+blog.csdn.net##.passport-login-tip-container
+
