@@ -1,4 +1,8 @@
 
 ## karabiner.json
 
-/Users/lunde/.config/karabiner/karabiner.json
+```
+
+code /Users/lunde/.config/karabiner/karabiner.json
+
+```
