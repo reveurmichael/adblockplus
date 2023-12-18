@@ -4501,3 +4501,9 @@ wikipedia.org##.message.survey-content
 wikipedia.org##.message
 en.wikipedia.org##.frb-inline-main
 wikipedia.org##.frb-inline-main
+en.wikipedia.org##.frb-footer-button
+wikipedia.org##.frb-footer-button
+en.wikipedia.org###centralNotice
+wikipedia.org###centralNotice
+en.wikipedia.org##.cn-fundraising
+wikipedia.org##.cn-fundraising
