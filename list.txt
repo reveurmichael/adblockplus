@@ -4499,3 +4499,5 @@ google.com##.sG4Xue.gjGrxc.Q7JiE
 zh.wikipedia.org##.message.survey-content
 wikipedia.org##.message.survey-content
 wikipedia.org##.message
+en.wikipedia.org##.frb-inline-main
+wikipedia.org##.frb-inline-main
