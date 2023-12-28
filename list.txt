@@ -4507,3 +4507,5 @@ en.wikipedia.org###centralNotice
 wikipedia.org###centralNotice
 en.wikipedia.org##.cn-fundraising
 wikipedia.org##.cn-fundraising
+github.com##footer
+github.com##nav[aria-label="Footer"]
