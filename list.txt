@@ -4509,3 +4509,6 @@ en.wikipedia.org##.cn-fundraising
 wikipedia.org##.cn-fundraising
 github.com##footer
 github.com##nav[aria-label="Footer"]
+dict.youdao.com##.product-container.product_container
+dict.youdao.com##.product-container
+youdao.com##.product-container
