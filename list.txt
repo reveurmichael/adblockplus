@@ -4512,3 +4512,4 @@ github.com##nav[aria-label="Footer"]
 dict.youdao.com##.product-container.product_container
 dict.youdao.com##.product-container
 youdao.com##.product-container
+chat.openai.com##.sticky.top-0.mb-1\.5.flex.items-center.justify-between.z-10.h-14.bg-white.p-2.font-semibold.dark\:bg-gray-800
