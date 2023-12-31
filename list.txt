@@ -4513,3 +4513,17 @@ dict.youdao.com##.product-container.product_container
 dict.youdao.com##.product-container
 youdao.com##.product-container
 chat.openai.com##.sticky.top-0.mb-1\.5.flex.items-center.justify-between.z-10.h-14.bg-white.p-2.font-semibold.dark\:bg-gray-800
+qq.ip138.com##.bd
+qq.ip138.com##.side
+qq.ip138.com##.mod-foot
+qq.ip138.com##.mod-breadcrumb.only-pc
+qq.ip138.com##.mod-head
+qq.ip138.com##.header
+atlassian.com##.container-fluid.md-cozy.theme-two
+atlassian.com##.global-nav--wac__background
+atlassian.com##.global-nav--wac
+atlassian.com##.container-fluid.imkt-navbar__main-section
+atlassian.com##.imkt-sticky-wrapper
+atlassian.com##.intra-div.s0.between.block-theme-one-reduce-padding
+translate.google.com##.a88hkc
+translate.google.com##.VlPnLc
