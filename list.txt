@@ -4527,3 +4527,9 @@ atlassian.com##.imkt-sticky-wrapper
 atlassian.com##.intra-div.s0.between.block-theme-one-reduce-padding
 translate.google.com##.a88hkc
 translate.google.com##.VlPnLc
+babylonbee.com##.fc-button-background
+babylonbee.com##.relative.w-full.h-16
+babylonbee.com###smallNavbar
+babylonbee.com##.bg-white.fixed.w-full.z-30.transition-all.ease-in-out.duration-150.items-center.h-16.border-b.border-gray-200
+babylonbee.com##.pt-10.pb-12.px-6.sm\:pt-16.sm\:px-16
+babylonbee.com##.text-sm.text-gray-600.hover\:text-gray-800.cursor-pointer.mb-2
