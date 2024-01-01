@@ -4533,3 +4533,4 @@ babylonbee.com###smallNavbar
 babylonbee.com##.bg-white.fixed.w-full.z-30.transition-all.ease-in-out.duration-150.items-center.h-16.border-b.border-gray-200
 babylonbee.com##.pt-10.pb-12.px-6.sm\:pt-16.sm\:px-16
 babylonbee.com##.text-sm.text-gray-600.hover\:text-gray-800.cursor-pointer.mb-2
+chat.openai.com##.text-token-primary.sticky.top-0.z-10.flex.min-h-\[40px\].items-center.justify-center.border-b.border-token-border-medium.bg-token-surface-primary.pl-1.dark\:bg-token-surface-secondary.md\:hidden
