@@ -21,6 +21,7 @@
 ##.AvBz0e
 ##.AvBz0e.mQI5xc
 ##.b_algospacing_seemore
+##.bDo4af
 ##.BKRPef
 ##.BKRPef.M2vV3
 ##.bTZTkf.uXmgWc
@@ -51,6 +52,7 @@
 ##.e2BEnf.U7izfe
 ##.e2BEnf.U7izfe.hWIMdd
 ##.e2BEnf.U7izfe.mfMhoc
+##.EEWFde
 ##.egm4nd
 ##.eMLgL.Inwu4e
 ##.eMY8cf.MjJqGe.cd29Sd.xvfzbc.RsW3Ke.LkIdQb
@@ -213,6 +215,9 @@
 ##.sBbkle
 ##.SenEzd.TXKQpd.mIKy0c.OSrXXb.dGWpb
 ##.sfbg
+##.sG4Xue.gjGrxc
+##.sG4Xue.gjGrxc.Q7JiE
+##.sG4Xue.gjGrxc.YzCcne
 ##.Si7Nvc.O1t3Xb
 ##.signup-cta.alert.alert-info
 ##.SjnGOc
@@ -620,7 +625,13 @@ askubuntu.com###sidebar
 askubuntu.com##span[title="Moderator"]
 askubuntu.com##svg[class="va-text-bottom o50 svg-icon iconPencilSm"]
 atlassian.com##._header.\-is-tutorial
+atlassian.com##.container-fluid.imkt-navbar__main-section
+atlassian.com##.container-fluid.md-cozy.theme-two
 atlassian.com##.footer.is-tutorial
+atlassian.com##.global-nav--wac
+atlassian.com##.global-nav--wac__background
+atlassian.com##.imkt-sticky-wrapper
+atlassian.com##.intra-div.s0.between.block-theme-one-reduce-padding
 atlassian.com##.is-empty._input
 atlassian.com##.search-button.search-open
 atlassian.com##.topbar.is-tutorial
@@ -629,12 +640,17 @@ babylonbee.com##.absolute.inset-0.bg-gray-500.dark\:bg-gray-900.opacity-75
 babylonbee.com##.bg-gray-50.rounded-lg.shadow-xl.transition-all.max-h-screen-minus-header.overflow-y-auto.overscroll-contain.scrolling-touch.relative.sm\:w-full.sm\:max-w-screen-md.py-3
 babylonbee.com##.bg-gray-800
 babylonbee.com##.bg-white.fixed.w-full.z-30.transition-all.ease-in-out.duration-150.flex.items-center.h-16
+babylonbee.com##.bg-white.fixed.w-full.z-30.transition-all.ease-in-out.duration-150.items-center.h-16.border-b.border-gray-200
 babylonbee.com##.btn-gray.p-6.shadow-lg
 babylonbee.com##.card.alert-info-base.mt-6
+babylonbee.com##.fc-button-background
 babylonbee.com##.font-bold
 babylonbee.com##.grid.grid-cols-2.gap-4
 babylonbee.com##.my-3.w-full.lg\:w-1\/3
+babylonbee.com##.pt-10.pb-12.px-6.sm\:pt-16.sm\:px-16
 babylonbee.com##.relative.max-w-7xl.mx-auto.px-4.md\:px-6.lg\:px-8.flex.items-center.h-16.justify-between
+babylonbee.com##.relative.w-full.h-16
+babylonbee.com##.text-sm.text-gray-600.hover\:text-gray-800.cursor-pointer.mb-2
 babylonbee.com##.text-xl.leading-9.tracking-tight.font-extrabold.text-gray-900.sm\:text-2xl.sm\:leading-10.mt-3
 babylonbee.com###app > div.min-h-screen.bg-global > div > main > div > div > div > div.flex.flex-wrap.w-full.pt-0 > div.mb-2.lg\:pr-8.w-full.lg\:w-2\/3 > div.flex.flex-col.bg-gray-50.rounded.shadow-md.overflow-hidden.mb-4 > div.flex-1.bg-white.pt-0.sm\:px-6.pb-4.flex.flex-col.justify-between > div > div > a
 babylonbee.com###app > div.min-h-screen.bg-global > div > main > div > div > div > div.flex.flex-wrap.w-full.pt-0 > div.mb-2.lg\:pr-8.w-full.lg\:w-2\/3 > div.flex.flex-col.bg-gray-50.rounded.shadow-md.overflow-hidden.mb-4 > div.flex-1.bg-white.pt-0.sm\:px-6.pb-4.flex.flex-col.justify-between > div > div > hr
@@ -647,6 +663,7 @@ babylonbee.com###app > div.min-h-screen.bg-global > div.pb-2.bg-global.pt-16.z-1
 babylonbee.com###app > div.min-h-screen.bg-global > div.pb-2.bg-global.pt-16.z-10 > main > div > div.relative.bg-global.pb-20.sm\:px-6.lg\:pb-8.lg\:px-8 > div.mx-auto > div.flex.flex-wrap.w-full.pt-0 > div.mb-2.lg\:pr-8.w-full.lg\:w-2\/3 > div.flex.flex-col.bg-gray-50.rounded.shadow-md.overflow-hidden.mb-4 > div.flex-1.bg-white.pt-0.sm\:px-6.pb-4.flex.flex-col.justify-between > div > div > p:nth-child(10)
 babylonbee.com###app > div.min-h-screen.bg-global > div.pb-2.bg-global.pt-16.z-10 > main > div > div.relative.bg-global.pb-20.sm\:px-6.lg\:pb-8.lg\:px-8 > div.mx-auto > div.flex.flex-wrap.w-full.pt-0 > div.mb-2.lg\:pr-8.w-full.lg\:w-2\/3 > div.flex.flex-col.bg-gray-50.rounded.shadow-md.overflow-hidden.mb-4 > div.flex-1.bg-white.pt-0.sm\:px-6.pb-4.flex.flex-col.justify-between > div > div > p:nth-child(9)
 babylonbee.com###comments
+babylonbee.com###smallNavbar
 babylonbee.com##a[href="https://www.youtube.com/thebabylonbee?sub_confirmation=1"]
 baidu.com##._2kfubre.ec-vcion.ec-no-w-shadow
 baidu.com##._3zs5vdf.c-gap-top-xsmall
@@ -748,6 +765,7 @@ baidu.com##.se-copyright
 baidu.com##.se-head-tablink
 baidu.com##.se-relativewords.c-container.se-relativewords-new.c-bg-color-white
 baidu.com##.se-tab-lists.c-flexbox
+baidu.com##.search-source-wrap
 baidu.com##.side-entry.aging-entry
 baidu.com##.soutu-btn
 baidu.com##.square-enterance
@@ -956,6 +974,7 @@ bilibili.com##.default-btn.charge-btn.btn-transition.not-follow-charge-btn
 bilibili.com##.default-btn.new-charge-btn.charge-btn-loaded
 bilibili.com##.default-entry
 bilibili.com##.desc-info.desc-v2.open
+bilibili.com##.desktop-download-tip
 bilibili.com##.dm
 bilibili.com##.download-entry.download-client-trigger
 bilibili.com##.ear.bilifont.bili-icon_youdaohang_xiaodianshitianxian
@@ -1264,6 +1283,7 @@ blog.csdn.net##.no-active
 blog.csdn.net##.option-box
 blog.csdn.net##.passport-login-container
 blog.csdn.net##.passport-login-mark
+blog.csdn.net##.passport-login-tip-container
 blog.csdn.net##.person-messagebox
 blog.csdn.net##.profile-intro-name-boxOpration
 blog.csdn.net##.profile-intro.d-flex
@@ -1346,7 +1366,9 @@ chat.openai.com##.relative.pb-3.pt-2.text-center.text-xs.text-gray-600.dark\:tex
 chat.openai.com##.relative.py-2.text-center.text-xs.text-gray-600.dark\:text-gray-300.md\:px-\[60px\]
 chat.openai.com##.relative.z-20.flex.min-h-\[60px\].flex-wrap.items-center.justify-between.gap-3.border-b.border-black\/10.bg-white.p-2.text-gray-500.dark\:border-gray-900\/50.dark\:bg-gray-800.dark\:text-gray-300
 chat.openai.com##.scrollbar-trigger.relative.h-full.w-full.flex-1.items-start.border-white\/20
+chat.openai.com##.sticky.top-0.mb-1\.5.flex.items-center.justify-between.z-10.h-14.bg-white.p-2.font-semibold.dark\:bg-gray-800
 chat.openai.com##.sticky.top-0.mb-1\.5.flex.items-center.justify-between.z-10.h-14.bg-white\/95.p-2.font-semibold.dark\:bg-gray-800\/90
+chat.openai.com##.text-token-primary.sticky.top-0.z-10.flex.min-h-\[40px\].items-center.justify-center.border-b.border-token-border-medium.bg-token-surface-primary.pl-1.dark\:bg-token-surface-secondary.md\:hidden
 chat.openai.com###headlessui-menu-button-\:r2m\:
 chat.openai.com###headlessui-menu-button-\:r9\:
 chat.openai.com###radix-\:rb\:
@@ -1726,6 +1748,7 @@ crunchify.com##.textwidget.custom-html-widget
 crunchify.com##.yarpp.yarpp-related.yarpp-related-website.yarpp-template-list
 crunchify.com###beforefooterid
 crunchify.com###disqus_thread
+csdn.net##.passport-login-tip-container
 csdn.net##.recommend-item-box
 csdn.net##.recommend-nps-box.common-nps-box
 csdn.net###recommendNps
@@ -1805,6 +1828,8 @@ dict.youdao.com##.logo
 dict.youdao.com##.more-example
 dict.youdao.com##.nav_list
 dict.youdao.com##.product
+dict.youdao.com##.product-container
+dict.youdao.com##.product-container.product_container
 dict.youdao.com##.product-item_content
 dict.youdao.com##.result_navigator
 dict.youdao.com##.result-top_nav
@@ -1941,9 +1966,12 @@ en.wikipedia.org##.box-Expand_language.plainlinks.metadata.ambox.ambox-notice
 en.wikipedia.org##.box-More_citations_needed.plainlinks.metadata.ambox.ambox-content.ambox-Refimprove
 en.wikipedia.org##.box-More_footnotes.plainlinks.metadata.ambox.ambox-style.ambox-More_footnotes
 en.wikipedia.org##.catlinks
+en.wikipedia.org##.cn-fundraising
 en.wikipedia.org##.cnotice
 en.wikipedia.org##.cnotice-logo-container
 en.wikipedia.org##.cnotice-message-container
+en.wikipedia.org##.frb-footer-button
+en.wikipedia.org##.frb-inline-main
 en.wikipedia.org##.internal
 en.wikipedia.org##.mbox-small.plainlinks.sistersitebox
 en.wikipedia.org##.metadata.plainlinks.dmbox.dmbox-setindex
@@ -1973,6 +2001,7 @@ en.wikipedia.org##.wll-image
 en.wikipedia.org##.wll-logo
 en.wikipedia.org###asn-dismissable-notice
 en.wikipedia.org###catlinks
+en.wikipedia.org###centralNotice
 en.wikipedia.org###cnotice-main
 en.wikipedia.org###cnotice-translation-link
 en.wikipedia.org###coordinates
@@ -1990,6 +2019,8 @@ en.wikipedia.org##img[src="//upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-p
 en.wikipedia.org##img[src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png"]
 fastapi.tiangolo.com##.md-banner
 feishu.cn##.hc_sticky_container.js-hc_sticky_container
+figma.com##.base_cookie_banner--fileViewer__persistentMessage---xrm1.base_cookie_banner--fileViewer__persistentMessage_light--nNfrP
+figma.com##.footer_banner--googleBanner--vQIvm.footer_banner--banner--EOipD.modal--modal--2VSSd.modal--modalShadow--ucS5o.modal--modalBare--Kg4QV
 forbes.com##.header__nav
 forbes.com##.header.universal-header
 forbes.com##.right-rail
@@ -2257,6 +2288,8 @@ github.com##details[data-target="notifications-list-subscription-form.details"]
 github.com##div[class="Box-sc-1gh2r6s-0 eQwyfV"]
 github.com##div[class="Box-sc-1gh2r6s-0 jypBpZ"]
 github.com##div[class="js-profile-editable-area"]
+github.com##footer
+github.com##nav[aria-label="Footer"]
 github.com##notifications-list-subscription-form[data-action="notifications-dialog-label-toggled:notifications-list-subscription-form#handleDialogLabelToggle"]
 github.com##span[class="TextInput-icon"]
 github.com##span[class="unread-indicator js-feature-preview-indicator"]
@@ -2455,6 +2488,7 @@ google.com##.appbar
 google.com##.asjHCd
 google.com##.AUiS2
 google.com##.AvBz0e
+google.com##.bDo4af
 google.com##.BKRPef
 google.com##.BKRPef.M2vV3
 google.com##.bTZTkf.uXmgWc
@@ -2469,6 +2503,7 @@ google.com##.DhGrzc.BDXcec
 google.com##.dRYYxd
 google.com##.e2BEnf.U7izfe.hWIMdd
 google.com##.e2BEnf.U7izfe.mfMhoc
+google.com##.EEWFde
 google.com##.egm4nd
 google.com##.eMLgL.Inwu4e
 google.com##.eMY8cf.MjJqGe.cd29Sd.xvfzbc.RsW3Ke.LkIdQb
@@ -2582,6 +2617,8 @@ google.com##.sal6Qd
 google.com##.sBbkle
 google.com##.SenEzd.TXKQpd.mIKy0c.OSrXXb.dGWpb
 google.com##.sfbg
+google.com##.sG4Xue.gjGrxc.Q7JiE
+google.com##.sG4Xue.gjGrxc.YzCcne
 google.com##.SjnGOc
 google.com##.SLI5wb.zVq10e.TkZZsf.Wt5Tfe.llNkz
 google.com##.t2vtad
@@ -2682,6 +2719,11 @@ guidingtech.com##.fill-bb-light.container-gutters.pad-four-lg.push-section.space
 guidingtech.com##.space-line-bottom.nospace-sm
 guidingtech.com##.space-one-bottom
 guidingtech.com##.title-four.size-small.bp-indigo.prose-leading
+guru99.com##.kadence-scroll-to-top
+guru99.com##.scroll-up-wrap
+guru99.com##.site-footer-row-container-inner
+guru99.com##.site-header-row-container-inner
+guru99.com###kt-scroll-up
 howtodoinjava.com##.inside-right-sidebar
 howtogeek.com##.affiliate-disclosure
 howtogeek.com##.header-commission-statement
@@ -3399,6 +3441,12 @@ pypi.org##.language-switcher
 pypi.org##.site-header
 python.org##.footer
 qq.com##.global
+qq.ip138.com##.bd
+qq.ip138.com##.header
+qq.ip138.com##.mod-breadcrumb.only-pc
+qq.ip138.com##.mod-foot
+qq.ip138.com##.mod-head
+qq.ip138.com##.side
 quora.com##.CssComponent__CssInlineComponent-sc-1oskqb9-1.Icon___StyledCssInlineComponent-sc-11tmcw7-0.dSydeA
 quora.com##.q-box.qu-bg--white.qu-textAlign--center.qu-px--medium.qu-py--medium
 quora.com##.q-box.qu-borderAll.qu-borderRadius--small.qu-bg--gray_ultralight
@@ -4028,6 +4076,8 @@ towardsdatascience.com#?#div:-abp-has(> div > div > span > article > div > div >
 towardsdatascience.com#?#footer:-abp-has(> div > div > div > div > div > div > div > div > button > svg[aria-label="responses"])
 towardsdatascience.com##div[data-popper-placement="top"]
 towardsdatascience.com##nav
+translate.google.com##.a88hkc
+translate.google.com##.VlPnLc
 tutorialspoint.com##.accent-header
 tutorialspoint.com##.back-top
 tutorialspoint.com##.center-aligned.tutorial-menu
@@ -4176,6 +4226,11 @@ wikipedia.org##.box-Expand_language
 wikipedia.org##.box-Expand_language.plainlinks.metadata.ambox.ambox-notice
 wikipedia.org##.box-More_citations_needed.plainlinks.metadata.ambox.ambox-content.ambox-Refimprove
 wikipedia.org##.box-More_footnotes.plainlinks.metadata.ambox.ambox-style.ambox-More_footnotes
+wikipedia.org##.cn-fundraising
+wikipedia.org##.frb-footer-button
+wikipedia.org##.frb-inline-main
+wikipedia.org##.message
+wikipedia.org##.message.survey-content
 wikipedia.org##.metadata.plainlinks.dmbox.dmbox-setindex
 wikipedia.org##.mw-editsection
 wikipedia.org##.mw-footer-container
@@ -4200,6 +4255,7 @@ wikipedia.org##.wll-image
 wikipedia.org##.wll-logo
 wikipedia.org###asn-dismissable-notice
 wikipedia.org###bluedeck_ding
+wikipedia.org###centralNotice
 wikipedia.org###mw-panel-toc
 wikipedia.org###p-lang-btn-checkbox
 wikipedia.org###p-lang-btn-label
@@ -4250,6 +4306,7 @@ youdao.com##.logo
 youdao.com##.more-example
 youdao.com##.nav_list
 youdao.com##.product
+youdao.com##.product-container
 youdao.com##.product-item_content
 youdao.com##.result_navigator
 youdao.com##.result-top_nav
@@ -4392,6 +4449,7 @@ youtubekids.com##tp-yt-paper-icon-button[id="player-next-button"]
 youtubekids.com##tp-yt-paper-icon-button[id="volume-button"]
 zh.wikipedia.org##.catlinks
 zh.wikipedia.org##.cnotice
+zh.wikipedia.org##.message.survey-content
 zh.wikipedia.org##.mw-editsection
 zh.wikipedia.org##.mw-footer
 zh.wikipedia.org##.mw-normal-catlinks
@@ -4478,61 +4536,3 @@ zionladder.com##.footer.fixed-bottom
 zionladder.com###footer
 zionladder.com###launcher
 zionladder.com###totop
-guru99.com##.site-footer-row-container-inner
-guru99.com###kt-scroll-up
-guru99.com##.kadence-scroll-to-top
-guru99.com##.scroll-up-wrap
-guru99.com##.site-header-row-container-inner
-google.com##.EEWFde
-google.com##.bDo4af
-google.com##.sG4Xue.gjGrxc.YzCcne
-##.EEWFde
-##.bDo4af
-##.sG4Xue.gjGrxc.YzCcne
-blog.csdn.net##.passport-login-tip-container
-csdn.net##.passport-login-tip-container
-figma.com##.footer_banner--googleBanner--vQIvm.footer_banner--banner--EOipD.modal--modal--2VSSd.modal--modalShadow--ucS5o.modal--modalBare--Kg4QV
-figma.com##.base_cookie_banner--fileViewer__persistentMessage---xrm1.base_cookie_banner--fileViewer__persistentMessage_light--nNfrP
-google.com##.sG4Xue.gjGrxc.Q7JiE
-##.sG4Xue.gjGrxc.Q7JiE
-##.sG4Xue.gjGrxc
-zh.wikipedia.org##.message.survey-content
-wikipedia.org##.message.survey-content
-wikipedia.org##.message
-en.wikipedia.org##.frb-inline-main
-wikipedia.org##.frb-inline-main
-en.wikipedia.org##.frb-footer-button
-wikipedia.org##.frb-footer-button
-en.wikipedia.org###centralNotice
-wikipedia.org###centralNotice
-en.wikipedia.org##.cn-fundraising
-wikipedia.org##.cn-fundraising
-github.com##footer
-github.com##nav[aria-label="Footer"]
-dict.youdao.com##.product-container.product_container
-dict.youdao.com##.product-container
-youdao.com##.product-container
-chat.openai.com##.sticky.top-0.mb-1\.5.flex.items-center.justify-between.z-10.h-14.bg-white.p-2.font-semibold.dark\:bg-gray-800
-qq.ip138.com##.bd
-qq.ip138.com##.side
-qq.ip138.com##.mod-foot
-qq.ip138.com##.mod-breadcrumb.only-pc
-qq.ip138.com##.mod-head
-qq.ip138.com##.header
-atlassian.com##.container-fluid.md-cozy.theme-two
-atlassian.com##.global-nav--wac__background
-atlassian.com##.global-nav--wac
-atlassian.com##.container-fluid.imkt-navbar__main-section
-atlassian.com##.imkt-sticky-wrapper
-atlassian.com##.intra-div.s0.between.block-theme-one-reduce-padding
-translate.google.com##.a88hkc
-translate.google.com##.VlPnLc
-babylonbee.com##.fc-button-background
-babylonbee.com##.relative.w-full.h-16
-babylonbee.com###smallNavbar
-babylonbee.com##.bg-white.fixed.w-full.z-30.transition-all.ease-in-out.duration-150.items-center.h-16.border-b.border-gray-200
-babylonbee.com##.pt-10.pb-12.px-6.sm\:pt-16.sm\:px-16
-babylonbee.com##.text-sm.text-gray-600.hover\:text-gray-800.cursor-pointer.mb-2
-chat.openai.com##.text-token-primary.sticky.top-0.z-10.flex.min-h-\[40px\].items-center.justify-center.border-b.border-token-border-medium.bg-token-surface-primary.pl-1.dark\:bg-token-surface-secondary.md\:hidden
-baidu.com##.search-source-wrap
-bilibili.com##.desktop-download-tip
