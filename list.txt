@@ -4566,3 +4566,5 @@ google.com##.HnYYW
 ##.otFloatingRoundedCorner
 google.com.hk##.VfL2Y.LRZwuc
 ##.VfL2Y.LRZwuc
+chat.openai.com##.flex-shrink-0.overflow-x-hidden.bg-token-sidebar-surface-primary
+chat.openai.com##.relative.px-2.py-2.text-center.text-xs.text-token-text-secondary.md\:px-\[60px\]
