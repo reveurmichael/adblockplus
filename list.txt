@@ -4574,3 +4574,4 @@ translate.google.com##.nidPne
 google.com##.nidPne
 google.com##.ym1pid.zo4mKb.KLEmSd
 ##.ym1pid.zo4mKb.KLEmSd
+chat.openai.com##.sticky.top-0.mb-1\.5.flex.items-center.justify-between.z-10.h-14.p-2.font-semibold.bg-token-main-surface-primary
