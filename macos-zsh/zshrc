@@ -34,7 +34,6 @@ unalias t
 alias g="cd ~/Documents/GitHub/"
 alias p="cd ~/PycharmProjects"
 alias z="code ~/.zshrc"
-alias h="cd ~"
 alias n="jupyter notebook"
 alias j="jupyter lab"
 alias l="jupyter lab"
@@ -43,6 +42,8 @@ alias t="cd ~/PycharmProjects/lunde.top && code ."
 alias o="cd ~/PycharmProjects/machine-learning-ocademy && code ."
 alias r="cd ~/Documents/GitHub/reveurmichael-machine-learning && code ."
 alias s="git stash"
+alias y="export all_proxy=http://127.0.0.1:1087"
+alias u="unset all_proxy"
 alias f="git fetch origin && git fetch upstream"
 
 
