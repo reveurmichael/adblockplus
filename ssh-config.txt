@@ -1,0 +1,42 @@
+Host 43.134.48.9
+    HostName 43.134.48.9
+    User lighthouse
+
+Host 43.156.84.104
+    HostName 43.156.84.104
+    Port 22
+    User lighthouse
+
+Host singapore
+    HostName singapore
+
+Host 43.134.48.9
+    HostName 43.134.48.9
+    User lighthouse
+
+Host 43.156.84.104
+    HostName 43.156.84.104
+    User lighthouse
+
+Host utseus-gpu
+    HostName 43.156.84.104
+    Port 6000
+    IdentityFile .ssh/docker_container_key
+    User utseus
+
+Host singapore
+    HostName 43.156.84.104
+    Port 22
+    User lighthouse
+
+Host gpu
+    IdentityFile ~/.ssh/docker_container_key
+    HostName 58.199.168.215
+    User utseus
+    Port 20001
+
+Host *
+    ServerAliveInterval 50
+    ServerAliveCountMax 9999
+    StrictHostKeyChecking no
+
