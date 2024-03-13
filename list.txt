@@ -4576,3 +4576,16 @@ google.com##.ym1pid.zo4mKb.KLEmSd
 ##.ym1pid.zo4mKb.KLEmSd
 chat.openai.com##.sticky.top-0.mb-1\.5.flex.items-center.justify-between.z-10.h-14.p-2.font-semibold.bg-token-main-surface-primary
 chat.openai.com##.relative.px-2.py-2.text-center.text-xs.text-token-text-secondary.md\:px-\[60px\]
+##.FJIcp
+google.com##.FJIcp
+###JTPWx
+google.com###JTPWx
+tutorialspoint.com##.library-cta
+tutorialspoint.com##.related-heading
+tutorialspoint.com###print-page
+tutorialspoint.com##.button
+google.com.hk##.REySof
+google.com##.REySof
+##.REySof
+google.com.hk###JTPWx
+google.com.hk##.FJIcp
