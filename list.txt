@@ -4590,3 +4590,6 @@ google.com##.REySof
 google.com.hk###JTPWx
 google.com.hk##.FJIcp
 youtube.com###panels-full-bleed-container
+zh.wikipedia.org##.mwe-popups
+en.wikipedia.org##.mwe-popups
+wikipedia.org##.mwe-popups
