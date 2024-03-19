@@ -4589,3 +4589,4 @@ google.com##.REySof
 ##.REySof
 google.com.hk###JTPWx
 google.com.hk##.FJIcp
+youtube.com###panels-full-bleed-container
