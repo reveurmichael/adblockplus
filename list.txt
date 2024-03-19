@@ -4594,3 +4594,5 @@ zh.wikipedia.org##.mwe-popups
 en.wikipedia.org##.mwe-popups
 wikipedia.org##.mwe-popups
 youtube.com##.ytp-fullerscreen-edu-chevron
+youtube.com##.ytp-watch-later-icon
+youtube.com##.ytp-share-icon
