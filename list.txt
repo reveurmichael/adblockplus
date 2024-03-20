@@ -4596,3 +4596,14 @@ wikipedia.org##.mwe-popups
 youtube.com##.ytp-fullerscreen-edu-chevron
 youtube.com##.ytp-watch-later-icon
 youtube.com##.ytp-share-icon
+babylonbee.com##.fc-dialog-scrollable-content
+babylonbee.com##.fc-dialog-overlay
+learn.microsoft.com###ms--additional-resources
+learn.microsoft.com##.right-container.column.is-4-desktop.display-none.display-block-desktop
+learn.microsoft.com##.tier1-event-banner.position-relative.padding-block-md.skills-challenge-banner.padding-block-xs
+learn.microsoft.com###footer
+learn.microsoft.com##.footer-layout.uhf-container.has-padding
+developer.aliyun.com##.homepage-footer-wrap
+google.com##.VfL2Y.LRZwuc
+google.com.hk##.GGYY2b
+##.GGYY2b
