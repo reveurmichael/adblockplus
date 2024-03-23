@@ -4612,4 +4612,6 @@ google.com##.ym1pid.zo4mKb.KLEmSd
 ##.ym1pid.zo4mKb.KLEmSd
 google.com.hk##.o1uoyd
 google.com##.o1uoyd
+google.com.hk##.ym1pid.KLEmSd
+google.com##.ym1pid.KLEmSd
 
