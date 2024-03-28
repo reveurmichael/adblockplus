@@ -4610,3 +4610,4 @@ en.wikipedia.org##.vector-dropdown-label.cdx-button.cdx-button--fake-button.cdx-
 wikipedia.org###vector-page-titlebar-toc-label
 wikipedia.org##.vector-dropdown-label
 youtube.com##.yt-spec-touch-feedback-shape.yt-spec-touch-feedback-shape--overlay-touch-response
+geeksforgeeks.org##.discussion_panel
