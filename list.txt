@@ -4609,3 +4609,4 @@ en.wikipedia.org###vector-page-titlebar-toc-label
 en.wikipedia.org##.vector-dropdown-label.cdx-button.cdx-button--fake-button.cdx-button--fake-button--enabled.cdx-button--icon-only
 wikipedia.org###vector-page-titlebar-toc-label
 wikipedia.org##.vector-dropdown-label
+youtube.com##.yt-spec-touch-feedback-shape.yt-spec-touch-feedback-shape--overlay-touch-response
