@@ -4611,3 +4611,7 @@ wikipedia.org###vector-page-titlebar-toc-label
 wikipedia.org##.vector-dropdown-label
 youtube.com##.yt-spec-touch-feedback-shape.yt-spec-touch-feedback-shape--overlay-touch-response
 geeksforgeeks.org##.discussion_panel
+youtube.com###revealButton
+youtube.com###options
+youtube.com##.yt-spec-button-shape-next.yt-spec-button-shape-next--filled.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--size-m
+youtube.com##.ytp-fullerscreen-edu-button.ytp-button
