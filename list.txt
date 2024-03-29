@@ -4615,3 +4615,4 @@ youtube.com###revealButton
 youtube.com###options
 youtube.com##.yt-spec-button-shape-next.yt-spec-button-shape-next--filled.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--size-m
 youtube.com##.ytp-fullerscreen-edu-button.ytp-button
+youtube.com##.yt-spec-button-shape-next.yt-spec-button-shape-next--filled.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--size-m
