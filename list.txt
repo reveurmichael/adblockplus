@@ -4618,3 +4618,10 @@ youtube.com##.ytp-fullerscreen-edu-button.ytp-button
 youtube.com##.yt-spec-button-shape-next.yt-spec-button-shape-next--filled.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--size-m
 google.com.hk##.nD2EKb.VEELad
 google.com##.nD2EKb.VEELad
+google.com##.h7Tj7e
+google.com.hk##.h7Tj7e
+youtube.com###header
+google.com##.Aysk6e.card-section.Pqkn2e
+dict.youdao.com##.dict-website-footer.footer-gray
+dict.youdao.com##.dict-website-footer
+en.wikipedia.org##.box-Current_related
