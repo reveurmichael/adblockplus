@@ -16,7 +16,5 @@ Set-Alias -Name j -Value OPENJUPYTERLAB
 Set-Alias -Name l -Value OPENJUPYTERLAB
 Function OPENJUPYTERNOTEBOOK {jupyter notebook}
 Set-Alias -Name n -Value OPENJUPYTERNOTEBOOK
-Function MACHINELEARNINGOCADEMY {cd ~\PycharmProjects\machine-learning-ocademy; code .}
-Set-Alias -Name o -Value MACHINELEARNINGOCADEMY
 Function ADBLOCKPLUS {cd ~\PycharmProjects\adblockplus; code .}
 Set-Alias -Name a -Value ADBLOCKPLUS
