@@ -4625,3 +4625,8 @@ google.com##.Aysk6e.card-section.Pqkn2e
 dict.youdao.com##.dict-website-footer.footer-gray
 dict.youdao.com##.dict-website-footer
 en.wikipedia.org##.box-Current_related
+en.wikipedia.org##.vector-sticky-pinned-container
+wikipedia.org##.vector-sticky-pinned-container
+babylonbee.com###app>div.bg-gray-50.py-12
+colab.research.google.com##.footer-links
+colab.research.google.com##colab-status-bar[style="min-height: inherit;"]
