@@ -370,6 +370,7 @@
 ##span[class="ACRAdd M2vV3"]
 ##totop
 ##yt-icon[class="style-scope ytd-searchbox"]
+##.c5aZPb
 ||accounts./gsi/iframe/select
 ||accounts.google.com/gsi/iframe/select
 ||api.map.baidu.com/images/copyright_logo.png
@@ -646,6 +647,7 @@ atlassian.com##.search-button.search-open
 atlassian.com##.topbar.is-tutorial
 atlassian.com###footer
 babylonbee.com##.absolute.inset-0.bg-gray-500.dark\:bg-gray-900.opacity-75
+babylonbee.com##.bg-gray-50
 babylonbee.com##.bg-gray-50.rounded-lg.shadow-xl.transition-all.max-h-screen-minus-header.overflow-y-auto.overscroll-contain.scrolling-touch.relative.sm\:w-full.sm\:max-w-screen-md.py-3
 babylonbee.com##.bg-gray-800
 babylonbee.com##.bg-white.fixed.w-full.z-30.transition-all.ease-in-out.duration-150.flex.items-center.h-16
@@ -673,6 +675,8 @@ babylonbee.com###app > div.min-h-screen.bg-global > div.pb-2.bg-global.pt-16.z-1
 babylonbee.com###app > div.min-h-screen.bg-global > div.pb-2.bg-global.pt-16.z-10 > main > div > div.relative.bg-global.pb-20.sm\:px-6.lg\:pb-8.lg\:px-8 > div.mx-auto > div.flex.flex-wrap.w-full.pt-0 > div.mb-2.lg\:pr-8.w-full.lg\:w-2\/3 > div.flex.flex-col.bg-gray-50.rounded.shadow-md.overflow-hidden.mb-4 > div.flex-1.bg-white.pt-0.sm\:px-6.pb-4.flex.flex-col.justify-between > div > div > div.mt-4.mb-2
 babylonbee.com###app > div.min-h-screen.bg-global > div.pb-2.bg-global.pt-16.z-10 > main > div > div.relative.bg-global.pb-20.sm\:px-6.lg\:pb-8.lg\:px-8 > div.mx-auto > div.flex.flex-wrap.w-full.pt-0 > div.mb-2.lg\:pr-8.w-full.lg\:w-2\/3 > div.flex.flex-col.bg-gray-50.rounded.shadow-md.overflow-hidden.mb-4 > div.flex-1.bg-white.pt-0.sm\:px-6.pb-4.flex.flex-col.justify-between > div > div > p:nth-child(10)
 babylonbee.com###app > div.min-h-screen.bg-global > div.pb-2.bg-global.pt-16.z-10 > main > div > div.relative.bg-global.pb-20.sm\:px-6.lg\:pb-8.lg\:px-8 > div.mx-auto > div.flex.flex-wrap.w-full.pt-0 > div.mb-2.lg\:pr-8.w-full.lg\:w-2\/3 > div.flex.flex-col.bg-gray-50.rounded.shadow-md.overflow-hidden.mb-4 > div.flex-1.bg-white.pt-0.sm\:px-6.pb-4.flex.flex-col.justify-between > div > div > p:nth-child(9)
+babylonbee.com###app>div.bg-gray-50
+babylonbee.com###app>div.bg-gray-50.py-12
 babylonbee.com###comments
 babylonbee.com###smallNavbar
 babylonbee.com##a[href="https://www.youtube.com/thebabylonbee?sub_confirmation=1"]
@@ -1266,6 +1270,7 @@ blog.csdn.net##.aside-box
 blog.csdn.net##.aside-box-footer
 blog.csdn.net##.aside-content
 blog.csdn.net##.aside-title
+blog.csdn.net##.blog_container_aside
 blog.csdn.net##.blog-tags-box
 blog.csdn.net##.btn-comments.long-height.hover-box
 blog.csdn.net##.btn-comments.low-height.hover-box
@@ -1685,6 +1690,8 @@ codereview.stackexchange.com##.top-bar.js-top-bar.top-bar__network
 codereview.stackexchange.com##.ws-nowrap.s-btn.s-btn__primary
 codereview.stackexchange.com###post-form
 codereview.stackexchange.com###sidebar
+colab.research.google.com##.footer-links
+colab.research.google.com##colab-status-bar[style="min-height: inherit;"]
 communities.vmware.com##.footer-component
 communities.vmware.com##.footer-container
 communities.vmware.com##.otFlat.bottom.vertical-align-content.ot-buttons-fw
@@ -1832,6 +1839,8 @@ dict.youdao.com##.contianer
 dict.youdao.com##.dialog-guide-download.win-download
 dict.youdao.com##.dict_separate
 dict.youdao.com##.dict-indexes
+dict.youdao.com##.dict-website-footer
+dict.youdao.com##.dict-website-footer.footer-gray
 dict.youdao.com##.everyday_sentence
 dict.youdao.com##.exam_type
 dict.youdao.com##.feedbackBtn
@@ -1977,6 +1986,7 @@ en.cppreference.com###cpp-head-first
 en.cppreference.com###cpp-head-second
 en.cppreference.com###footer
 en.cppreference.com###footer-places
+en.wikipedia.org##.box-Current_related
 en.wikipedia.org##.box-Expand_language.plainlinks.metadata.ambox.ambox-notice
 en.wikipedia.org##.box-More_citations_needed.plainlinks.metadata.ambox.ambox-content.ambox-Refimprove
 en.wikipedia.org##.box-More_footnotes.plainlinks.metadata.ambox.ambox-style.ambox-More_footnotes
@@ -2008,9 +2018,13 @@ en.wikipedia.org##.side-box-text.plainlist
 en.wikipedia.org##.side-box.side-box-right.plainlinks.sistersitebox
 en.wikipedia.org##.sidebar.nomobile
 en.wikipedia.org##.toctogglespan
+en.wikipedia.org##.vector-body-before-content
+en.wikipedia.org##.vector-dropdown-checkbox
+en.wikipedia.org##.vector-dropdown-label.cdx-button.cdx-button--fake-button.cdx-button--fake-button--enabled.cdx-button--icon-only
 en.wikipedia.org##.vector-header-start
 en.wikipedia.org##.vector-header.mw-header
 en.wikipedia.org##.vector-limited-width-popup
+en.wikipedia.org##.vector-sticky-pinned-container
 en.wikipedia.org##.vector-user-links
 en.wikipedia.org##.wll-cta
 en.wikipedia.org##.wll-image
@@ -2029,6 +2043,8 @@ en.wikipedia.org###mw-panel
 en.wikipedia.org###p-search
 en.wikipedia.org###pt-anoncontribs
 en.wikipedia.org###setindexbox
+en.wikipedia.org###vector-page-titlebar-toc-checkbox
+en.wikipedia.org###vector-page-titlebar-toc-label
 en.wikipedia.org###wikipedia_asian_month_2021
 en.wikipedia.org###wll2021
 en.wikipedia.org##img[src="//upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/20px-Semi-protection-shackle.svg.png"]
@@ -2122,6 +2138,7 @@ geeksforgeeks.org##.btn.btn-success
 geeksforgeeks.org##.code-gutter
 geeksforgeeks.org##.cookie-consent.hide-consent.show-consent
 geeksforgeeks.org##.darkMode-wrap
+geeksforgeeks.org##.discussion_panel
 geeksforgeeks.org##.entry-meta
 geeksforgeeks.org##.footer-bottom-div
 geeksforgeeks.org##.footer-strip
@@ -2330,6 +2347,8 @@ google.com.hk##.AvBz0e
 google.com.hk##.AvBz0e.mQI5xc
 google.com.hk##.BKRPef
 google.com.hk##.BKRPef.M2vV3
+google.com.hk##.c5aZPb
+google.com.hk##.CbazZd
 google.com.hk##.ClpmGe
 google.com.hk##.CMLaue.aL9Gkc.mIKy0c.dGWpb
 google.com.hk##.CNf3nf.LhCR5d
@@ -2369,12 +2388,14 @@ google.com.hk##.GOE98c
 google.com.hk##.gsri_a
 google.com.hk##.gsst_b.sbib_c
 google.com.hk##.gTl8xb
+google.com.hk##.h7Tj7e
 google.com.hk##.hbFAne
 google.com.hk##.hcuDkb.zbp8B
 google.com.hk##.hdtb-mitem
 google.com.hk##.hdtb-mitem.hdtb-msel
 google.com.hk##.HiHjCd
 google.com.hk##.HK0d3e
+google.com.hk##.HnYYW
 google.com.hk##.hpuQDe
 google.com.hk##.HyIfo.btTgYb.cS4Vcb-pGL6qe-k1Ncfe
 google.com.hk##.iblpc
@@ -2404,6 +2425,7 @@ google.com.hk##.mR2gOd
 google.com.hk##.MUxGbd.wuQ4Ob.WZ8Tjf
 google.com.hk##.MV3Tnb
 google.com.hk##.MwRhke
+google.com.hk##.nD2EKb.VEELad
 google.com.hk##.nDcEnd
 google.com.hk##.o1uoyd
 google.com.hk##.o3j99.LLD4me.yr19Zb.LS8OJ
@@ -2462,6 +2484,7 @@ google.com.hk##.wv9iH.MjJqGe.cd29Sd
 google.com.hk##.wxp1Sb
 google.com.hk##.xCURGd
 google.com.hk##.XDyW0e
+google.com.hk##.XmmGVd
 google.com.hk##.XQIMve.wSFoM.z1asCe.SaPW2b
 google.com.hk##.xTFaxe.IjabWd.z1asCe.SaPW2b
 google.com.hk##.XTjFC.WF4CUc
@@ -2478,6 +2501,8 @@ google.com.hk##.Yx2mie.OiwQwf.cS4Vcb-pGL6qe-k1Ncfe
 google.com.hk##.z1asCe.JXrXlb
 google.com.hk##.z1asCe.MZy1Rb
 google.com.hk##.Zgesjc
+google.com.hk##.zLSRge.w2jn8d
+google.com.hk##.zLSRge.w2jn8d.OMqmfd
 google.com.hk###_fY3bYdbuELGf4-EPqL2GoAY5
 google.com.hk###before-appbar
 google.com.hk###fbar
@@ -2512,10 +2537,13 @@ google.com##.appbar
 google.com##.asjHCd
 google.com##.AUiS2
 google.com##.AvBz0e
+google.com##.Aysk6e.card-section.Pqkn2e
 google.com##.bDo4af
 google.com##.BKRPef
 google.com##.BKRPef.M2vV3
 google.com##.bTZTkf.uXmgWc
+google.com##.c5aZPb
+google.com##.CbazZd
 google.com##.clear-button.XoaYSb
 google.com##.ClpmGe
 google.com##.CNf3nf.LhCR5d
@@ -2558,6 +2586,7 @@ google.com##.gLpFG
 google.com##.GOE98c
 google.com##.gsri_a
 google.com##.gTl8xb
+google.com##.h7Tj7e
 google.com##.hdtb-mitem
 google.com##.hdtb-mitem.hdtb-msel
 google.com##.HE6OEb.mIKy0c.dGWpb
@@ -2608,6 +2637,7 @@ google.com##.mp5Tqb
 google.com##.mR2gOd
 google.com##.MXl0lf.mtqGb.EhIML
 google.com##.n6h3Rc
+google.com##.nD2EKb.VEELad
 google.com##.nDcEnd
 google.com##.ndYZfc
 google.com##.NhRr3b
@@ -2692,6 +2722,8 @@ google.com##.z1asCe.MZy1Rb
 google.com##.z4qXNd
 google.com##.Zgesjc
 google.com##.zKugA
+google.com##.zLSRge.w2jn8d
+google.com##.zLSRge.w2jn8d.OMqmfd
 google.com##.zNFAfd
 google.com##[class="Okagcf"]
 google.com###_8quLYOnRPKO20PEP9vqhqAo66
@@ -3501,8 +3533,11 @@ reddit.com##.bg-neutral-background.z-\[2\].box-border.flex.flex-col.mt-0.mb-0.pt
 reddit.com##.flex.flex-row.col-start-1.col-end-4.items-center.text-16.m-md.xs\:mx-0.px-md.py-xs.min-h-\[56px\].box-border.rounded-sm.border-sm.border-neutral-border-weak.border-solid
 reddit.com##.flex.items-center.pl-xs
 reddit.com##.h-header-large
+reddit.com##.left-sidebar.theme-rpl
 reddit.com##.pdp.px-md.xs\:px-0.block
 reddit.com###credential_picker_container
+reddit.com###left-sidebar
+reddit.com###left-sidebar-container
 reddit.com###right-sidebar-container
 redhat.com##.article-byline
 redhat.com##.block.block--cta.cta.cta--red-on-black.cta--.my-5.p-3.text-center
@@ -4275,6 +4310,8 @@ wikipedia.org##.side-box-flex
 wikipedia.org##.side-box-text.plainlist
 wikipedia.org##.side-box.side-box-right.plainlinks.sistersitebox
 wikipedia.org##.toctogglespan
+wikipedia.org##.vector-dropdown-checkbox
+wikipedia.org##.vector-dropdown-label
 wikipedia.org##.vector-header-start
 wikipedia.org##.vector-limited-width-popup
 wikipedia.org##.vector-limited-width-toggle
@@ -4282,6 +4319,7 @@ wikipedia.org##.vector-main-menu-container
 wikipedia.org##.vector-menu-checkbox.mw-interlanguage-selector
 wikipedia.org##.vector-menu-heading.mw-ui-button.mw-ui-quiet.mw-ui-progressive.mw-portlet-lang-heading-68
 wikipedia.org##.vector-sitenotice-container
+wikipedia.org##.vector-sticky-pinned-container
 wikipedia.org##.vector-user-links
 wikipedia.org##.wll-cta
 wikipedia.org##.wll-image
@@ -4294,6 +4332,8 @@ wikipedia.org###p-lang-btn-checkbox
 wikipedia.org###p-lang-btn-label
 wikipedia.org###p-search
 wikipedia.org###setindexbox
+wikipedia.org###vector-page-titlebar-toc-checkbox
+wikipedia.org###vector-page-titlebar-toc-label
 wikipedia.org###vector-toc-collapsed-checkbox
 wikipedia.org###wll2021
 wikipedia.org##div[class="vector-page-toolbar"]
@@ -4429,6 +4469,7 @@ youtube.com##.style-scope.ytd-video-description-infocards-section-renderer
 youtube.com##.toast-button.style-scope.yt-notification-action-renderer.paper-toast-open
 youtube.com##.yt-simple-endpoint.style-scope.ytd-mini-guide-entry-renderer
 youtube.com##.yt-simple-endpoint.style-scope.ytd-rich-metadata-renderer
+youtube.com##.yt-spec-button-shape-next.yt-spec-button-shape-next--filled.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--size-m
 youtube.com##.yt-spec-button-shape-next.yt-spec-button-shape-next--outline.yt-spec-button-shape-next--call-to-action.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--icon-leading
 youtube.com##.yt-spec-button-shape-next.yt-spec-button-shape-next--outline.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--icon-leading
 youtube.com##.yt-spec-button-shape-next.yt-spec-button-shape-next--text.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--icon-trailing
@@ -4437,12 +4478,14 @@ youtube.com##.yt-spec-button-shape-next.yt-spec-button-shape-next--tonal.yt-spec
 youtube.com##.yt-spec-button-shape-with-label
 youtube.com##.yt-spec-touch-feedback-shape__fill
 youtube.com##.yt-spec-touch-feedback-shape__stroke
+youtube.com##.yt-spec-touch-feedback-shape.yt-spec-touch-feedback-shape--overlay-touch-response
 youtube.com##.yt-spec-touch-feedback-shape.yt-spec-touch-feedback-shape--touch-response
 youtube.com##.yt-spec-touch-feedback-shape.yt-spec-touch-feedback-shape--touch-response-inverse
 youtube.com##.ytp-autonav-toggle-button
 youtube.com##.ytp-autonav-toggle-button-container
 youtube.com##.ytp-cards-button-icon
 youtube.com##.ytp-cards-teaser-text
+youtube.com##.ytp-fullerscreen-edu-button.ytp-button
 youtube.com##.ytp-fullerscreen-edu-chevron
 youtube.com##.ytp-heat-map-chapter
 youtube.com##.ytp-miniplayer-button.ytp-button
@@ -4469,10 +4512,13 @@ youtube.com###guide-button
 youtube.com###guide-content
 youtube.com###guide-inner-content
 youtube.com###guide-wrapper
+youtube.com###header
 youtube.com###icon
 youtube.com###logo-icon
 youtube.com###main
+youtube.com###options
 youtube.com###panels-full-bleed-container
+youtube.com###revealButton
 youtube.com###scroll-container
 youtube.com###search-chip-bar
 youtube.com###search-clear-button
@@ -4587,57 +4633,3 @@ zionladder.com##.footer.fixed-bottom
 zionladder.com###footer
 zionladder.com###launcher
 zionladder.com###totop
-google.com##.c5aZPb
-##.c5aZPb
-google.com.hk##.HnYYW
-google.com##.HnYYW
-google.com.hk##.XmmGVd
-google.com##.XmmGVd
-reddit.com###left-sidebar
-reddit.com###left-sidebar-container
-reddit.com##.left-sidebar.theme-rpl
-en.wikipedia.org##.vector-body-before-content
-google.com.hk##.HnYYW
-google.com##.HnYYW
-google.com.hk##.c5aZPb
-google.com##.c5aZPb
-en.wikipedia.org###vector-page-titlebar-toc-checkbox
-en.wikipedia.org##.vector-dropdown-checkbox
-wikipedia.org##.vector-dropdown-checkbox
-wikipedia.org###vector-page-titlebar-toc-checkbox
-en.wikipedia.org###vector-page-titlebar-toc-label
-en.wikipedia.org##.vector-dropdown-label.cdx-button.cdx-button--fake-button.cdx-button--fake-button--enabled.cdx-button--icon-only
-wikipedia.org###vector-page-titlebar-toc-label
-wikipedia.org##.vector-dropdown-label
-youtube.com##.yt-spec-touch-feedback-shape.yt-spec-touch-feedback-shape--overlay-touch-response
-geeksforgeeks.org##.discussion_panel
-youtube.com###revealButton
-youtube.com###options
-youtube.com##.yt-spec-button-shape-next.yt-spec-button-shape-next--filled.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--size-m
-youtube.com##.ytp-fullerscreen-edu-button.ytp-button
-youtube.com##.yt-spec-button-shape-next.yt-spec-button-shape-next--filled.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--size-m
-google.com.hk##.nD2EKb.VEELad
-google.com##.nD2EKb.VEELad
-google.com##.h7Tj7e
-google.com.hk##.h7Tj7e
-youtube.com###header
-google.com##.Aysk6e.card-section.Pqkn2e
-dict.youdao.com##.dict-website-footer.footer-gray
-dict.youdao.com##.dict-website-footer
-en.wikipedia.org##.box-Current_related
-en.wikipedia.org##.vector-sticky-pinned-container
-wikipedia.org##.vector-sticky-pinned-container
-babylonbee.com###app>div.bg-gray-50.py-12
-babylonbee.com###app>div.bg-gray-50
-babylonbee.com##.bg-gray-50
-colab.research.google.com##.footer-links
-colab.research.google.com##colab-status-bar[style="min-height: inherit;"]
-google.com.hk##.CbazZd
-google.com##.CbazZd
-google.com.hk##.CbazZd
-google.com##.CbazZd
-blog.csdn.net##.blog_container_aside
-google.com##.zLSRge.w2jn8d.OMqmfd
-google.com.hk##.zLSRge.w2jn8d.OMqmfd
-google.com##.zLSRge.w2jn8d
-google.com.hk##.zLSRge.w2jn8d
