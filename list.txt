@@ -4628,6 +4628,8 @@ en.wikipedia.org##.box-Current_related
 en.wikipedia.org##.vector-sticky-pinned-container
 wikipedia.org##.vector-sticky-pinned-container
 babylonbee.com###app>div.bg-gray-50.py-12
+babylonbee.com###app>div.bg-gray-50
+babylonbee.com##.bg-gray-50
 colab.research.google.com##.footer-links
 colab.research.google.com##colab-status-bar[style="min-height: inherit;"]
 google.com.hk##.CbazZd
