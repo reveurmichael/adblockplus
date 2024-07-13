@@ -1987,7 +1987,6 @@ en.cppreference.com###cpp-head-second
 en.cppreference.com###footer
 en.cppreference.com###footer-places
 en.wikipedia.org##.box-Current_related
-en.wikipedia.org##.box-Expand_language.plainlinks.metadata.ambox.ambox-notice
 en.wikipedia.org##.box-More_citations_needed.plainlinks.metadata.ambox.ambox-content.ambox-Refimprove
 en.wikipedia.org##.box-More_footnotes.plainlinks.metadata.ambox.ambox-style.ambox-More_footnotes
 en.wikipedia.org##.catlinks
@@ -2062,7 +2061,6 @@ fr.wikipedia.org##.mw-article-toolbar-container
 fr.wikipedia.org##.mw-editsection
 fr.wikipedia.org##.mw-footer
 fr.wikipedia.org##.mw-header
-fr.wikipedia.org##.mw-interlanguage-selector.vector-menu-checkbox
 fr.wikipedia.org##.mw-sidebar
 fr.wikipedia.org##.navbar.bordered.noprint
 fr.wikipedia.org##.vector-menu-heading.mw-ui-button.mw-ui-quiet
@@ -2070,8 +2068,6 @@ fr.wikipedia.org###bandeau-portail
 fr.wikipedia.org###catlinks
 fr.wikipedia.org###footer
 fr.wikipedia.org###mw-panel
-fr.wikipedia.org###p-lang-btn-checkbox
-fr.wikipedia.org###p-lang-btn-label
 frdic.com#?#div:-abp-has(> div[class="content referenceWidth"])
 frdic.com##.ads_linktxt
 frdic.com##.content.referenceWidth
@@ -4289,8 +4285,6 @@ wiki.pathmind.com##.row.page-header
 wiki.pathmind.com###wiki-links-ul
 wikihow.com##.contribute2.show
 wikihow.com###article_courses_banner
-wikipedia.org##.box-Expand_language
-wikipedia.org##.box-Expand_language.plainlinks.metadata.ambox.ambox-notice
 wikipedia.org##.box-More_citations_needed.plainlinks.metadata.ambox.ambox-content.ambox-Refimprove
 wikipedia.org##.box-More_footnotes.plainlinks.metadata.ambox.ambox-style.ambox-More_footnotes
 wikipedia.org##.cn-fundraising
@@ -4316,8 +4310,6 @@ wikipedia.org##.vector-header-start
 wikipedia.org##.vector-limited-width-popup
 wikipedia.org##.vector-limited-width-toggle
 wikipedia.org##.vector-main-menu-container
-wikipedia.org##.vector-menu-checkbox.mw-interlanguage-selector
-wikipedia.org##.vector-menu-heading.mw-ui-button.mw-ui-quiet.mw-ui-progressive.mw-portlet-lang-heading-68
 wikipedia.org##.vector-sitenotice-container
 wikipedia.org##.vector-sticky-pinned-container
 wikipedia.org##.vector-user-links
@@ -4328,8 +4320,6 @@ wikipedia.org###asn-dismissable-notice
 wikipedia.org###bluedeck_ding
 wikipedia.org###centralNotice
 wikipedia.org###mw-panel-toc
-wikipedia.org###p-lang-btn-checkbox
-wikipedia.org###p-lang-btn-label
 wikipedia.org###p-search
 wikipedia.org###setindexbox
 wikipedia.org###vector-page-titlebar-toc-checkbox
