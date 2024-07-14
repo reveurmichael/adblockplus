@@ -647,7 +647,6 @@ atlassian.com##.search-button.search-open
 atlassian.com##.topbar.is-tutorial
 atlassian.com###footer
 babylonbee.com##.absolute.inset-0.bg-gray-500.dark\:bg-gray-900.opacity-75
-babylonbee.com##.bg-gray-50
 babylonbee.com##.bg-gray-50.rounded-lg.shadow-xl.transition-all.max-h-screen-minus-header.overflow-y-auto.overscroll-contain.scrolling-touch.relative.sm\:w-full.sm\:max-w-screen-md.py-3
 babylonbee.com##.bg-gray-800
 babylonbee.com##.bg-white.fixed.w-full.z-30.transition-all.ease-in-out.duration-150.flex.items-center.h-16
@@ -675,8 +674,6 @@ babylonbee.com###app > div.min-h-screen.bg-global > div.pb-2.bg-global.pt-16.z-1
 babylonbee.com###app > div.min-h-screen.bg-global > div.pb-2.bg-global.pt-16.z-10 > main > div > div.relative.bg-global.pb-20.sm\:px-6.lg\:pb-8.lg\:px-8 > div.mx-auto > div.flex.flex-wrap.w-full.pt-0 > div.mb-2.lg\:pr-8.w-full.lg\:w-2\/3 > div.flex.flex-col.bg-gray-50.rounded.shadow-md.overflow-hidden.mb-4 > div.flex-1.bg-white.pt-0.sm\:px-6.pb-4.flex.flex-col.justify-between > div > div > div.mt-4.mb-2
 babylonbee.com###app > div.min-h-screen.bg-global > div.pb-2.bg-global.pt-16.z-10 > main > div > div.relative.bg-global.pb-20.sm\:px-6.lg\:pb-8.lg\:px-8 > div.mx-auto > div.flex.flex-wrap.w-full.pt-0 > div.mb-2.lg\:pr-8.w-full.lg\:w-2\/3 > div.flex.flex-col.bg-gray-50.rounded.shadow-md.overflow-hidden.mb-4 > div.flex-1.bg-white.pt-0.sm\:px-6.pb-4.flex.flex-col.justify-between > div > div > p:nth-child(10)
 babylonbee.com###app > div.min-h-screen.bg-global > div.pb-2.bg-global.pt-16.z-10 > main > div > div.relative.bg-global.pb-20.sm\:px-6.lg\:pb-8.lg\:px-8 > div.mx-auto > div.flex.flex-wrap.w-full.pt-0 > div.mb-2.lg\:pr-8.w-full.lg\:w-2\/3 > div.flex.flex-col.bg-gray-50.rounded.shadow-md.overflow-hidden.mb-4 > div.flex-1.bg-white.pt-0.sm\:px-6.pb-4.flex.flex-col.justify-between > div > div > p:nth-child(9)
-babylonbee.com###app>div.bg-gray-50
-babylonbee.com###app>div.bg-gray-50.py-12
 babylonbee.com###comments
 babylonbee.com###smallNavbar
 babylonbee.com##a[href="https://www.youtube.com/thebabylonbee?sub_confirmation=1"]
