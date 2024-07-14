@@ -668,6 +668,11 @@ babylonbee.com##.my-3.w-full.lg\:w-1\/3
 babylonbee.com##.pt-10.pb-12.px-6.sm\:pt-16.sm\:px-16
 babylonbee.com##.relative.max-w-7xl.mx-auto.px-4.md\:px-6.lg\:px-8.flex.items-center.h-16.justify-between
 babylonbee.com##.relative.w-full.h-16
+google.com.hk##.CbazZd
+google.com##.CbazZd
+blog.csdn.net##.blog_container_aside
+youtube.com###dialog
+youtube.com##.eom-v1-dialog.style-scope.ytd-consent-bump-v2-lightbox
 babylonbee.com##.text-sm.text-gray-600.hover\:text-gray-800.cursor-pointer.mb-2
 babylonbee.com##.text-xl.leading-9.tracking-tight.font-extrabold.text-gray-900.sm\:text-2xl.sm\:leading-10.mt-3
 babylonbee.com###app > div.min-h-screen.bg-global > div > main > div > div > div > div.flex.flex-wrap.w-full.pt-0 > div.mb-2.lg\:pr-8.w-full.lg\:w-2\/3 > div.flex.flex-col.bg-gray-50.rounded.shadow-md.overflow-hidden.mb-4 > div.flex-1.bg-white.pt-0.sm\:px-6.pb-4.flex.flex-col.justify-between > div > div > a
