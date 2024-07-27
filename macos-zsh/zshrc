@@ -38,13 +38,8 @@ alias n="jupyter notebook"
 alias j="jupyter lab"
 alias l="jupyter lab"
 alias a="cd ~/PycharmProjects/adblockplus && code ."
-alias t="cd ~/PycharmProjects/lunde.top && code ."
-alias o="cd ~/PycharmProjects/machine-learning-ocademy && code ."
-alias r="cd ~/Documents/GitHub/reveurmichael-machine-learning && code ."
-alias s="git stash"
-alias y="export all_proxy=http://127.0.0.1:1087"
-alias u="unset all_proxy"
-alias f="git fetch origin && git fetch upstream"
+alias p1="export all_proxy=http://127.0.0.1:1087"
+alias p0="unset all_proxy"
 
 
 # Load pyenv (to manage your Python versions)
