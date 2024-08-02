@@ -8,3 +8,11 @@ How to create your own personal filter list
 
 - https://help.getadblock.com/support/solutions/articles/6000165012-how-to-create-your-own-personal-filter-list
 
+##  sed
+- Linux
+
+sed -i '/bilibili/d' list.txt
+
+- MacOS
+
+sed -i '' '/bilibili/d' list.txt
