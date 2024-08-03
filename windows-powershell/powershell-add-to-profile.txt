@@ -11,10 +11,5 @@ Function CDGITHUB {cd ~\Documents\GitHub}
 Set-Alias -Name g -Value CDGITHUB
 Function CDPYCHARMPROJECTS {cd ~\PycharmProjects}
 Set-Alias -Name p -Value CDPYCHARMPROJECTS
-Function OPENJUPYTERLAB {jupyter lab}
-Set-Alias -Name j -Value OPENJUPYTERLAB
-Set-Alias -Name l -Value OPENJUPYTERLAB
-Function OPENJUPYTERNOTEBOOK {jupyter notebook}
-Set-Alias -Name n -Value OPENJUPYTERNOTEBOOK
 Function ADBLOCKPLUS {cd ~\PycharmProjects\adblockplus; code .}
 Set-Alias -Name a -Value ADBLOCKPLUS
