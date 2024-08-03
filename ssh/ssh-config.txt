@@ -6,10 +6,7 @@ Host 43.156.84.104
     HostName 43.156.84.104
     Port 22
     User lighthouse
-
-Host singapore
-    HostName singapore
-
+    
 Host 43.134.48.9
     HostName 43.134.48.9
     User lighthouse
