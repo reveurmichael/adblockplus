@@ -36,6 +36,7 @@ unalias 1
 alias g="cd ~/Documents/GitHub/"
 alias p="cd ~/PycharmProjects"
 alias z="code ~/.zshrc"
+alias l="ls"
 alias y="/Users/lunde/.pyenv/shims/yt-dlp"
 alias a="cd ~/PycharmProjects/adblockplus && code ."
 alias 1="export all_proxy=http://127.0.0.1:1087"
