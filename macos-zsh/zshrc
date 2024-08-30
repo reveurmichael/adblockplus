@@ -18,11 +18,11 @@ ZSH_DISABLE_COMPFIX=true
 source "${ZSH}/oh-my-zsh.sh"
 
 alias e="open ."
-code () { VSCODE_CWD="$PWD" open -n -b "com.microsoft.VSCode" --args $* ;} # mdls -name kMDItemCFBundleIdentifier /Applications/Visual\ Studio\ Code.app
-c () { VSCODE_CWD="$PWD" open -n -b "com.microsoft.VSCode" --args $* ;}
-v () { VSCODE_CWD="$PWD" open -n -b "com.microsoft.VSCodeInsiders" --args $* ;}
-b () { VSCODE_CWD="$PWD" open -n -b "com.vscodium" --args $* ;}
-n() { cursor "$@" }
+code () { VSCODE_CWD="$PWD" open -n -b "com.microsoft.VSCode" --args "$@" ;} # mdls -name kMDItemCFBundleIdentifier /Applications/Visual\ Studio\ Code.app
+c () { VSCODE_CWD="$PWD" open -n -b "com.microsoft.VSCode" --args "$@" ;}
+v () { VSCODE_CWD="$PWD" open -n -b "com.microsoft.VSCodeInsiders" --args "$@" ;}
+b () { VSCODE_CWD="$PWD" open -n -b "com.vscodium" --args "$@" ;}
+n () { cursor "$@" }
 m () { open -a /Applications/Movavi\ Video\ Suite\ 22.app/Contents/MacOS/ScreenRecorder;}
 
 unalias rm # No interactive rm by default (brought by plugins/common-aliases)
