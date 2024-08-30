@@ -22,8 +22,8 @@ code () { VSCODE_CWD="$PWD" open -n -b "com.microsoft.VSCode" --args $* ;}
 c () { VSCODE_CWD="$PWD" open -n -b "com.microsoft.VSCode" --args $* ;}
 v () { VSCODE_CWD="$PWD" open -n -b "com.microsoft.VSCodeInsiders" --args $* ;}
 b () { VSCODE_CWD="$PWD" open -n -b "com.vscodium" --args $* ;}
+n() { cursor "$@" }
 m () { open -a /Applications/Movavi\ Video\ Suite\ 22.app/Contents/MacOS/ScreenRecorder;}
-movavi () { open -a /Applications/Movavi\ Video\ Suite\ 22.app/Contents/MacOS/ScreenRecorder;}
 
 unalias rm # No interactive rm by default (brought by plugins/common-aliases)
 unalias lt # we need `lt` for https://github.com/localtunnel/localtunnel
