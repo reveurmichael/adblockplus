@@ -18,7 +18,7 @@ ZSH_DISABLE_COMPFIX=true
 source "${ZSH}/oh-my-zsh.sh"
 
 alias e="open ."
-code () { VSCODE_CWD="$PWD" open -n -b "com.microsoft.VSCode" --args $* ;}
+code () { VSCODE_CWD="$PWD" open -n -b "com.microsoft.VSCode" --args $* ;} # mdls -name kMDItemCFBundleIdentifier /Applications/Visual\ Studio\ Code.app
 c () { VSCODE_CWD="$PWD" open -n -b "com.microsoft.VSCode" --args $* ;}
 v () { VSCODE_CWD="$PWD" open -n -b "com.microsoft.VSCodeInsiders" --args $* ;}
 b () { VSCODE_CWD="$PWD" open -n -b "com.vscodium" --args $* ;}
