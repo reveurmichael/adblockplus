@@ -22,7 +22,7 @@ code () { VSCODE_CWD="$PWD" open -n -b "com.microsoft.VSCode" --args "$@" ;} # m
 c () { VSCODE_CWD="$PWD" open -n -b "com.microsoft.VSCode" --args "$@" ;}
 v () { VSCODE_CWD="$PWD" open -n -b "com.microsoft.VSCodeInsiders" --args "$@" ;}
 b () { VSCODE_CWD="$PWD" open -n -b "com.vscodium" --args "$@" ;}
-n () { cursor "$@" }
+n () { cursor "$@" ;}
 m () { open -a /Applications/Movavi\ Video\ Suite\ 22.app/Contents/MacOS/ScreenRecorder;}
 
 unalias rm # No interactive rm by default (brought by plugins/common-aliases)
