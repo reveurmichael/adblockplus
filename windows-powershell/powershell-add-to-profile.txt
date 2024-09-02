@@ -15,5 +15,5 @@ Function CDPYCHARMPROJECTS {cd ~\PycharmProjects}
 Set-Alias -Name p -Value CDPYCHARMPROJECTS
 Function ADBLOCKPLUS {cd ~\PycharmProjects\adblockplus; code .}
 Set-Alias -Name a -Value ADBLOCKPLUS
-Set-Alias -Name 1 -Value "export all_proxy=http://127.0.0.1:1087"
-Set-Alias -Name 0 -Value "unset all_proxy"
+Set-Alias -Name p1 -Value "export all_proxy=http://127.0.0.1:1087"
+Set-Alias -Name p0 -Value "unset all_proxy"
