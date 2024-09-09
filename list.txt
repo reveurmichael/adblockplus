@@ -4257,3 +4257,8 @@ chatgpt.com##.draggable.no-draggable-children.sticky.top-0.p-3.mb-1\.5.flex.item
 chatgpt.com##.relative.w-full.px-2.py-2.text-center.text-xs.text-token-text-secondary.empty\:hidden.md\:px-\[60px\]
 bing.com###tobPrompt
 bing.com##.new
+bing.com###tob_list0
+bing.com##.tob_list_current
+bing.com##.tob_head
+bing.com###tobPrompt
+bing.com##.new
