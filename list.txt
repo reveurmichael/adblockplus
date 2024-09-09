@@ -4248,3 +4248,10 @@ chatgpt.com##.relative.whitespace-nowrap.rounded-2xl.border.border-token-border-
 chatgpt.com##.relative.w-full.px-2.py-2.text-center.text-xs.text-token-text-secondary
 chatgpt.com##.text-token-text-primary.border-token-border-light.bg-token-main-surface-primary.flex.w-full.items-start
 ||i.csdn.net/#/cert-iframe/new-cert
+cn.bing.com###tobPrompt
+cn.bing.com##.new
+chatgpt.com##.text-token-text-primary.border-token-border-light.bg-token-main-surface-primary.flex.w-full.items-start.gap-3.rounded-2xl.border.text-sm.bg-opacity-10.px-3.py-2\.5.md\:p-4
+chatgpt.com##.draggable.no-draggable-children.sticky.top-0
+chatgpt.com##.sticky
+chatgpt.com##.draggable.no-draggable-children.sticky.top-0.p-3.mb-1\.5.flex.items-center.justify-between.z-10.h-14.font-semibold.bg-token-main-surface-primary
+chatgpt.com##.relative.w-full.px-2.py-2.text-center.text-xs.text-token-text-secondary.empty\:hidden.md\:px-\[60px\]
