@@ -39,8 +39,8 @@ alias z="code ~/.zshrc"
 alias l="ls"
 alias y="/Users/lunde/.pyenv/shims/yt-dlp"
 alias a="cd ~/PycharmProjects/adblockplus && code ."
-alias 1="export all_proxy=http://127.0.0.1:1087"
-alias 0="unset all_proxy"
+alias p1="export all_proxy=http://127.0.0.1:1087"
+alias p0="unset all_proxy"
 
 # Load pyenv (to manage your Python versions)
 export PYENV_VIRTUALENV_DISABLE_PROMPT=1
