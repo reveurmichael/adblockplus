@@ -4262,3 +4262,22 @@ bing.com##.tob_list_current
 bing.com##.tob_head
 bing.com###tobPrompt
 bing.com##.new
+w3schools.com##a[href="https://shop.w3schools.com/collections/course-catalog"]
+w3schools.com###user-profile-bottom-wrapper
+zh.wikipedia.org##.va-variant-prompt
+wikipedia.org##.va-variant-prompt
+blog.csdn.net##.csdn-cert-back
+chatgpt.com##.sticky.top-0
+chatgpt.com##.relative.whitespace-nowrap.rounded-2xl.border.border-token-border-light.px-4.py-2.text-start
+chatgpt.com##.relative.w-full.px-2.py-2.text-center.text-xs.text-token-text-secondary
+chatgpt.com##.text-token-text-primary.border-token-border-light.bg-token-main-surface-primary.flex.w-full.items-start
+chatgpt.com##.draggable.no-draggable-children.sticky.top-0
+chatgpt.com##.draggable.no-draggable-children.sticky.top-0.p-3.mb-1\.5.flex.items-center.justify-between.z-10.h-14.font-semibold.bg-token-main-surface-primary
+chatgpt.com##.relative.w-full.px-2.py-2.text-center.text-xs.text-token-text-secondary.empty\:hidden.md\:px-\[60px\]
+chatgpt.com##.text-token-text-primary.border-token-border-light.bg-token-main-surface-primary.flex.w-full.items-start.gap-3.rounded-2xl.border.text-sm.bg-opacity-10.px-3.py-2\.5.md\:p-4
+chatgpt.com##.sticky
+w3schools.com###footerwrapper
+||i.csdn.net/#/cert-iframe/new-cert
+w3schools.com##div[style="position:relative;font-family:'Source Sans Pro', sans-serif;border-radius:25px;color:#FFC0C7;padding:4px 120px 32px 32px;background-color:#282A35"]
+
+
