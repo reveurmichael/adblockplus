@@ -4272,3 +4272,4 @@ tutorialspoint.com###google-right-ads
 tutorialspoint.com###logo-menu
 tutorialspoint.com###print-page
 tutorialspoint.com###stickyparent
+tutorialspoint.com###mainContent > hr:nth-child(2)
