@@ -4255,3 +4255,10 @@ tutorialspoint.com##.library-nav
 tutorialspoint.com##.mini-logo
 tutorialspoint.com##.mui--text-center
 
+tutorialspoint.com##.mui-appbar.mui-container-fulid.mui--appbar-line-height.mui--z1
+tutorialspoint.com##.mui-appbar.mui-container-fulid.top-menu
+tutorialspoint.com##.mui-btn.mui-btn--primary.categories
+tutorialspoint.com##.mui-col-md-12.mui-col-sm-12.np
+tutorialspoint.com##.mui-col-md-2.google-right-ads
+tutorialspoint.com##.mui-container-fluid.button-borders
+tutorialspoint.com##.mui-panel.profile-panel
