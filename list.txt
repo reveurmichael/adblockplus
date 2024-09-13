@@ -4240,18 +4240,20 @@ chatgpt.com##.sticky
 w3schools.com###footerwrapper
 ||i.csdn.net/#/cert-iframe/new-cert
 w3schools.com##div[style="position:relative;font-family:'Source Sans Pro', sans-serif;border-radius:25px;color:#FFC0C7;padding:4px 120px 32px 32px;background-color:#282A35"]
-tutorialspoint.com##.accent-header
-tutorialspoint.com##.back-top
-tutorialspoint.com##.button
-tutorialspoint.com##.center-aligned.tutorial-menu
-tutorialspoint.com##.container-fluid.px-3.px-xl-4
-tutorialspoint.com##.demo
-tutorialspoint.com##.footer__legal
-tutorialspoint.com##.footer__main
-tutorialspoint.com##.google-bottom-ads
-tutorialspoint.com##.header
-tutorialspoint.com##.library-cta
-tutorialspoint.com##.library-nav
-tutorialspoint.com##.mini-logo
-tutorialspoint.com##.mui--text-center
+tutorialspoint.com##.navbar-top
+tutorialspoint.com##.navbar-top.navbar-dark.d-xl-block.py-2.mx-2.mx-md-4.rounded-bottom-4
+tutorialspoint.com##.qa_category
+tutorialspoint.com##.qa_widget.mui-panel.prof-view-artcle
+tutorialspoint.com##.related-heading
+tutorialspoint.com##.right-menu
+tutorialspoint.com##.row.uk-min-height
+tutorialspoint.com##.site-message
+tutorialspoint.com###bottom_navigation
+tutorialspoint.com###ebooks_grid
+tutorialspoint.com###footer
+tutorialspoint.com###google-bottom-ads
+tutorialspoint.com###google-right-ads
+tutorialspoint.com###logo-menu
+tutorialspoint.com###print-page
+tutorialspoint.com###stickyparent
 
