@@ -4262,3 +4262,15 @@ tutorialspoint.com##.mui-col-md-12.mui-col-sm-12.np
 tutorialspoint.com##.mui-col-md-2.google-right-ads
 tutorialspoint.com##.mui-container-fluid.button-borders
 tutorialspoint.com##.mui-panel.profile-panel
+
+tutorialspoint.com##.right-menu
+tutorialspoint.com##.row.uk-min-height
+tutorialspoint.com##.site-message
+tutorialspoint.com###bottom_navigation
+tutorialspoint.com###ebooks_grid
+tutorialspoint.com###footer
+tutorialspoint.com###google-bottom-ads
+tutorialspoint.com###google-right-ads
+tutorialspoint.com###logo-menu
+tutorialspoint.com###print-page
+tutorialspoint.com###stickyparent
