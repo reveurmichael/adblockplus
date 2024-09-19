@@ -24,7 +24,7 @@ def compress_videos(folder_path):
         ], check=True)
 
         os.remove(log_file)
-        os.remove(input_path)
+        # os.remove(input_path)
 
         print(f"Processed: {video_file} -> {output_path}")
 
