@@ -4277,3 +4277,4 @@ tutorialspoint.com###mainContent > hr:nth-child(5)
 runoob.com##.article-heading-ad
 babylonbee.com##.youtube-container
 babylonbee.com##iframe
+babylonbee.com##.text-sm.underline
