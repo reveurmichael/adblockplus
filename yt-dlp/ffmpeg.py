@@ -11,14 +11,14 @@ def compress_videos(folder_path):
 
         subprocess.run([
             'ffmpeg', '-y', '-i', input_path,
-            '-c:v', 'libx264', '-crf', '23',  
+            '-c:v', 'libx264', '-b:v', '2000k',  
             '-pass', '1', '-an', '-f', 'mp4',
             log_file
         ], check=True)
 
         subprocess.run([
             'ffmpeg', '-y', '-i', input_path,
-            '-c:v', 'libx264', '-crf', '23', 
+            '-c:v', 'libx264', '-b:v', '2000k', 
             '-pass', '2', '-c:a', 'aac', '-b:a', '128k',
             output_path
         ], check=True)
