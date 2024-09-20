@@ -1,4 +1,9 @@
-  Host wsl2222
+Host singapore
+    HostName 129.226.148.125
+    User lighthouse
+    Port 22
+
+Host wsl2222
     HostName 58.199.170.73
     User utseus22
     Port 2222
@@ -19,3 +24,4 @@ Host *
     ServerAliveInterval 50
     ServerAliveCountMax 9999
     StrictHostKeyChecking no
+
