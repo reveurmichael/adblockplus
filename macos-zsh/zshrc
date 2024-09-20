@@ -25,6 +25,8 @@ b () { VSCODE_CWD="$PWD" open -n -b "com.vscodium" --args "$@" ;}
 n () { cursor "$@" ;}
 m () { open -a /Applications/Movavi\ Video\ Suite\ 22.app/Contents/MacOS/ScreenRecorder;}
 
+bb () { bbdown -p ALL "$@" ;}
+
 unalias rm # No interactive rm by default (brought by plugins/common-aliases)
 unalias lt # we need `lt` for https://github.com/localtunnel/localtunnel
 unalias g
@@ -37,7 +39,7 @@ alias g="cd ~/Documents/GitHub/"
 alias p="cd ~/PycharmProjects"
 alias z="code ~/.zshrc"
 alias l="ls"
-alias y="/Users/lunde/.pyenv/shims/yt-dlp"
+alias y="yt-dlp"
 alias a="cd ~/PycharmProjects/adblockplus && code ."
 alias p1="export all_proxy=http://127.0.0.1:1087"
 alias p0="unset all_proxy"

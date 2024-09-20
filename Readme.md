@@ -8,7 +8,7 @@ How to create your own personal filter list
 
 - https://help.getadblock.com/support/solutions/articles/6000165012-how-to-create-your-own-personal-filter-list
 
-##  sed
+##  sed remove 
 - Linux
 
 sed -i '/bilibili/d' list.txt
@@ -16,3 +16,7 @@ sed -i '/bilibili/d' list.txt
 - MacOS
 
 sed -i '' '/bilibili/d' list.txt
+
+## powershell arguments
+function fBB { bbdown -p ALL $args } 
+Set-Alias bb fBB
