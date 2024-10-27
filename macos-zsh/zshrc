@@ -23,9 +23,10 @@ c () { VSCODE_CWD="$PWD" open -n -b "com.microsoft.VSCode" --args "$@" ;}
 v () { VSCODE_CWD="$PWD" open -n -b "com.microsoft.VSCodeInsiders" --args "$@" ;}
 b () { VSCODE_CWD="$PWD" open -n -b "com.vscodium" --args "$@" ;}
 n () { cursor "$@" ;}
+tsinghua-pip () { unset all_proxy; pip install -i https://pypi.tuna.tsinghua.edu.cn/simple "$@" ;}
 m () { open -a /Applications/Movavi\ Video\ Suite\ 22.app/Contents/MacOS/ScreenRecorder;}
 
-bb () { bbdown -p ALL "$@" ;}
+bilibili () { bbdown -p ALL "$@" ;}
 
 unalias rm # No interactive rm by default (brought by plugins/common-aliases)
 unalias lt # we need `lt` for https://github.com/localtunnel/localtunnel
