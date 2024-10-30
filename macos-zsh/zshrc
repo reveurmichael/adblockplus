@@ -23,6 +23,7 @@ c () { VSCODE_CWD="$PWD" open -n -b "com.microsoft.VSCode" --args "$@" ;}
 v () { VSCODE_CWD="$PWD" open -n -b "com.microsoft.VSCodeInsiders" --args "$@" ;}
 b () { VSCODE_CWD="$PWD" open -n -b "com.vscodium" --args "$@" ;}
 n () { cursor "$@" ;}
+j () { jupyter notebook "$@" ;}
 tsinghua-pip () { unset all_proxy; pip install -i https://pypi.tuna.tsinghua.edu.cn/simple "$@" ;}
 m () { open -a /Applications/Movavi\ Video\ Suite\ 22.app/Contents/MacOS/ScreenRecorder;}
 
