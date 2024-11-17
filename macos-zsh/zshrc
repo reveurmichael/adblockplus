@@ -61,4 +61,4 @@ export LC_ALL=en_US.UTF-8
 # Set ipdb as the default Python debugger
 export PYTHONBREAKPOINT=ipdb.set_trace
 
-export all_proxy=http://127.0.0.1:1087
+# export all_proxy=http://127.0.0.1:1087
