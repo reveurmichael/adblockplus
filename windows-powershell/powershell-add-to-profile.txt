@@ -16,11 +16,16 @@ Set-Alias -Name p -Value CDPYCHARMPROJECTS
 Function ADBLOCKPLUS {cd ~\PycharmProjects\adblockplus; code .}
 Set-Alias -Name a -Value ADBLOCKPLUS
 
+function tsinghua-pip-func {
+    param (
+        [string[]]$args
+    )
+    pip install -i https://pypi.tuna.tsinghua.edu.cn/simple @args
+}
+Set-Alias -Name tsinghua-pip -Value tsinghua-pip-func 
+
 function SetProxy { $env:http_proxy = "http://127.0.0.1:10809"; $env:https_proxy = "http://127.0.0.1:10809" }
 function UnsetProxy { Remove-Item Env:http_proxy; Remove-Item Env:https_proxy }
 function UnsetProxy2 { $env:http_proxy = ""; $env:https_proxy = "" }
 Set-Alias -Name p1 -Value SetProxy
 Set-Alias -Name p0 -Value UnsetProxy
-
-function fBB { bbdown -p ALL $args } 
-Set-Alias bb fBB
