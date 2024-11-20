@@ -1,10 +1,10 @@
-[Adblock Plus 2.0]
-! Version:
-! Title:
-! Last modified:
+!
 ! Expires: 1 days (update frequency)
 ! Homepage:
-!
+! Last modified:
+! Title:
+! Version:
+[Adblock Plus 2.0]
 ##.a1DBFd
 ##.a9nkvf
 ##.aajZCb
@@ -27,6 +27,7 @@
 ##.bTZTkf.uXmgWc
 ##.BwoPOe
 ##.c-tip-con
+##.c5aZPb
 ##.catalogue_tabs.catalogue_baike
 ##.chrome-app
 ##.clear-button.XoaYSb
@@ -370,7 +371,6 @@
 ##span[class="ACRAdd M2vV3"]
 ##totop
 ##yt-icon[class="style-scope ytd-searchbox"]
-##.c5aZPb
 ||accounts./gsi/iframe/select
 ||accounts.google.com/gsi/iframe/select
 ||api.map.baidu.com/images/copyright_logo.png
@@ -420,6 +420,7 @@
 ||googleapis.com^$domain=medium.com
 ||https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/themes/edu-new/js/jquery.min.js
 ||https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/themes/edu-new/js/mustache.js
+||i.csdn.net/#/cert-iframe/new-cert
 ||i.ytimg.com/an/0ckjBtm9SBV7JAjbELiBqQ/featured_channel.jpg
 ||i.ytimg.com/an/9Bh8GeuDVfjMRet_KAwA0A/featured_channel.jpg
 ||i.ytimg.com/an/kbFiBwMYMXAqifXF4xo5Uw/featured_channel.jpg
@@ -645,11 +646,13 @@ atlassian.com##.is-empty._input
 atlassian.com##.search-button.search-open
 atlassian.com##.topbar.is-tutorial
 atlassian.com###footer
+babylonbee.com##.absolute.bottom-0.left-0.p-2.sm\:p-3.flex.items-center.space-x-1.sm\:space-x-0.justify-between.flex-wrap.w-full
 babylonbee.com##.absolute.inset-0.bg-gray-500.dark\:bg-gray-900.opacity-75
 babylonbee.com##.bg-gray-50.rounded-lg.shadow-xl.transition-all.max-h-screen-minus-header.overflow-y-auto.overscroll-contain.scrolling-touch.relative.sm\:w-full.sm\:max-w-screen-md.py-3
 babylonbee.com##.bg-gray-800
 babylonbee.com##.bg-white.fixed.w-full.z-30.transition-all.ease-in-out.duration-150.flex.items-center.h-16
 babylonbee.com##.bg-white.fixed.w-full.z-30.transition-all.ease-in-out.duration-150.items-center.h-16.border-b.border-gray-200
+babylonbee.com##.border.border-gray-300.rounded-lg.shadow-sm.focus-within\:border-blue-500.focus-within\:ring-1.focus-within\:ring-blue-500
 babylonbee.com##.btn-gray.p-6.shadow-lg
 babylonbee.com##.card.alert-info-base.mt-6
 babylonbee.com##.fc-button-background
@@ -658,22 +661,17 @@ babylonbee.com##.fc-dialog-scrollable-content
 babylonbee.com##.font-bold
 babylonbee.com##.grid.grid-cols-2.gap-4
 babylonbee.com##.mx-auto.max-w-screen-xl.px-5.sm\:px-6.lg\:px-8.min-h-\[352px\].sm\:min-h-\[316px\].flex.items-center
-babylonbee.com##.absolute.bottom-0.left-0.p-2.sm\:p-3.flex.items-center.space-x-1.sm\:space-x-0.justify-between.flex-wrap.w-full
-babylonbee.com##.rounded-t-lg.block.w-full.py-3.\!pr-10.border-0.resize-none.focus\:ring-0.disabled\:bg-gray-100.disabled\:text-gray-600
-babylonbee.com##.overflow-hidden.h-1.text-xs.flex.bg-gray-200.w-full.transition-300
-babylonbee.com##.pt-3.sm\:pt-5
-babylonbee.com##.border.border-gray-300.rounded-lg.shadow-sm.focus-within\:border-blue-500.focus-within\:ring-1.focus-within\:ring-blue-500
 babylonbee.com##.my-3.w-full.lg\:w-1\/3
+babylonbee.com##.overflow-hidden.h-1.text-xs.flex.bg-gray-200.w-full.transition-300
 babylonbee.com##.pt-10.pb-12.px-6.sm\:pt-16.sm\:px-16
+babylonbee.com##.pt-3.sm\:pt-5
 babylonbee.com##.relative.max-w-7xl.mx-auto.px-4.md\:px-6.lg\:px-8.flex.items-center.h-16.justify-between
 babylonbee.com##.relative.w-full.h-16
-google.com.hk##.CbazZd
-google.com##.CbazZd
-blog.csdn.net##.blog_container_aside
-youtube.com###dialog
-youtube.com##.eom-v1-dialog.style-scope.ytd-consent-bump-v2-lightbox
+babylonbee.com##.rounded-t-lg.block.w-full.py-3.\!pr-10.border-0.resize-none.focus\:ring-0.disabled\:bg-gray-100.disabled\:text-gray-600
 babylonbee.com##.text-sm.text-gray-600.hover\:text-gray-800.cursor-pointer.mb-2
+babylonbee.com##.text-sm.underline
 babylonbee.com##.text-xl.leading-9.tracking-tight.font-extrabold.text-gray-900.sm\:text-2xl.sm\:leading-10.mt-3
+babylonbee.com##.youtube-container
 babylonbee.com###app > div.min-h-screen.bg-global > div > main > div > div > div > div.flex.flex-wrap.w-full.pt-0 > div.mb-2.lg\:pr-8.w-full.lg\:w-2\/3 > div.flex.flex-col.bg-gray-50.rounded.shadow-md.overflow-hidden.mb-4 > div.flex-1.bg-white.pt-0.sm\:px-6.pb-4.flex.flex-col.justify-between > div > div > a
 babylonbee.com###app > div.min-h-screen.bg-global > div > main > div > div > div > div.flex.flex-wrap.w-full.pt-0 > div.mb-2.lg\:pr-8.w-full.lg\:w-2\/3 > div.flex.flex-col.bg-gray-50.rounded.shadow-md.overflow-hidden.mb-4 > div.flex-1.bg-white.pt-0.sm\:px-6.pb-4.flex.flex-col.justify-between > div > div > hr
 babylonbee.com###app > div.min-h-screen.bg-global > div > main > div > div > div > div.flex.flex-wrap.w-full.pt-0 > div.mb-2.lg\:pr-8.w-full.lg\:w-2\/3 > div.flex.flex-col.bg-gray-50.rounded.shadow-md.overflow-hidden.mb-4 > div.flex-1.bg-white.pt-0.sm\:px-6.pb-4.flex.flex-col.justify-between > div > div > p:nth-child(9)
@@ -687,6 +685,7 @@ babylonbee.com###app > div.min-h-screen.bg-global > div.pb-2.bg-global.pt-16.z-1
 babylonbee.com###comments
 babylonbee.com###smallNavbar
 babylonbee.com##a[href="https://www.youtube.com/thebabylonbee?sub_confirmation=1"]
+babylonbee.com##iframe
 baidu.com##._2kfubre.ec-vcion.ec-no-w-shadow
 baidu.com##._3zs5vdf.c-gap-top-xsmall
 baidu.com##._67s37wu.wbrjf67
@@ -982,6 +981,7 @@ bing.com##.gtt_left
 bing.com##.header
 bing.com##.mfa_btn
 bing.com##.mic_icon.sb_icon
+bing.com##.new
 bing.com##.null
 bing.com##.pageRecoContainer
 bing.com##.sa_drw
@@ -996,6 +996,8 @@ bing.com##.tdw_visitable_link
 bing.com##.thumb_n.feedback-binded
 bing.com##.thumb_y.feedback-binded
 bing.com##.tipContainer.b_cards
+bing.com##.tob_head
+bing.com##.tob_list_current
 bing.com##.tog-query-link
 bing.com##.tray
 bing.com##.tray_toggles
@@ -1029,6 +1031,8 @@ bing.com###sw_clx
 bing.com###textDeeplinksWidgetContainer
 bing.com###thumb_f5
 bing.com###thumb_t5
+bing.com###tob_list0
+bing.com###tobPrompt
 bing.com###tog-qry-link
 bing.com###vs_cont
 bing.com###vs_mic_icon
@@ -1054,6 +1058,7 @@ blog.csdn.net##.column-group-item.column-group2
 blog.csdn.net##.comment-box
 blog.csdn.net##.comment-edit-box.d-flex
 blog.csdn.net##.comment-list-box
+blog.csdn.net##.csdn-cert-back
 blog.csdn.net##.csdn-redpack-container
 blog.csdn.net##.csdn-side-toolbar
 blog.csdn.net##.csdn-toolbar.tb_disnone
@@ -1222,6 +1227,7 @@ cn.bing.com##.id_button
 cn.bing.com##.lgw-slide-in
 cn.bing.com##.mfa_btn
 cn.bing.com##.mic_cont.icon
+cn.bing.com##.new
 cn.bing.com##.null
 cn.bing.com##.pageRecoContainer
 cn.bing.com##.sa_fd.feedback-binded
@@ -1283,6 +1289,7 @@ cn.bing.com###serpvidans
 cn.bing.com###sw_clx
 cn.bing.com###thumb_f5
 cn.bing.com###thumb_t5
+cn.bing.com###tobPrompt
 cn.bing.com###tog-qry-link
 cn.bing.com###vs_cont
 cn.bing.com###wikiWidgetContainer
@@ -2077,6 +2084,7 @@ google.com.hk##.BKRPef
 google.com.hk##.BKRPef.M2vV3
 google.com.hk##.c5aZPb
 google.com.hk##.CbazZd
+google.com.hk##.CdXeWb.z1asCe.Fp7My
 google.com.hk##.ClpmGe
 google.com.hk##.CMLaue.aL9Gkc.mIKy0c.dGWpb
 google.com.hk##.CNf3nf.LhCR5d
@@ -2147,6 +2155,7 @@ google.com.hk##.lBbtTb.z1asCe.rzyADb
 google.com.hk##.logo
 google.com.hk##.LXauYe
 google.com.hk##.mfMhoc
+google.com.hk##.MJ8UF.iTPLzd.rNSxBe.eY4mx.lUn2nc
 google.com.hk##.MjUjnf.VM6qJ.ccRsrb
 google.com.hk##.Ml4I6c
 google.com.hk##.mR2gOd
@@ -2173,6 +2182,7 @@ google.com.hk##.r21Kzd
 google.com.hk##.r21Kzd.cye-lm-tag
 google.com.hk##.RBevQb.iUh30
 google.com.hk##.REySof
+google.com.hk##.rfiSsc.JiJthb
 google.com.hk##.S4UV0.r2fjmd.pAbhZc.ouy7Mc.cB4NFc.GUHazd
 google.com.hk##.s6MObf
 google.com.hk##.s6MObf 
@@ -2359,6 +2369,7 @@ google.com##.logo
 google.com##.logo.doodle
 google.com##.LXauYe
 google.com##.M2vV3.vOY7J
+google.com##.MJ8UF.iTPLzd.rNSxBe.eY4mx.lUn2nc
 google.com##.MjUjnf.VM6qJ
 google.com##.mNoUmd.TZZypb.mfMhoc
 google.com##.mp5Tqb
@@ -3278,6 +3289,7 @@ researchgate.net##.nova-legacy-l-flex__item.nova-legacy-l-flex.nova-legacy-l-fle
 researchgate.net##.nova-legacy-o-pack__item.item
 researchgate.net##.research-resources-summary__menubar
 researchgate.net###lite-page::before
+runoob.com##.article-heading-ad
 runoob.com##.cate-items
 runoob.com##.col.logo
 runoob.com##.col.nav
@@ -3414,14 +3426,19 @@ softwaretestinghelp.com##.tve_p_lb_overlay
 softwaretestinghelp.com###site-navigation
 softwaretestinghelp.com###sticky-navigation
 softwaretestinghelp.com##a[class="generate-back-to-top"]
+sohu.com##.abroad-share-box
 sohu.com##.allsee-list.clear
 sohu.com##.column.left
 sohu.com##.error-head
 sohu.com##.float-links
 sohu.com##.god-article-bottom
+sohu.com##.groom-read
 sohu.com##.news-box.clear
+sohu.com##.news-list
 sohu.com##.sidebar.right
+sohu.com###abroad-share-box
 sohu.com###allseeList
+sohu.com###comment_area
 sohu.com###float-btn
 sohu.com###god_bottom_banner
 sohu.com###main-header
@@ -3773,6 +3790,40 @@ translate.google.com##.a88hkc
 translate.google.com##.nidPne
 translate.google.com##.qgyq3b
 translate.google.com##.VlPnLc
+tutorialspoint.com##.accent-header
+tutorialspoint.com##.back-top
+tutorialspoint.com##.button
+tutorialspoint.com##.center-aligned.tutorial-menu
+tutorialspoint.com##.container-fluid.px-3.px-xl-4
+tutorialspoint.com##.demo
+tutorialspoint.com##.footer__legal
+tutorialspoint.com##.footer__main
+tutorialspoint.com##.google-bottom-ads
+tutorialspoint.com##.header
+tutorialspoint.com##.library-cta
+tutorialspoint.com##.library-nav
+tutorialspoint.com##.mini-logo
+tutorialspoint.com##.mui--text-center
+tutorialspoint.com##.mui-appbar.mui-container-fulid.mui--appbar-line-height.mui--z1
+tutorialspoint.com##.mui-appbar.mui-container-fulid.top-menu
+tutorialspoint.com##.mui-btn.mui-btn--primary.categories
+tutorialspoint.com##.mui-col-md-12.mui-col-sm-12.np
+tutorialspoint.com##.mui-col-md-2.google-right-ads
+tutorialspoint.com##.mui-container-fluid.button-borders
+tutorialspoint.com##.mui-panel.profile-panel
+tutorialspoint.com##.right-menu
+tutorialspoint.com##.row.uk-min-height
+tutorialspoint.com##.site-message
+tutorialspoint.com###bottom_navigation
+tutorialspoint.com###ebooks_grid
+tutorialspoint.com###footer
+tutorialspoint.com###google-bottom-ads
+tutorialspoint.com###google-right-ads
+tutorialspoint.com###logo-menu
+tutorialspoint.com###mainContent > hr:nth-child(2)
+tutorialspoint.com###mainContent > hr:nth-child(5)
+tutorialspoint.com###print-page
+tutorialspoint.com###stickyparent
 twitch.tv##.channel-leaderboard-header-rotating__users.tw-flex-nowrap.tw-full-height.tw-full-width.tw-inline-flex.tw-justify-content-center
 twitch.tv##.channel-panels
 twitch.tv##.chat-author__display-name
@@ -3850,6 +3901,7 @@ w3schools.com##.w3-panel
 w3schools.com##.ws-black
 w3schools.com###darkmodemenu
 w3schools.com###footer
+w3schools.com###footerwrapper
 w3schools.com###getdiploma
 w3schools.com###getwebsitebtn
 w3schools.com###pagetop
@@ -3858,6 +3910,9 @@ w3schools.com###scroll_right_btn
 w3schools.com###subtopnav
 w3schools.com###tryhome
 w3schools.com###tryitLeaderboard
+w3schools.com###user-profile-bottom-wrapper
+w3schools.com##a[href="https://shop.w3schools.com/collections/course-catalog"]
+w3schools.com##div[style="position:relative;font-family:'Source Sans Pro', sans-serif;border-radius:25px;color:#FFC0C7;padding:4px 120px 32px 32px;background-color:#282A35"]
 w3schools.com##h3[style="text-align:center;font-size:16px;"]
 weibo.com##.WB_footer.S_bg2
 weibo.com##.WB_global_nav.WB_global_nav_v2.UI_top_hidden
@@ -3884,6 +3939,8 @@ wikihow.com##.contribute2.show
 wikihow.com###article_courses_banner
 wikipedia.org##.box-More_citations_needed.plainlinks.metadata.ambox.ambox-content.ambox-Refimprove
 wikipedia.org##.box-More_footnotes.plainlinks.metadata.ambox.ambox-style.ambox-More_footnotes
+wikipedia.org##.box-No_footnotes
+wikipedia.org##.box-Refimprove
 wikipedia.org##.cn-fundraising
 wikipedia.org##.frb-footer-button
 wikipedia.org##.frb-inline-main
@@ -3901,9 +3958,11 @@ wikipedia.org##.side-box-flex
 wikipedia.org##.side-box-text.plainlist
 wikipedia.org##.side-box.side-box-right.plainlinks.sistersitebox
 wikipedia.org##.toctogglespan
+wikipedia.org##.va-variant-prompt
 wikipedia.org##.vector-dropdown-checkbox
 wikipedia.org##.vector-dropdown-label
 wikipedia.org##.vector-header-start
+wikipedia.org##.vector-header.mw-header
 wikipedia.org##.vector-limited-width-popup
 wikipedia.org##.vector-limited-width-toggle
 wikipedia.org##.vector-main-menu-container
@@ -4014,6 +4073,7 @@ youtube.com##.content-title.style-scope.ytd-clarification-renderer
 youtube.com##.content.style-scope.ytd-clarification-renderer
 youtube.com##.content.style-scope.ytd-info-panel-content-renderer
 youtube.com##.description.style-scope.ytd-clarification-renderer
+youtube.com##.eom-v1-dialog.style-scope.ytd-consent-bump-v2-lightbox
 youtube.com##.header.style-scope.ytd-info-panel-container-renderer
 youtube.com##.opened
 youtube.com##.sbdd_b
@@ -4090,6 +4150,7 @@ youtube.com###actions
 youtube.com###chat
 youtube.com###chips
 youtube.com###country-code
+youtube.com###dialog
 youtube.com###endpoint
 youtube.com###endpoint-link
 youtube.com###expand-icon
@@ -4130,6 +4191,8 @@ youtubekids.com##tp-yt-paper-button[id="privacy-notice-button"]
 youtubekids.com##tp-yt-paper-icon-button[id="player-autoplay-button"]
 youtubekids.com##tp-yt-paper-icon-button[id="player-next-button"]
 youtubekids.com##tp-yt-paper-icon-button[id="volume-button"]
+zh.wikipedia.org##.box-No_footnotes
+zh.wikipedia.org##.box-Refimprove
 zh.wikipedia.org##.catlinks
 zh.wikipedia.org##.cnotice
 zh.wikipedia.org##.message.survey-content
@@ -4140,6 +4203,8 @@ zh.wikipedia.org##.mwe-popups
 zh.wikipedia.org##.navbox
 zh.wikipedia.org##.noprint
 zh.wikipedia.org##.toctogglespan
+zh.wikipedia.org##.va-variant-prompt
+zh.wikipedia.org##.vector-header.mw-header
 zh.wikipedia.org###asn-dismissable-notice
 zh.wikipedia.org###catlinks
 zh.wikipedia.org###footer
@@ -4183,98 +4248,3 @@ zionladder.com##.footer.fixed-bottom
 zionladder.com###footer
 zionladder.com###launcher
 zionladder.com###totop
-zh.wikipedia.org##.vector-header.mw-header
-wikipedia.org##.vector-header.mw-header
-zh.wikipedia.org##.box-Refimprove
-wikipedia.org##.box-Refimprove
-zh.wikipedia.org##.box-No_footnotes
-wikipedia.org##.box-No_footnotes
-google.com##.h7Tj7e
-google.com.hk##.CdXeWb.z1asCe.Fp7My
-google.com.hk##.zLSRge.w2jn8d.OMqmfd
-google.com##.zLSRge.w2jn8d.OMqmfd
-google.com.hk##.rfiSsc.JiJthb
-sohu.com##.news-list
-sohu.com##.groom-read
-sohu.com###comment_area
-sohu.com###abroad-share-box
-sohu.com##.abroad-share-box
-google.com.hk##.MJ8UF.iTPLzd.rNSxBe.eY4mx.lUn2nc
-google.com##.MJ8UF.iTPLzd.rNSxBe.eY4mx.lUn2nc
-zh.wikipedia.org##.va-variant-prompt
-wikipedia.org##.va-variant-prompt
-blog.csdn.net##.csdn-cert-back
-chatgpt.com##.sticky.top-0
-chatgpt.com##.relative.whitespace-nowrap.rounded-2xl.border.border-token-border-light.px-4.py-2.text-start
-chatgpt.com##.relative.w-full.px-2.py-2.text-center.text-xs.text-token-text-secondary
-chatgpt.com##.text-token-text-primary.border-token-border-light.bg-token-main-surface-primary.flex.w-full.items-start
-||i.csdn.net/#/cert-iframe/new-cert
-cn.bing.com###tobPrompt
-cn.bing.com##.new
-chatgpt.com##.text-token-text-primary.border-token-border-light.bg-token-main-surface-primary.flex.w-full.items-start.gap-3.rounded-2xl.border.text-sm.bg-opacity-10.px-3.py-2\.5.md\:p-4
-chatgpt.com##.draggable.no-draggable-children.sticky.top-0
-chatgpt.com##.sticky
-chatgpt.com##.draggable.no-draggable-children.sticky.top-0.p-3.mb-1\.5.flex.items-center.justify-between.z-10.h-14.font-semibold.bg-token-main-surface-primary
-chatgpt.com##.relative.w-full.px-2.py-2.text-center.text-xs.text-token-text-secondary.empty\:hidden.md\:px-\[60px\]
-bing.com###tobPrompt
-bing.com##.new
-bing.com###tob_list0
-bing.com##.tob_list_current
-bing.com##.tob_head
-bing.com###tobPrompt
-bing.com##.new
-w3schools.com##a[href="https://shop.w3schools.com/collections/course-catalog"]
-w3schools.com###user-profile-bottom-wrapper
-zh.wikipedia.org##.va-variant-prompt
-wikipedia.org##.va-variant-prompt
-blog.csdn.net##.csdn-cert-back
-chatgpt.com##.sticky.top-0
-chatgpt.com##.relative.whitespace-nowrap.rounded-2xl.border.border-token-border-light.px-4.py-2.text-start
-chatgpt.com##.relative.w-full.px-2.py-2.text-center.text-xs.text-token-text-secondary
-chatgpt.com##.text-token-text-primary.border-token-border-light.bg-token-main-surface-primary.flex.w-full.items-start
-chatgpt.com##.draggable.no-draggable-children.sticky.top-0
-chatgpt.com##.draggable.no-draggable-children.sticky.top-0.p-3.mb-1\.5.flex.items-center.justify-between.z-10.h-14.font-semibold.bg-token-main-surface-primary
-chatgpt.com##.relative.w-full.px-2.py-2.text-center.text-xs.text-token-text-secondary.empty\:hidden.md\:px-\[60px\]
-chatgpt.com##.text-token-text-primary.border-token-border-light.bg-token-main-surface-primary.flex.w-full.items-start.gap-3.rounded-2xl.border.text-sm.bg-opacity-10.px-3.py-2\.5.md\:p-4
-chatgpt.com##.sticky
-w3schools.com###footerwrapper
-||i.csdn.net/#/cert-iframe/new-cert
-w3schools.com##div[style="position:relative;font-family:'Source Sans Pro', sans-serif;border-radius:25px;color:#FFC0C7;padding:4px 120px 32px 32px;background-color:#282A35"]
-tutorialspoint.com##.accent-header
-tutorialspoint.com##.back-top
-tutorialspoint.com##.button
-tutorialspoint.com##.center-aligned.tutorial-menu
-tutorialspoint.com##.container-fluid.px-3.px-xl-4
-tutorialspoint.com##.demo
-tutorialspoint.com##.footer__legal
-tutorialspoint.com##.footer__main
-tutorialspoint.com##.google-bottom-ads
-tutorialspoint.com##.header
-tutorialspoint.com##.library-cta
-tutorialspoint.com##.library-nav
-tutorialspoint.com##.mini-logo
-tutorialspoint.com##.mui--text-center
-tutorialspoint.com##.mui-appbar.mui-container-fulid.mui--appbar-line-height.mui--z1
-tutorialspoint.com##.mui-appbar.mui-container-fulid.top-menu
-tutorialspoint.com##.mui-btn.mui-btn--primary.categories
-tutorialspoint.com##.mui-col-md-12.mui-col-sm-12.np
-tutorialspoint.com##.mui-col-md-2.google-right-ads
-tutorialspoint.com##.mui-container-fluid.button-borders
-tutorialspoint.com##.mui-panel.profile-panel
-tutorialspoint.com##.right-menu
-tutorialspoint.com##.row.uk-min-height
-tutorialspoint.com##.site-message
-tutorialspoint.com###bottom_navigation
-tutorialspoint.com###ebooks_grid
-tutorialspoint.com###footer
-tutorialspoint.com###google-bottom-ads
-tutorialspoint.com###google-right-ads
-tutorialspoint.com###logo-menu
-tutorialspoint.com###print-page
-tutorialspoint.com###stickyparent
-tutorialspoint.com###mainContent > hr:nth-child(2)
-tutorialspoint.com###mainContent > hr:nth-child(5)
-runoob.com##.article-heading-ad
-babylonbee.com##.youtube-container
-babylonbee.com##iframe
-babylonbee.com##.text-sm.underline
