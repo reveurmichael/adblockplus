@@ -948,7 +948,6 @@ bbs.csdn.net##.csdn-side-toolbar
 bbs.csdn.net##.nav_com
 bbs.csdn.net##.right_item
 bbs.csdn.net##.toolbar-container
-bibibili.com##a[class="ad-report video-card-ad-small"]
 bing.com.cn##div[id="b_icon_spyglass"]
 bing.com##.as_rmhswarning
 bing.com##.b_algospacing_block
