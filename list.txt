@@ -4364,3 +4364,12 @@ yicai.com##.cmtPannel
 yicai.com##.m-list
 yicai.com###ychot
 yicai.com##.m-con.m-box7
+youtube.com###pivot-button
+youtube.com##.ytwPivotButtonViewModelHost
+youtube.com##.yt-spec-button-shape-next.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next--overlay.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--icon-leading
+baidu.com##.new_search_guide_bub_container
+youtube.com##.yt-spec-touch-feedback-shape.yt-spec-touch-feedback-shape--overlay-touch-response-inverse
+youtube.com##.ytShortsSuggestedActionViewModelStaticHostContainer
+youtube.com##.ytReelMultiFormatLinkViewModelHost.ytReelMultiFormatLinkViewModelHostTall
+youtube.com##.yt-core-attributed-string.ytReelMultiFormatLinkViewModelTitle.yt-core-attributed-string--white-space-pre-wrap
+youtube.com##.ytReelMultiFormatLinkViewModelEndpoint
